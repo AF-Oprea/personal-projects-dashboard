@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 364" width="880" height="364" role="img" aria-label="Stream complexity utility languages">
+<title>Streams</title>
+<rect width="880" height="364" rx="24" fill="#07080b"/>
+<rect x="1.2" y="1.2" width="877.6" height="361.6" rx="22.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
+<rect x="24" y="16" width="832" height="26" rx="8" fill="#151820"/>
+<text x="48" y="33" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.1">STREAM</text>
+<text x="188" y="33" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.1">CXP</text>
+<text x="248" y="33" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.1">UTIL</text>
+<text x="318" y="33" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.1">LOC</text>
+<text x="398" y="33" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.1">STAGE</text>
+<text x="488" y="33" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.1">INDEX</text>
+<text x="578" y="33" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.1">LANGUAGES</text>
+<rect x="24" y="46" width="832" height="36" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="48" y="69" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">runguard</text>
+<text x="188" y="69" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">5/5</text>
+<text x="248" y="69" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">5/5</text>
+<text x="318" y="69" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">96.3k</text>
+<text x="398" y="69" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">71.7%</text>
+<text x="488" y="69" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">91</text>
+<text x="578" y="69" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Go · TS · C# · Python</text>
+<rect x="24" y="88" width="832" height="36" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="48" y="111" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">stellami</text>
+<text x="188" y="111" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">4/5</text>
+<text x="248" y="111" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">5/5</text>
+<text x="318" y="111" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">165k</text>
+<text x="398" y="111" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">50.0%</text>
+<text x="488" y="111" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">111</text>
+<text x="578" y="111" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Python · JS · Sh · PS</text>
+<rect x="24" y="130" width="832" height="36" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="48" y="153" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">esp-lab-jack</text>
+<text x="188" y="153" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">3/5</text>
+<text x="248" y="153" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
+<text x="318" y="153" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">983</text>
+<text x="398" y="153" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">66.0%</text>
+<text x="488" y="153" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">57</text>
+<text x="578" y="153" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">C++ · C · Sh · YAML</text>
+<rect x="24" y="172" width="832" height="36" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="48" y="195" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">stellami-marketing</text>
+<text x="188" y="195" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
+<text x="248" y="195" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
+<text x="318" y="195" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">7k</text>
+<text x="398" y="195" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">50.0%</text>
+<text x="488" y="195" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">80</text>
+<text x="578" y="195" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Python · HTML · CSS</text>
+<rect x="24" y="214" width="832" height="36" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="48" y="237" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">PeriFX</text>
+<text x="188" y="237" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
+<text x="248" y="237" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
+<text x="318" y="237" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">4k</text>
+<text x="398" y="237" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">54.2%</text>
+<text x="488" y="237" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">80</text>
+<text x="578" y="237" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Python · Sh · JS · HTML</text>
+<rect x="24" y="256" width="832" height="36" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="48" y="279" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">EASM</text>
+<text x="188" y="279" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
+<text x="248" y="279" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
+<text x="318" y="279" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">3k</text>
+<text x="398" y="279" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">65.4%</text>
+<text x="488" y="279" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">80</text>
+<text x="578" y="279" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Python · Sh · HTML · YAML</text>
+<rect x="24" y="298" width="832" height="36" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="48" y="321" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">WASH</text>
+<text x="188" y="321" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">1/5</text>
+<text x="248" y="321" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
+<text x="318" y="321" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">909</text>
+<text x="398" y="321" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">83.3%</text>
+<text x="488" y="321" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">133</text>
+<text x="578" y="321" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Python · Sh · HTML</text>
+<text x="28" y="352" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">order: complexity → LOC → utility → stage · CXP/UTIL from roadmap.json · LOC = non-blank source lines in local clones · index = round(100 × utility ÷ (complexity + 0.5))</text>
+</svg>

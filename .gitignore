@@ -1,0 +1,9 @@
+engine
+.github
+.cursor
+projects.local.conf
+.env
+*.pem
+*.key
+secrets.env
+__pycache__/
