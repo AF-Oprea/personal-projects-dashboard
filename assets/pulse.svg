@@ -72,7 +72,7 @@
 <rect x="785.0" y="172.0" width="2.8" height="8.0" rx="2" fill="#a78bfa"/>
 <text x="812.5" y="190.0" text-anchor="middle" fill="#a78bfa" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="216" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_mf2fv" class="stream_logo" data-stream="mf2fv" transform="translate(35.0,231.0) scale(0.9000)" opacity="1.0"><!-- MF2FV mark  crimson -->
+<g id="stream_logo_mf2fv" class="stream_logo" data-stream="mf2fv" transform="translate(35.0,231.0) scale(0.9000)" opacity="1.0"><!-- MF2FV mark - crimson -->
   <rect width="20" height="20" rx="4" fill="#2a0a0a"/>
   <ellipse cx="10" cy="13.5" rx="5.5" ry="3.2" fill="#ef4444" opacity=".35"/>
   <path fill="#ef4444" d="M4.5 9.5 C4.5 7.2 6.8 5.5 10 5.5 S15.5 7.2 15.5 9.5 L16.2 10.2 H3.8 Z"/>
@@ -247,5 +247,5 @@
 <rect x="785.0" y="544.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="562.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <text x="28" y="608" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.2% · Δ 24h +3.3% · Δ 7d +406.7% (% LOC · roadmap % on ring)</text>
-<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-26T22:40:32Z · 6 chapters · sorted complexity → LOC</text>
+<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-26T22:42:21Z · 6 chapters · sorted complexity → LOC</text>
 </svg>
