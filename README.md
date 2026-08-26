@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="assets/work-calendar.svg?v=20260826T001235Z" alt="Work calendar" width="880" />
+<img src="assets/work-calendar.svg?v=20260826T001800Z" alt="Work calendar" width="880" />
 
 </div>
 
