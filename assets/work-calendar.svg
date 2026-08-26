@@ -5,7 +5,7 @@
 <text x="24" y="52" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Weighted lifecycle % toward 100-step target · Δ session (15m) · Δ vs prior snapshot (≥24h / ≥7d ago)</text>
 <rect x="24" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="38" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.4">Δ session (15m)</text>
-<text x="38" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+4.6%</text>
+<text x="38" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+1.3%</text>
 <rect x="192" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="206" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 24h</text>
 <text x="206" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+46.2%</text>
@@ -29,7 +29,7 @@
   <path d="M10 2.8 V5.2 M10 14.8 V17.2 M2.8 10 H5.2 M14.8 10 H17.2" stroke="#a5f3fc" stroke-width="1.1" stroke-linecap="round"/></g><use class="stream_logo" data-stream="easm" href="#stream_logo_easm" x="34.0" y="168.0" width="18" height="18" opacity="0"/>
 <text x="60" y="182" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">easm</text>
 <text x="340" y="182" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">96.2%</text>
-<text x="440" y="182" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+30.8%</text>
+<text x="440" y="182" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+7.7%</text>
 <text x="580" y="182" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+58.7%</text>
 <text x="720" y="182" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="24" y="198" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
