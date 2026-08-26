@@ -1,6 +1,9 @@
 engine
 .github
 .cursor
+docs
+scripts
+.git-rewrite
 projects.local.conf
 .env
 *.pem
