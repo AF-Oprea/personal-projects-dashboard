@@ -6,19 +6,19 @@
 
 <sub>A living journal of whatever I'm building, breaking, or over-engineering this week.</sub>
 
-<img src="assets/pulse.svg?v=20260826T001235Z" alt="Projects percent completed" width="880" />
+<img src="assets/pulse.svg?v=20260826T003002Z" alt="Projects percent completed" width="880" />
 
 </div>
 
 <div align="center">
 
-<img src="assets/work-calendar.svg?v=20260826T001800Z" alt="Work calendar" width="880" />
+<img src="assets/work-calendar.svg?v=20260826T003002Z" alt="Work calendar" width="880" />
 
 </div>
 
 <div align="center">
 
-<img src="assets/worth-panel.svg?v=20260826T001235Z" alt="Complexity utility and languages" width="880" />
+<img src="assets/worth-panel.svg?v=20260826T003002Z" alt="Complexity utility and languages" width="880" />
 
 </div>
-<!-- last refresh: 2026-08-26T00:12:35Z -->
+<!-- last refresh: 2026-08-26T00:30:02Z -->
