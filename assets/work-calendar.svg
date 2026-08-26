@@ -124,7 +124,7 @@
 <text x="520" y="398" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="660" y="398" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="24" y="414" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
-<g id="stream_logo_mafia-online" class="stream_logo" data-stream="mafia-online" transform="translate(34.0,420.0) scale(0.9000)" opacity="1.0"><!-- Fedora + mask mark  crimson -->
+<g id="stream_logo_mafia-online" class="stream_logo" data-stream="mafia-online" transform="translate(34.0,420.0) scale(0.9000)" opacity="1.0"><!-- Fedora + mask mark — crimson -->
   <rect width="20" height="20" rx="4" fill="#2a0a0a"/>
   <ellipse cx="10" cy="13.5" rx="5.5" ry="3.2" fill="#ef4444" opacity=".35"/>
   <path fill="#ef4444" d="M4.5 9.5 C4.5 7.2 6.8 5.5 10 5.5 S15.5 7.2 15.5 9.5 L16.2 10.2 H3.8 Z"/>
