@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 444" width="880" height="444" role="img" aria-label="Roadmap progress deltas — 30 minutes, 24 hours, and 7 days">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 480" width="880" height="480" role="img" aria-label="Roadmap progress deltas — 30 minutes, 24 hours, and 7 days">
 <title>Roadmap progress · recent Δ</title>
-<rect width="880" height="444" rx="16" fill="#07080b"/>
+<rect width="880" height="480" rx="16" fill="#07080b"/>
 <text x="24" y="34" fill="#f4f1ea" font-size="16" font-family="ui-serif, Georgia, serif">Roadmap progress · recent</text>
 <text x="24" y="52" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Stage-weighted lifecycle % (equal per phase) · Δ 30m · Δ 24h · Δ 7d vs prior snapshot</text>
 <rect x="24" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
@@ -8,13 +8,13 @@
 <text x="38" y="122" fill="#6f7380" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="192" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="206" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 24h</text>
-<text x="206" y="122" fill="#9a9aa8" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
+<text x="206" y="122" fill="#f85149" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">-4.8%</text>
 <rect x="360" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="374" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 7d</text>
 <text x="374" y="122" fill="#6f7380" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="528" y="76" width="328" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="542" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">OVERALL NOW</text>
-<text x="542" y="122" fill="#f4f1ea" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">66.8%</text>
+<text x="542" y="122" fill="#f4f1ea" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">62.0%</text>
 <text x="60" y="152" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">STREAM</text>
 <text x="280" y="152" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">NOW</text>
 <text x="380" y="152" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Δ 30m</text>
@@ -123,5 +123,19 @@
 <text x="380" y="398" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <text x="520" y="398" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="660" y="398" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
-<text x="24" y="432" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Δ 30m awaiting ≥30m history · Δ 24h vs first snapshot until ≥24h of history · Δ 7d awaiting ≥7d history</text>
+<rect x="24" y="414" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
+<g id="stream_logo_mafia-online" class="stream_logo" data-stream="mafia-online" transform="translate(34.0,420.0) scale(0.9000)" opacity="1.0"><!-- Fedora + mask mark  crimson -->
+  <rect width="20" height="20" rx="4" fill="#2a0a0a"/>
+  <ellipse cx="10" cy="13.5" rx="5.5" ry="3.2" fill="#ef4444" opacity=".35"/>
+  <path fill="#ef4444" d="M4.5 9.5 C4.5 7.2 6.8 5.5 10 5.5 S15.5 7.2 15.5 9.5 L16.2 10.2 H3.8 Z"/>
+  <rect x="6.5" y="10" width="7" height="1.2" rx="0.4" fill="#fca5a5"/>
+  <path fill="#1a0505" d="M7.5 11.2 h5 v2.8 c0 1-1.1 1.8-2.5 1.8 s-2.5-.8-2.5-1.8 v-2.8z"/>
+  <circle cx="8.3" cy="13" r="0.55" fill="#fca5a5"/>
+  <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mafia-online" href="#stream_logo_mafia-online" x="34.0" y="420.0" width="18" height="18" opacity="0"/>
+<text x="60" y="434" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">mafia-online</text>
+<text x="280" y="434" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">28.1%</text>
+<text x="380" y="434" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
+<text x="520" y="434" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
+<text x="660" y="434" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
+<text x="24" y="468" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Δ 30m awaiting ≥30m history · Δ 24h vs first snapshot until ≥24h of history · Δ 7d awaiting ≥7d history</text>
 </svg>
