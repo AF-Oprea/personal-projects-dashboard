@@ -76,7 +76,19 @@
 <rect x="500" y="274" width="360" height="8" rx="4" fill="rgba(255,255,255,0.07)"/>
 <rect x="500" y="274" width="180" height="8" rx="4" fill="#f778ba"/>
 <rect x="24" y="308" width="832" height="48" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_peri" class="stream_logo" data-stream="peri" transform="translate(35.0,323.0) scale(0.9000)" opacity="1.0"><!-- Candlestick chart - amber (stable distinct hue) -->
+<g id="stream_logo_easm" class="stream_logo" data-stream="easm" transform="translate(35.0,323.0) scale(0.9000)" opacity="1.0"><!-- Radar / scan eye - cyan -->
+  <rect width="20" height="20" rx="4" fill="#083344"/>
+  <circle cx="10" cy="10" r="6.5" fill="none" stroke="#22d3ee" stroke-width="1.2"/>
+  <circle cx="10" cy="10" r="4" fill="none" stroke="#67e8f9" stroke-width="1"/>
+  <circle cx="10" cy="10" r="1.6" fill="#22d3ee"/>
+  <path d="M10 2.8 V5.2 M10 14.8 V17.2 M2.8 10 H5.2 M14.8 10 H17.2" stroke="#a5f3fc" stroke-width="1.1" stroke-linecap="round"/></g><use class="stream_logo" data-stream="easm" href="#stream_logo_easm" x="35.0" y="323.0" width="18" height="18" opacity="0"/>
+<text x="66" y="328" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">EASM</text>
+<text x="66" y="346" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Security audit tool for own lab</text>
+<text x="430" y="336" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">88.5%</text>
+<rect x="500" y="328" width="360" height="8" rx="4" fill="rgba(255,255,255,0.07)"/>
+<rect x="500" y="328" width="319" height="8" rx="4" fill="#22d3ee"/>
+<rect x="24" y="362" width="832" height="48" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<g id="stream_logo_peri" class="stream_logo" data-stream="peri" transform="translate(35.0,377.0) scale(0.9000)" opacity="1.0"><!-- Candlestick chart - amber (stable distinct hue) -->
   <rect width="20" height="20" rx="4" fill="#422006"/>
   <!-- wick + body down -->
   <rect x="4.2" y="4" width="1.2" height="11" rx="0.4" fill="#fcd34d"/>
@@ -86,24 +98,12 @@
   <rect x="8.4" y="6" width="3.2" height="6.5" rx="0.5" fill="#f59e0b"/>
   <!-- wick + body -->
   <rect x="14.6" y="5" width="1.2" height="10" rx="0.4" fill="#fcd34d"/>
-  <rect x="13.6" y="8" width="3.2" height="4.5" rx="0.5" fill="#fbbf24"/></g><use class="stream_logo" data-stream="peri" href="#stream_logo_peri" x="35.0" y="323.0" width="18" height="18" opacity="0"/>
-<text x="66" y="328" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">PeriFX</text>
-<text x="66" y="346" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">EMA + SMC trading lab (demo)</text>
-<text x="430" y="336" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">54.2%</text>
-<rect x="500" y="328" width="360" height="8" rx="4" fill="rgba(255,255,255,0.07)"/>
-<rect x="500" y="328" width="195" height="8" rx="4" fill="#fbbf24"/>
-<rect x="24" y="362" width="832" height="48" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_easm" class="stream_logo" data-stream="easm" transform="translate(35.0,377.0) scale(0.9000)" opacity="1.0"><!-- Radar / scan eye - cyan -->
-  <rect width="20" height="20" rx="4" fill="#083344"/>
-  <circle cx="10" cy="10" r="6.5" fill="none" stroke="#22d3ee" stroke-width="1.2"/>
-  <circle cx="10" cy="10" r="4" fill="none" stroke="#67e8f9" stroke-width="1"/>
-  <circle cx="10" cy="10" r="1.6" fill="#22d3ee"/>
-  <path d="M10 2.8 V5.2 M10 14.8 V17.2 M2.8 10 H5.2 M14.8 10 H17.2" stroke="#a5f3fc" stroke-width="1.1" stroke-linecap="round"/></g><use class="stream_logo" data-stream="easm" href="#stream_logo_easm" x="35.0" y="377.0" width="18" height="18" opacity="0"/>
-<text x="66" y="382" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">EASM</text>
-<text x="66" y="400" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Security audit tool for own lab</text>
-<text x="430" y="390" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">88.5%</text>
+  <rect x="13.6" y="8" width="3.2" height="4.5" rx="0.5" fill="#fbbf24"/></g><use class="stream_logo" data-stream="peri" href="#stream_logo_peri" x="35.0" y="377.0" width="18" height="18" opacity="0"/>
+<text x="66" y="382" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">PeriFX</text>
+<text x="66" y="400" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">EMA + SMC trading lab (demo)</text>
+<text x="430" y="390" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">54.2%</text>
 <rect x="500" y="382" width="360" height="8" rx="4" fill="rgba(255,255,255,0.07)"/>
-<rect x="500" y="382" width="319" height="8" rx="4" fill="#22d3ee"/>
+<rect x="500" y="382" width="195" height="8" rx="4" fill="#fbbf24"/>
 <rect x="24" y="416" width="832" height="48" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <g id="stream_logo_wash" class="stream_logo" data-stream="wash" transform="translate(35.0,431.0) scale(0.9000)" opacity="1.0"><!-- Water drop - salmon/red (keep wash identity) -->
   <rect width="20" height="20" rx="4" fill="#3f1513"/>
@@ -114,5 +114,5 @@
 <text x="430" y="444" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">94.4%</text>
 <rect x="500" y="436" width="360" height="8" rx="4" fill="rgba(255,255,255,0.07)"/>
 <rect x="500" y="436" width="340" height="8" rx="4" fill="#ff7b72"/>
-<text x="28" y="494" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-26T08:23:22Z · sorted complexity → LOC → stage</text>
+<text x="28" y="494" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-26T08:32:46Z · sorted complexity → LOC → stage</text>
 </svg>
