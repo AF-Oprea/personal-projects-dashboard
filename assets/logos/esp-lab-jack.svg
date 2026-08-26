@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20" role="img" aria-label="esp-lab-jack">
+  <!-- MCU / chip mark - amber-orange -->
+  <rect width="20" height="20" rx="4" fill="#3d2314"/>
+  <rect x="5" y="5" width="10" height="10" rx="1.5" fill="#ffa657"/>
+  <rect x="7" y="7" width="6" height="6" rx="0.8" fill="#1c1210"/>
+  <!-- pins -->
+  <rect x="2.2" y="7" width="2.2" height="1.2" rx="0.3" fill="#ffd4a8"/>
+  <rect x="2.2" y="11.8" width="2.2" height="1.2" rx="0.3" fill="#ffd4a8"/>
+  <rect x="15.6" y="7" width="2.2" height="1.2" rx="0.3" fill="#ffd4a8"/>
+  <rect x="15.6" y="11.8" width="2.2" height="1.2" rx="0.3" fill="#ffd4a8"/>
+  <rect x="7" y="2.2" width="1.2" height="2.2" rx="0.3" fill="#ffd4a8"/>
+  <rect x="11.8" y="2.2" width="1.2" height="2.2" rx="0.3" fill="#ffd4a8"/>
+  <rect x="7" y="15.6" width="1.2" height="2.2" rx="0.3" fill="#ffd4a8"/>
+  <rect x="11.8" y="15.6" width="1.2" height="2.2" rx="0.3" fill="#ffd4a8"/>
+</svg>

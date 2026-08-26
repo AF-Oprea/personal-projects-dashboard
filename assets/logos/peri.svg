@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20" role="img" aria-label="PeriFX">
+  <!-- Candlestick chart - amber (stable distinct hue) -->
+  <rect width="20" height="20" rx="4" fill="#422006"/>
+  <!-- wick + body down -->
+  <rect x="4.2" y="4" width="1.2" height="11" rx="0.4" fill="#fcd34d"/>
+  <rect x="3.2" y="7" width="3.2" height="5" rx="0.5" fill="#fbbf24"/>
+  <!-- wick + body up -->
+  <rect x="9.4" y="3.5" width="1.2" height="12" rx="0.4" fill="#fde68a"/>
+  <rect x="8.4" y="6" width="3.2" height="6.5" rx="0.5" fill="#f59e0b"/>
+  <!-- wick + body -->
+  <rect x="14.6" y="5" width="1.2" height="10" rx="0.4" fill="#fcd34d"/>
+  <rect x="13.6" y="8" width="3.2" height="4.5" rx="0.5" fill="#fbbf24"/>
+</svg>
