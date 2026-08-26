@@ -2,7 +2,7 @@
 
 # AF-Oprea
 
-**Private streams. Public pulse.**
+**Private streams... Public pulse.**
 
 <img src="assets/pulse.svg?v=20260825T235535Z" alt="Public work pulse" width="880" />
 
