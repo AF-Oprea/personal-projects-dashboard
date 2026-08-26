@@ -95,7 +95,7 @@
 <text x="520" y="326" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.2%</text>
 <text x="660" y="326" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="24" y="342" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
-<g id="stream_logo_mf2fv" class="stream_logo" data-stream="mf2fv" transform="translate(34.0,348.0) scale(0.9000)" opacity="1.0"><!-- MF2FV mark  crimson -->
+<g id="stream_logo_mf2fv" class="stream_logo" data-stream="mf2fv" transform="translate(34.0,348.0) scale(0.9000)" opacity="1.0"><!-- MF2FV mark - crimson -->
   <rect width="20" height="20" rx="4" fill="#2a0a0a"/>
   <ellipse cx="10" cy="13.5" rx="5.5" ry="3.2" fill="#ef4444" opacity=".35"/>
   <path fill="#ef4444" d="M4.5 9.5 C4.5 7.2 6.8 5.5 10 5.5 S15.5 7.2 15.5 9.5 L16.2 10.2 H3.8 Z"/>
@@ -105,7 +105,7 @@
   <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mf2fv" href="#stream_logo_mf2fv" x="34.0" y="348.0" width="18" height="18" opacity="0"/>
 <text x="60" y="362" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">mf2fv</text>
 <text x="280" y="362" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">2k</text>
-<text x="380" y="362" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+8.6%</text>
+<text x="380" y="362" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+34.2%</text>
 <text x="520" y="362" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <text x="660" y="362" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="24" y="378" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
