@@ -72,7 +72,35 @@
 <rect x="785.0" y="172.0" width="2.8" height="8.0" rx="2" fill="#a78bfa"/>
 <text x="812.5" y="190.0" text-anchor="middle" fill="#a78bfa" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="216" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_esp-lab-jack" class="stream_logo" data-stream="esp-lab-jack" transform="translate(35.0,231.0) scale(0.9000)" opacity="1.0"><!-- MCU / chip mark - amber-orange -->
+<g id="stream_logo_mafia-online" class="stream_logo" data-stream="mafia-online" transform="translate(35.0,231.0) scale(0.9000)" opacity="1.0"><!-- Fedora + mask mark — crimson -->
+  <rect width="20" height="20" rx="4" fill="#2a0a0a"/>
+  <ellipse cx="10" cy="13.5" rx="5.5" ry="3.2" fill="#ef4444" opacity=".35"/>
+  <path fill="#ef4444" d="M4.5 9.5 C4.5 7.2 6.8 5.5 10 5.5 S15.5 7.2 15.5 9.5 L16.2 10.2 H3.8 Z"/>
+  <rect x="6.5" y="10" width="7" height="1.2" rx="0.4" fill="#fca5a5"/>
+  <path fill="#1a0505" d="M7.5 11.2 h5 v2.8 c0 1-1.1 1.8-2.5 1.8 s-2.5-.8-2.5-1.8 v-2.8z"/>
+  <circle cx="8.3" cy="13" r="0.55" fill="#fca5a5"/>
+  <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mafia-online" href="#stream_logo_mafia-online" x="35.0" y="231.0" width="18" height="18" opacity="0"/>
+<text x="66" y="236" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">Mafia Online</text>
+<text x="66" y="252" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Online mafia — video + votes</text>
+<text x="430" y="244" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">28.1%</text>
+<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
+<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#ac3030"/>
+<text x="527.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="557.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
+<rect x="557.0" y="234.0" width="1.0" height="8.0" rx="2" fill="#ac3030"/>
+<text x="584.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
+<rect x="614.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
+<rect x="614.0" y="234.0" width="1.0" height="8.0" rx="2" fill="#ac3030"/>
+<text x="641.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
+<rect x="671.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#ef4444" stroke-width="1.4"/>
+<rect x="671.0" y="234.0" width="6.9" height="8.0" rx="2" fill="#ef4444"/>
+<text x="698.5" y="252.0" text-anchor="middle" fill="#ef4444" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
+<text x="755.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
+<rect x="785.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
+<text x="812.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
+<rect x="24" y="278" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<g id="stream_logo_esp-lab-jack" class="stream_logo" data-stream="esp-lab-jack" transform="translate(35.0,293.0) scale(0.9000)" opacity="1.0"><!-- MCU / chip mark - amber-orange -->
   <rect width="20" height="20" rx="4" fill="#3d2314"/>
   <rect x="5" y="5" width="10" height="10" rx="1.5" fill="#ffa657"/>
   <rect x="7" y="7" width="6" height="6" rx="0.8" fill="#1c1210"/>
@@ -84,55 +112,27 @@
   <rect x="7" y="2.2" width="1.2" height="2.2" rx="0.3" fill="#ffd4a8"/>
   <rect x="11.8" y="2.2" width="1.2" height="2.2" rx="0.3" fill="#ffd4a8"/>
   <rect x="7" y="15.6" width="1.2" height="2.2" rx="0.3" fill="#ffd4a8"/>
-  <rect x="11.8" y="15.6" width="1.2" height="2.2" rx="0.3" fill="#ffd4a8"/></g><use class="stream_logo" data-stream="esp-lab-jack" href="#stream_logo_esp-lab-jack" x="35.0" y="231.0" width="18" height="18" opacity="0"/>
-<text x="66" y="236" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">esp-lab-jack</text>
-<text x="66" y="252" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">ESP firmware and hardware lab</text>
-<text x="430" y="244" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">70.8%</text>
-<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#b7773e"/>
-<text x="527.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
-<rect x="557.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="557.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#b7773e"/>
-<text x="584.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
-<rect x="614.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="614.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#b7773e"/>
-<text x="641.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="671.0" y="234.0" width="45.8" height="8.0" rx="2" fill="#b7773e"/>
-<text x="698.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#ffa657" stroke-width="1.4"/>
-<rect x="728.0" y="234.0" width="22.9" height="8.0" rx="2" fill="#ffa657"/>
-<text x="755.5" y="252.0" text-anchor="middle" fill="#ffa657" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
-<rect x="785.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="785.0" y="234.0" width="1.0" height="8.0" rx="2" fill="#b7773e"/>
-<text x="812.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
-<rect x="24" y="278" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_mafia-online" class="stream_logo" data-stream="mafia-online" transform="translate(35.0,293.0) scale(0.9000)" opacity="0.42"><!-- Fedora + mask mark — crimson -->
-  <rect width="20" height="20" rx="4" fill="#2a0a0a"/>
-  <ellipse cx="10" cy="13.5" rx="5.5" ry="3.2" fill="#ef4444" opacity=".35"/>
-  <path fill="#ef4444" d="M4.5 9.5 C4.5 7.2 6.8 5.5 10 5.5 S15.5 7.2 15.5 9.5 L16.2 10.2 H3.8 Z"/>
-  <rect x="6.5" y="10" width="7" height="1.2" rx="0.4" fill="#fca5a5"/>
-  <path fill="#1a0505" d="M7.5 11.2 h5 v2.8 c0 1-1.1 1.8-2.5 1.8 s-2.5-.8-2.5-1.8 v-2.8z"/>
-  <circle cx="8.3" cy="13" r="0.55" fill="#fca5a5"/>
-  <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mafia-online" href="#stream_logo_mafia-online" x="35.0" y="293.0" width="18" height="18" opacity="0"/>
-<text x="66" y="298" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">Mafia Online</text>
-<text x="66" y="314" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Online mafia — video + votes</text>
-<text x="430" y="306" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">28.1%</text>
+  <rect x="11.8" y="15.6" width="1.2" height="2.2" rx="0.3" fill="#ffd4a8"/></g><use class="stream_logo" data-stream="esp-lab-jack" href="#stream_logo_esp-lab-jack" x="35.0" y="293.0" width="18" height="18" opacity="0"/>
+<text x="66" y="298" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">esp-lab-jack</text>
+<text x="66" y="314" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">ESP firmware and hardware lab</text>
+<text x="430" y="306" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">70.8%</text>
 <rect x="500.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#ac3030"/>
+<rect x="500.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#b7773e"/>
 <text x="527.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
 <rect x="557.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="557.0" y="296.0" width="1.0" height="8.0" rx="2" fill="#ac3030"/>
+<rect x="557.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#b7773e"/>
 <text x="584.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
 <rect x="614.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="614.0" y="296.0" width="1.0" height="8.0" rx="2" fill="#ac3030"/>
+<rect x="614.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#b7773e"/>
 <text x="641.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#ef4444" stroke-width="1.4"/>
-<rect x="671.0" y="296.0" width="6.9" height="8.0" rx="2" fill="#ef4444"/>
-<text x="698.5" y="314.0" text-anchor="middle" fill="#ef4444" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<text x="755.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
+<rect x="671.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
+<rect x="671.0" y="296.0" width="45.8" height="8.0" rx="2" fill="#b7773e"/>
+<text x="698.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#ffa657" stroke-width="1.4"/>
+<rect x="728.0" y="296.0" width="22.9" height="8.0" rx="2" fill="#ffa657"/>
+<text x="755.5" y="314.0" text-anchor="middle" fill="#ffa657" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
 <rect x="785.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
+<rect x="785.0" y="296.0" width="1.0" height="8.0" rx="2" fill="#b7773e"/>
 <text x="812.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="340" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <g id="stream_logo_stellami-marketing" class="stream_logo" data-stream="stellami-marketing" transform="translate(35.0,355.0) scale(0.9000)" opacity="1.0"><!-- Rose megaphone + small gold spark - marketing sibling of Stellami -->
@@ -246,5 +246,5 @@
 <rect x="785.0" y="544.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="562.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <text x="28" y="608" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Δ 30m — · Δ 24h -4.8% · Δ 7d —</text>
-<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-26T21:27:18Z · 6 chapters · sorted complexity → LOC</text>
+<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-26T21:29:36Z · 6 chapters · sorted complexity → LOC</text>
 </svg>
