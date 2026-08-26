@@ -4,7 +4,7 @@
 
 **Private streams... Public pulse.**
 
-<sub>Calling card — current streams, one-line purpose, progress. Detail stays private.</sub>
+<sub>A living journal of whatever I'm building, breaking, or over-engineering this week.</sub>
 
 <img src="assets/pulse.svg?v=20260826T001235Z" alt="Projects percent completed" width="880" />
 
