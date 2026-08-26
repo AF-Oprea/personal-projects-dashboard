@@ -72,16 +72,16 @@
 <rect x="785.0" y="172.0" width="2.8" height="8.0" rx="2" fill="#a78bfa"/>
 <text x="812.5" y="190.0" text-anchor="middle" fill="#a78bfa" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="216" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_mafia-online" class="stream_logo" data-stream="mafia-online" transform="translate(35.0,231.0) scale(0.9000)" opacity="1.0"><!-- Fedora + mask mark — crimson -->
+<g id="stream_logo_mf2fv" class="stream_logo" data-stream="mf2fv" transform="translate(35.0,231.0) scale(0.9000)" opacity="1.0"><!-- MF2FV mark  crimson -->
   <rect width="20" height="20" rx="4" fill="#2a0a0a"/>
   <ellipse cx="10" cy="13.5" rx="5.5" ry="3.2" fill="#ef4444" opacity=".35"/>
   <path fill="#ef4444" d="M4.5 9.5 C4.5 7.2 6.8 5.5 10 5.5 S15.5 7.2 15.5 9.5 L16.2 10.2 H3.8 Z"/>
   <rect x="6.5" y="10" width="7" height="1.2" rx="0.4" fill="#fca5a5"/>
   <path fill="#1a0505" d="M7.5 11.2 h5 v2.8 c0 1-1.1 1.8-2.5 1.8 s-2.5-.8-2.5-1.8 v-2.8z"/>
   <circle cx="8.3" cy="13" r="0.55" fill="#fca5a5"/>
-  <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mafia-online" href="#stream_logo_mafia-online" x="35.0" y="231.0" width="18" height="18" opacity="0"/>
-<text x="66" y="236" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">Mafia Online</text>
-<text x="66" y="252" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Online mafia — video + votes</text>
+  <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mf2fv" href="#stream_logo_mf2fv" x="35.0" y="231.0" width="18" height="18" opacity="0"/>
+<text x="66" y="236" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">MF2FV</text>
+<text x="66" y="252" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">MF2FV — social deduction + video</text>
 <text x="430" y="244" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">63.3%</text>
 <rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
 <rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#ac3030"/>
@@ -246,6 +246,6 @@
 <rect x="785.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#ff7b72" stroke-width="1.4"/>
 <rect x="785.0" y="544.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="562.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
-<text x="28" y="608" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.1% · Δ 24h +3.5% · Δ 7d +406.4% (% LOC · roadmap % on ring)</text>
-<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-26T22:30:47Z · 6 chapters · sorted complexity → LOC</text>
+<text x="28" y="608" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.2% · Δ 24h +3.3% · Δ 7d +406.7% (% LOC · roadmap % on ring)</text>
+<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-26T22:40:32Z · 6 chapters · sorted complexity → LOC</text>
 </svg>
