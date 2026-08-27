@@ -4,7 +4,7 @@
 <rect x="1.2" y="1.2" width="877.6" height="3767.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="20" y="42" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="20" y="60" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · last 7 days · Europe/Bucharest · when · nick · action</text>
-<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-08-28 01:40 EEST</text>
+<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-08-28 01:45 EEST</text>
 <rect x="20" y="72" width="840" height="3650.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="34" y="94" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="846" y="94" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 7 days · Europe/Bucharest · when · nick · action</text>
@@ -14,7 +14,7 @@
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 115</text>
+<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 113</text>
 <circle cx="38" cy="132.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="136.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:31 EEST · mf2fv · activity update</text>
 <circle cx="38" cy="147.0" r="3.5" fill="#58a6ff"/>
@@ -241,11 +241,11 @@
 <text x="48" y="1801.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:59 EEST · mf2fv · feature work</text>
 <circle cx="38" cy="1812.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="1816.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:47 EEST · mf2fv · activity update</text>
-<circle cx="38" cy="1827.0" r="3.5" fill="#58a6ff"/>
-<text x="48" y="1831.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:41 EEST · mf2fv · status refresh</text>
-<circle cx="38" cy="1842.0" r="3.5" fill="#58a6ff"/>
-<text x="48" y="1846.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:40 EEST · mf2fv · activity update</text>
-<text x="34" y="1867.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 7D · 123</text>
+<text x="34" y="1837.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 7D · 125</text>
+<circle cx="38" cy="1849.0" r="3.5" fill="#58a6ff"/>
+<text x="48" y="1853.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:41 EEST · mf2fv · status refresh</text>
+<circle cx="38" cy="1864.0" r="3.5" fill="#58a6ff"/>
+<text x="48" y="1868.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:40 EEST · mf2fv · activity update</text>
 <circle cx="38" cy="1879.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="1883.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:40 EEST · mf2fv · documentation update</text>
 <circle cx="38" cy="1894.0" r="3.5" fill="#58a6ff"/>
@@ -493,5 +493,5 @@
 <circle cx="38" cy="3709.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="3713.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 01:59 EEST · runguard · release ship</text>
 </g>
-<text x="20" y="3756.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.2 · public · Live Stream · last 7 days · Europe/Bucharest · 115 in 24h · 238 in 7d · when · nick · action · no XP</text>
+<text x="20" y="3756.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.2 · public · Live Stream · last 7 days · Europe/Bucharest · 113 in 24h · 238 in 7d · when · nick · action · no XP</text>
 </svg>
