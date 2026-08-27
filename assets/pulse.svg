@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 632" width="880" height="632" role="img" aria-label="AF-Oprea public work pulse">
 <title>AF-Oprea — public pulse</title>
 <defs>
-<pattern id="chSkip" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-<line x1="0" y1="0" x2="0" y2="6" stroke="rgba(232,228,214,0.22)" stroke-width="1.2"/>
+<pattern id="chSkip" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+<line x1="0" y1="0" x2="0" y2="5" stroke="rgba(232,228,214,0.62)" stroke-width="1.6"/>
+<line x1="2.5" y1="0" x2="2.5" y2="5" stroke="rgba(232,228,214,0.28)" stroke-width="1"/>
 </pattern>
 </defs>
 <rect width="880" height="632" rx="24" fill="#07080b"/>
@@ -24,22 +25,22 @@
 <text x="66" y="112" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">runguard</text>
 <text x="66" y="128" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">RMM V1 — agents, inventory, patch, heal, mesh, EASM…</text>
 <text x="430" y="120" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">69.0%</text>
-<rect x="500.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="110.0" width="44.0" height="8.0" rx="2" fill="#2d8539"/>
-<text x="527.5" y="128.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
-<rect x="557.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="557.0" y="110.0" width="30.2" height="8.0" rx="2" fill="#2d8539"/>
-<text x="584.5" y="128.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
-<rect x="614.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="614.0" y="110.0" width="55.0" height="8.0" rx="2" fill="#2d8539"/>
-<text x="641.5" y="128.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="671.0" y="110.0" width="55.0" height="8.0" rx="2" fill="#2d8539"/>
-<text x="698.5" y="128.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="728.0" y="110.0" width="55.0" height="8.0" rx="2" fill="#2d8539"/>
-<text x="755.5" y="128.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
-<rect x="785.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#3fb950" stroke-width="1.4"/>
+<rect x="500.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="500.0" y="110.0" width="44.0" height="8.0" rx="2" fill="#31903e"/>
+<text x="527.5" y="128.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="557.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="557.0" y="110.0" width="30.2" height="8.0" rx="2" fill="#31903e"/>
+<text x="584.5" y="128.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
+<rect x="614.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="614.0" y="110.0" width="55.0" height="8.0" rx="2" fill="#31903e"/>
+<text x="641.5" y="128.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
+<rect x="671.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="671.0" y="110.0" width="55.0" height="8.0" rx="2" fill="#31903e"/>
+<text x="698.5" y="128.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="728.0" y="110.0" width="55.0" height="8.0" rx="2" fill="#31903e"/>
+<text x="755.5" y="128.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
+<rect x="785.0" y="110.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#3fb950" stroke-width="1.4"/>
 <rect x="785.0" y="110.0" width="17.0" height="8.0" rx="2" fill="#3fb950"/>
 <text x="812.5" y="128.0" text-anchor="middle" fill="#3fb950" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="154" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
@@ -58,22 +59,22 @@
 <text x="66" y="174" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">stellami</text>
 <text x="66" y="190" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Tarot kit + app; store path when accounts exist</text>
 <text x="430" y="182" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">50.0%</text>
-<rect x="500.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="172.0" width="49.5" height="8.0" rx="2" fill="#7864b4"/>
-<text x="527.5" y="190.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
-<rect x="557.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="557.0" y="172.0" width="38.5" height="8.0" rx="2" fill="#7864b4"/>
-<text x="584.5" y="190.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
-<rect x="614.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="614.0" y="172.0" width="49.5" height="8.0" rx="2" fill="#7864b4"/>
-<text x="641.5" y="190.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="671.0" y="172.0" width="55.0" height="8.0" rx="2" fill="#7864b4"/>
-<text x="698.5" y="190.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="728.0" y="172.0" width="12.8" height="8.0" rx="2" fill="#7864b4"/>
-<text x="755.5" y="190.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
-<rect x="785.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#a78bfa" stroke-width="1.4"/>
+<rect x="500.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="500.0" y="172.0" width="49.5" height="8.0" rx="2" fill="#826cc3"/>
+<text x="527.5" y="190.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="557.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="557.0" y="172.0" width="38.5" height="8.0" rx="2" fill="#826cc3"/>
+<text x="584.5" y="190.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
+<rect x="614.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="614.0" y="172.0" width="49.5" height="8.0" rx="2" fill="#826cc3"/>
+<text x="641.5" y="190.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
+<rect x="671.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="671.0" y="172.0" width="55.0" height="8.0" rx="2" fill="#826cc3"/>
+<text x="698.5" y="190.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="728.0" y="172.0" width="12.8" height="8.0" rx="2" fill="#826cc3"/>
+<text x="755.5" y="190.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
+<rect x="785.0" y="172.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#a78bfa" stroke-width="1.4"/>
 <rect x="785.0" y="172.0" width="2.8" height="8.0" rx="2" fill="#a78bfa"/>
 <text x="812.5" y="190.0" text-anchor="middle" fill="#a78bfa" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="216" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
@@ -88,25 +89,25 @@
 <text x="66" y="236" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">MF2FV</text>
 <text x="66" y="252" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">MF2FV — PWA multi-room party (public/private sessio…</text>
 <text x="430" y="244" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">78.8%</text>
-<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#ac3030"/>
-<text x="527.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
-<rect x="557.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="557.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#ac3030"/>
-<text x="584.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
-<rect x="614.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="614.0" y="234.0" width="49.5" height="8.0" rx="2" fill="#ac3030"/>
-<text x="641.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="671.0" y="234.0" width="48.1" height="8.0" rx="2" fill="#ac3030"/>
-<text x="698.5" y="252.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#ef4444" stroke-width="1.4"/>
+<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#ba3535"/>
+<text x="527.5" y="252.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="557.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="557.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#ba3535"/>
+<text x="584.5" y="252.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
+<rect x="614.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="614.0" y="234.0" width="49.5" height="8.0" rx="2" fill="#ba3535"/>
+<text x="641.5" y="252.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
+<rect x="671.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="671.0" y="234.0" width="48.1" height="8.0" rx="2" fill="#ba3535"/>
+<text x="698.5" y="252.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ef4444" stroke-width="1.4"/>
 <rect x="728.0" y="234.0" width="9.2" height="8.0" rx="2" fill="#ef4444"/>
 <text x="755.5" y="252.0" text-anchor="middle" fill="#ef4444" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
-<rect x="785.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.04)"/>
+<rect x="785.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(232,228,214,0.14)"/>
 <rect x="785.0" y="234.0" width="55.0" height="8.0" rx="2" fill="url(#chSkip)"/>
-<rect x="785.0" y="234.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.28)" stroke-width="0.9" stroke-dasharray="2.5 1.8"/>
-<text x="812.5" y="252.0" text-anchor="middle" fill="#5a5e6a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
+<rect x="785.0" y="234.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.55)" stroke-width="1.15" stroke-dasharray="3 1.6"/>
+<text x="812.5" y="252.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="278" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <g id="stream_logo_esp-lab-jack" class="stream_logo" data-stream="esp-lab-jack" transform="translate(35.0,293.0) scale(0.9000)" opacity="1.0"><!-- MCU / chip mark - amber-orange -->
   <rect width="20" height="20" rx="4" fill="#3d2314"/>
@@ -124,24 +125,23 @@
 <text x="66" y="298" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">esp-lab-jack</text>
 <text x="66" y="314" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">ESP firmware and hardware lab</text>
 <text x="430" y="306" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">70.8%</text>
-<rect x="500.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#b7773e"/>
-<text x="527.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
-<rect x="557.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="557.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#b7773e"/>
-<text x="584.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
-<rect x="614.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="614.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#b7773e"/>
-<text x="641.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="671.0" y="296.0" width="45.8" height="8.0" rx="2" fill="#b7773e"/>
-<text x="698.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#ffa657" stroke-width="1.4"/>
+<rect x="500.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="500.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#c68143"/>
+<text x="527.5" y="314.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="557.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="557.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#c68143"/>
+<text x="584.5" y="314.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
+<rect x="614.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="614.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#c68143"/>
+<text x="641.5" y="314.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
+<rect x="671.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="671.0" y="296.0" width="45.8" height="8.0" rx="2" fill="#c68143"/>
+<text x="698.5" y="314.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ffa657" stroke-width="1.4"/>
 <rect x="728.0" y="296.0" width="22.9" height="8.0" rx="2" fill="#ffa657"/>
 <text x="755.5" y="314.0" text-anchor="middle" fill="#ffa657" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
-<rect x="785.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="785.0" y="296.0" width="1.0" height="8.0" rx="2" fill="#b7773e"/>
-<text x="812.5" y="314.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
+<rect x="785.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<text x="812.5" y="314.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="340" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <g id="stream_logo_stellami-marketing" class="stream_logo" data-stream="stellami-marketing" transform="translate(35.0,355.0) scale(0.9000)" opacity="1.0"><!-- Rose megaphone + small gold spark - marketing sibling of Stellami -->
   <defs>
@@ -157,25 +157,25 @@
 <text x="66" y="360" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">stellami-marketing</text>
 <text x="66" y="376" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Launch content and ASO for stellami</text>
 <text x="430" y="368" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">57.0%</text>
-<rect x="500.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="358.0" width="55.0" height="8.0" rx="2" fill="#b15685"/>
-<text x="527.5" y="376.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
-<rect x="557.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="557.0" y="358.0" width="55.0" height="8.0" rx="2" fill="#b15685"/>
-<text x="584.5" y="376.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
-<rect x="614.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.04)"/>
+<rect x="500.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="500.0" y="358.0" width="55.0" height="8.0" rx="2" fill="#c05d91"/>
+<text x="527.5" y="376.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="557.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="557.0" y="358.0" width="55.0" height="8.0" rx="2" fill="#c05d91"/>
+<text x="584.5" y="376.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
+<rect x="614.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(232,228,214,0.14)"/>
 <rect x="614.0" y="358.0" width="55.0" height="8.0" rx="2" fill="url(#chSkip)"/>
-<rect x="614.0" y="358.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.28)" stroke-width="0.9" stroke-dasharray="2.5 1.8"/>
-<text x="641.5" y="376.0" text-anchor="middle" fill="#5a5e6a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.04)"/>
+<rect x="614.0" y="358.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.55)" stroke-width="1.15" stroke-dasharray="3 1.6"/>
+<text x="641.5" y="376.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
+<rect x="671.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(232,228,214,0.14)"/>
 <rect x="671.0" y="358.0" width="55.0" height="8.0" rx="2" fill="url(#chSkip)"/>
-<rect x="671.0" y="358.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.28)" stroke-width="0.9" stroke-dasharray="2.5 1.8"/>
-<text x="698.5" y="376.0" text-anchor="middle" fill="#5a5e6a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="728.0" y="358.0" width="44.0" height="8.0" rx="2" fill="#b15685"/>
-<text x="755.5" y="376.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
-<rect x="785.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#f778ba" stroke-width="1.4"/>
-<rect x="785.0" y="358.0" width="1.4" height="8.0" rx="2" fill="#f778ba"/>
+<rect x="671.0" y="358.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.55)" stroke-width="1.15" stroke-dasharray="3 1.6"/>
+<text x="698.5" y="376.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="728.0" y="358.0" width="44.0" height="8.0" rx="2" fill="#c05d91"/>
+<text x="755.5" y="376.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
+<rect x="785.0" y="358.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#f778ba" stroke-width="1.4"/>
+<rect x="785.0" y="358.0" width="2.0" height="8.0" rx="2" fill="#f778ba"/>
 <text x="812.5" y="376.0" text-anchor="middle" fill="#f778ba" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="402" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <g id="stream_logo_easm" class="stream_logo" data-stream="easm" transform="translate(35.0,417.0) scale(0.9000)" opacity="1.0"><!-- Radar / scan eye - cyan -->
@@ -187,23 +187,23 @@
 <text x="66" y="422" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">EASM</text>
 <text x="66" y="438" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Security audit tool for own lab</text>
 <text x="430" y="430" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">90.0%</text>
-<rect x="500.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="420.0" width="55.0" height="8.0" rx="2" fill="#1897ab"/>
-<text x="527.5" y="438.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
-<rect x="557.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.04)"/>
+<rect x="500.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="500.0" y="420.0" width="55.0" height="8.0" rx="2" fill="#1aa4b9"/>
+<text x="527.5" y="438.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="557.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(232,228,214,0.14)"/>
 <rect x="557.0" y="420.0" width="55.0" height="8.0" rx="2" fill="url(#chSkip)"/>
-<rect x="557.0" y="420.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.28)" stroke-width="0.9" stroke-dasharray="2.5 1.8"/>
-<text x="584.5" y="438.0" text-anchor="middle" fill="#5a5e6a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
-<rect x="614.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="614.0" y="420.0" width="41.2" height="8.0" rx="2" fill="#1897ab"/>
-<text x="641.5" y="438.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="671.0" y="420.0" width="55.0" height="8.0" rx="2" fill="#1897ab"/>
-<text x="698.5" y="438.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="728.0" y="420.0" width="55.0" height="8.0" rx="2" fill="#1897ab"/>
-<text x="755.5" y="438.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
-<rect x="785.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#22d3ee" stroke-width="1.4"/>
+<rect x="557.0" y="420.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.55)" stroke-width="1.15" stroke-dasharray="3 1.6"/>
+<text x="584.5" y="438.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
+<rect x="614.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="614.0" y="420.0" width="41.2" height="8.0" rx="2" fill="#1aa4b9"/>
+<text x="641.5" y="438.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
+<rect x="671.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="671.0" y="420.0" width="55.0" height="8.0" rx="2" fill="#1aa4b9"/>
+<text x="698.5" y="438.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="728.0" y="420.0" width="55.0" height="8.0" rx="2" fill="#1aa4b9"/>
+<text x="755.5" y="438.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
+<rect x="785.0" y="420.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#22d3ee" stroke-width="1.4"/>
 <rect x="785.0" y="420.0" width="41.2" height="8.0" rx="2" fill="#22d3ee"/>
 <text x="812.5" y="438.0" text-anchor="middle" fill="#22d3ee" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="464" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
@@ -221,25 +221,24 @@
 <text x="66" y="484" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">PeriFX</text>
 <text x="66" y="500" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">EMA + SMC trading lab (demo)</text>
 <text x="430" y="492" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">45.0%</text>
-<rect x="500.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="482.0" width="55.0" height="8.0" rx="2" fill="#b48919"/>
-<text x="527.5" y="500.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
-<rect x="557.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.04)"/>
+<rect x="500.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="500.0" y="482.0" width="55.0" height="8.0" rx="2" fill="#c3941c"/>
+<text x="527.5" y="500.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="557.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(232,228,214,0.14)"/>
 <rect x="557.0" y="482.0" width="55.0" height="8.0" rx="2" fill="url(#chSkip)"/>
-<rect x="557.0" y="482.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.28)" stroke-width="0.9" stroke-dasharray="2.5 1.8"/>
-<text x="584.5" y="500.0" text-anchor="middle" fill="#5a5e6a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
-<rect x="614.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="614.0" y="482.0" width="27.5" height="8.0" rx="2" fill="#b48919"/>
-<text x="641.5" y="500.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="671.0" y="482.0" width="27.5" height="8.0" rx="2" fill="#b48919"/>
-<text x="698.5" y="500.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#fbbf24" stroke-width="1.4"/>
+<rect x="557.0" y="482.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.55)" stroke-width="1.15" stroke-dasharray="3 1.6"/>
+<text x="584.5" y="500.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
+<rect x="614.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="614.0" y="482.0" width="27.5" height="8.0" rx="2" fill="#c3941c"/>
+<text x="641.5" y="500.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
+<rect x="671.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="671.0" y="482.0" width="27.5" height="8.0" rx="2" fill="#c3941c"/>
+<text x="698.5" y="500.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#fbbf24" stroke-width="1.4"/>
 <rect x="728.0" y="482.0" width="13.8" height="8.0" rx="2" fill="#fbbf24"/>
 <text x="755.5" y="500.0" text-anchor="middle" fill="#fbbf24" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
-<rect x="785.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="785.0" y="482.0" width="1.0" height="8.0" rx="2" fill="#b48919"/>
-<text x="812.5" y="500.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
+<rect x="785.0" y="482.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<text x="812.5" y="500.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="526" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <g id="stream_logo_wash" class="stream_logo" data-stream="wash" transform="translate(35.0,541.0) scale(0.9000)" opacity="1.0"><!-- Water drop - salmon/red (keep wash identity) -->
   <rect width="20" height="20" rx="4" fill="#3f1513"/>
@@ -248,25 +247,24 @@
 <text x="66" y="546" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">WASH</text>
 <text x="66" y="562" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Wash windows — car/moto, no rain</text>
 <text x="430" y="554" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">65.0%</text>
-<rect x="500.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="500.0" y="544.0" width="55.0" height="8.0" rx="2" fill="#b75852"/>
-<text x="527.5" y="562.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
-<rect x="557.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.04)"/>
+<rect x="500.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="500.0" y="544.0" width="55.0" height="8.0" rx="2" fill="#c65f58"/>
+<text x="527.5" y="562.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="557.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(232,228,214,0.14)"/>
 <rect x="557.0" y="544.0" width="55.0" height="8.0" rx="2" fill="url(#chSkip)"/>
-<rect x="557.0" y="544.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.28)" stroke-width="0.9" stroke-dasharray="2.5 1.8"/>
-<text x="584.5" y="562.0" text-anchor="middle" fill="#5a5e6a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
-<rect x="614.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="614.0" y="544.0" width="41.2" height="8.0" rx="2" fill="#b75852"/>
-<text x="641.5" y="562.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
-<rect x="671.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="671.0" y="544.0" width="55.0" height="8.0" rx="2" fill="#b75852"/>
-<text x="698.5" y="562.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
-<rect x="728.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="rgba(232,228,214,0.14)" stroke-width="0.6"/>
-<rect x="728.0" y="544.0" width="1.0" height="8.0" rx="2" fill="#b75852"/>
-<text x="755.5" y="562.0" text-anchor="middle" fill="#6f7380" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
-<rect x="785.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#ff7b72" stroke-width="1.4"/>
+<rect x="557.0" y="544.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.55)" stroke-width="1.15" stroke-dasharray="3 1.6"/>
+<text x="584.5" y="562.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
+<rect x="614.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="614.0" y="544.0" width="41.2" height="8.0" rx="2" fill="#c65f58"/>
+<text x="641.5" y="562.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Front</text>
+<rect x="671.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<rect x="671.0" y="544.0" width="55.0" height="8.0" rx="2" fill="#c65f58"/>
+<text x="698.5" y="562.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Back</text>
+<rect x="728.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
+<text x="755.5" y="562.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Quality</text>
+<rect x="785.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ff7b72" stroke-width="1.4"/>
 <rect x="785.0" y="544.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="562.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <text x="28" y="608" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.1% · Δ 24h +7.6% · Δ 7d +445.3% · Δ 30d — (% LOC · roadmap % on ring)</text>
-<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-27T23:38:42Z · 6 chapters · dashed hatch = out of track · sorted complexity → LOC</text>
+<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-27T23:41:27Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
 </svg>
