@@ -5,13 +5,13 @@
 <text x="24" y="52" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Non-blank source LOC in local clones · Δ 30m · Δ 24h · Δ 7d = % change vs prior window (git backfill when history fresh)</text>
 <rect x="24" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="38" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 30m</text>
-<text x="38" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+0.7%</text>
+<text x="38" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+0.5%</text>
 <rect x="192" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="206" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 24h</text>
 <text x="206" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+6.4%</text>
 <rect x="360" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="374" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 7d</text>
-<text x="374" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+433.9%</text>
+<text x="374" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+434.0%</text>
 <rect x="528" y="76" width="328" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="542" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">TOTAL LOC NOW</text>
 <text x="542" y="122" fill="#f4f1ea" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">304k</text>
@@ -59,7 +59,7 @@
   <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mf2fv" href="#stream_logo_mf2fv" x="34.0" y="240.0" width="18" height="18" opacity="0"/>
 <text x="60" y="254" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">mf2fv</text>
 <text x="280" y="254" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">17.7k</text>
-<text x="380" y="254" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+12.7%</text>
+<text x="380" y="254" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+8.5%</text>
 <text x="520" y="254" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <text x="660" y="254" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="24" y="270" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
