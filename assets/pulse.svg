@@ -246,6 +246,6 @@
 <rect x="785.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.07)" stroke="#ff7b72" stroke-width="1.4"/>
 <rect x="785.0" y="544.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="562.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
-<text x="28" y="608" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +1.4% · Δ 24h +7.7% · Δ 7d +441.4% (% LOC · roadmap % on ring)</text>
-<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-27T21:20:08Z · 6 chapters · sorted complexity → LOC</text>
+<text x="28" y="608" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.1% · Δ 24h +7.7% · Δ 7d +441.4% (% LOC · roadmap % on ring)</text>
+<text x="28" y="622" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-08-27T21:22:15Z · 6 chapters · sorted complexity → LOC</text>
 </svg>
