@@ -57,9 +57,9 @@
   <path fill="#1a0505" d="M7.5 11.2 h5 v2.8 c0 1-1.1 1.8-2.5 1.8 s-2.5-.8-2.5-1.8 v-2.8z"/>
   <circle cx="8.3" cy="13" r="0.55" fill="#fca5a5"/>
   <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mf2fv" href="#stream_logo_mf2fv" x="34.0" y="240.0" width="18" height="18" opacity="0"/>
-<text x="60" y="254" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">mf2fv</text>
+<text x="60" y="254" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">MF2FV</text>
 <text x="280" y="254" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.6%</text>
-<text x="430" y="254" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+1005.0%</text>
+<text x="430" y="254" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+1005.2%</text>
 <text x="580" y="254" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <text x="730" y="254" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="24" y="270" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
@@ -86,7 +86,7 @@
   <circle cx="10" cy="10" r="4" fill="none" stroke="#67e8f9" stroke-width="1"/>
   <circle cx="10" cy="10" r="1.6" fill="#22d3ee"/>
   <path d="M10 2.8 V5.2 M10 14.8 V17.2 M2.8 10 H5.2 M14.8 10 H17.2" stroke="#a5f3fc" stroke-width="1.1" stroke-linecap="round"/></g><use class="stream_logo" data-stream="easm" href="#stream_logo_easm" x="34.0" y="312.0" width="18" height="18" opacity="0"/>
-<text x="60" y="326" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">easm</text>
+<text x="60" y="326" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">EASM</text>
 <text x="280" y="326" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="430" y="326" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="580" y="326" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
@@ -103,7 +103,7 @@
   <!-- wick + body -->
   <rect x="14.6" y="5" width="1.2" height="10" rx="0.4" fill="#fcd34d"/>
   <rect x="13.6" y="8" width="3.2" height="4.5" rx="0.5" fill="#fbbf24"/></g><use class="stream_logo" data-stream="peri" href="#stream_logo_peri" x="34.0" y="348.0" width="18" height="18" opacity="0"/>
-<text x="60" y="362" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">peri</text>
+<text x="60" y="362" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">PeriFX</text>
 <text x="280" y="362" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="430" y="362" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="580" y="362" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
@@ -132,7 +132,7 @@
   <rect width="20" height="20" rx="4" fill="#3f1513"/>
   <path fill="#ff7b72" d="M10 2.8 C10 2.8 15.2 9.2 15.2 12.4 A5.2 5.2 0 0 1 4.8 12.4 C4.8 9.2 10 2.8 10 2.8 Z"/>
   <ellipse cx="8.2" cy="11.2" rx="1.4" ry="2" fill="#ffd0cc" opacity=".55"/></g><use class="stream_logo" data-stream="wash" href="#stream_logo_wash" x="34.0" y="420.0" width="18" height="18" opacity="0"/>
-<text x="60" y="434" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">wash</text>
+<text x="60" y="434" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">WASH</text>
 <text x="280" y="434" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="430" y="434" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="580" y="434" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
