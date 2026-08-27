@@ -8,7 +8,7 @@
 <text x="38" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+2.8%</text>
 <rect x="192" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="206" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 24h</text>
-<text x="206" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+6.0%</text>
+<text x="206" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+5.5%</text>
 <rect x="360" y="76" width="158" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="374" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 7d</text>
 <text x="374" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+422.5%</text>
@@ -46,7 +46,7 @@
 <text x="60" y="218" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">runguard</text>
 <text x="280" y="218" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">101k</text>
 <text x="380" y="218" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
-<text x="520" y="218" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+5.7%</text>
+<text x="520" y="218" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+4.4%</text>
 <text x="660" y="218" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+78.7%</text>
 <rect x="24" y="234" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
 <g id="stream_logo_mf2fv" class="stream_logo" data-stream="mf2fv" transform="translate(34.0,240.0) scale(0.9000)" opacity="1.0"><!-- MF2FV mark - crimson -->
