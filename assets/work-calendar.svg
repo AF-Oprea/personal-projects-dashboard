@@ -135,7 +135,7 @@
 <text x="60" y="434" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">wash</text>
 <text x="280" y="434" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">913</text>
 <text x="380" y="434" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
-<text x="520" y="434" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.4%</text>
+<text x="520" y="434" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="660" y="434" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <text x="24" y="468" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Δ 24h may use git tree when snapshot history is fresh</text>
 </svg>
