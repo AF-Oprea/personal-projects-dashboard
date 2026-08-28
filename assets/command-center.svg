@@ -4,7 +4,7 @@
 <rect x="1.2" y="1.2" width="877.6" height="4748.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="20" y="42" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="20" y="60" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · last 7 days · Europe/Bucharest · when · nick · action</text>
-<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-08-28 11:15 EEST</text>
+<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-08-28 11:30 EEST</text>
 <rect x="20" y="72" width="840" height="4631.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="34" y="94" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="846" y="94" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 7 days · Europe/Bucharest · when · nick · action</text>
@@ -14,7 +14,7 @@
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 120</text>
+<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 119</text>
 <text x="34" y="138.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LATEST PER STREAM · 8</text>
 <circle cx="38" cy="150.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="154.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:47 EEST · MF2FV · feature work</text>
@@ -32,7 +32,7 @@
 <text x="48" y="244.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami-marketing · documentation update</text>
 <circle cx="38" cy="255.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="259.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · runguard · documentation update</text>
-<text x="34" y="280.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">MORE LAST 24H · 112</text>
+<text x="34" y="280.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">MORE LAST 24H · 111</text>
 <circle cx="38" cy="292.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="296.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:42 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="307.0" r="3.5" fill="#58a6ff"/>
@@ -255,9 +255,9 @@
 <text x="48" y="1931.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:47 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="1942.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="1946.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:32 EEST · MF2FV · feature work</text>
-<circle cx="38" cy="1957.0" r="3.5" fill="#58a6ff"/>
-<text x="48" y="1961.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:19 EEST · MF2FV · documentation update</text>
-<text x="34" y="1982.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 7D · 181</text>
+<text x="34" y="1967.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 7D · 182</text>
+<circle cx="38" cy="1979.0" r="3.5" fill="#58a6ff"/>
+<text x="48" y="1983.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:19 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="1994.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="1998.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:10 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="2009.0" r="3.5" fill="#58a6ff"/>
@@ -621,5 +621,5 @@
 <circle cx="38" cy="4694.0" r="3.5" fill="#58a6ff"/>
 <text x="48" y="4698.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 01:59 EEST · runguard · release ship</text>
 </g>
-<text x="20" y="4737.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 7 days · Europe/Bucharest · 120 in 24h · 301 in 7d · when · nick · action · no XP</text>
+<text x="20" y="4737.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 7 days · Europe/Bucharest · 119 in 24h · 301 in 7d · when · nick · action · no XP</text>
 </svg>
