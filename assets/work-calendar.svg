@@ -8,7 +8,7 @@
 <text x="38" y="122" fill="#9a9aa8" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <rect x="234" y="76" width="200" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="248" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 24h</text>
-<text x="248" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+4.0%</text>
+<text x="248" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+3.9%</text>
 <rect x="444" y="76" width="200" height="56" rx="12" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="458" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Δ 7d</text>
 <text x="458" y="122" fill="#3fb950" font-size="20" font-family="ui-monospace, SFMono-Regular, monospace">+447.0%</text>
@@ -59,7 +59,7 @@
   <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mf2fv" href="#stream_logo_mf2fv" x="34.0" y="240.0" width="18" height="18" opacity="0"/>
 <text x="60" y="254" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">MF2FV</text>
 <text x="280" y="254" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
-<text x="430" y="254" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+89.6%</text>
+<text x="430" y="254" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+89.0%</text>
 <text x="580" y="254" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <text x="730" y="254" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="24" y="270" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
