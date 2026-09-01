@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 4603.0" width="880" height="4603.0" role="img" aria-label="Command Center — Live Stream last 7 days (public)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 3433.0" width="880" height="3433.0" role="img" aria-label="Command Center — Live Stream last 7 days (public)">
 <title>Command Center (public)</title>
-<rect width="880" height="4603.0" rx="20" fill="#07080b"/>
-<rect x="1.2" y="1.2" width="877.6" height="4600.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
+<rect width="880" height="3433.0" rx="20" fill="#07080b"/>
+<rect x="1.2" y="1.2" width="877.6" height="3430.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="20" y="42" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="20" y="60" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · last 7 days · Europe/Bucharest · when · nick · action</text>
-<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-01 14:15 EEST</text>
-<rect x="20" y="72" width="840" height="4483.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-02 00:30 EEST</text>
+<rect x="20" y="72" width="840" height="3313.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="34" y="94" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="846" y="94" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 7 days · Europe/Bucharest · when · nick · action</text>
 <defs>
 <clipPath id="live-stream-clip-pub">
-<rect x="20" y="72" width="840" height="4483.0"/>
+<rect x="20" y="72" width="840" height="3313.0"/>
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 7D · 295</text>
+<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 7D · 217</text>
 <circle cx="38" cy="132.0" r="3.5" fill="#ef4444"/>
 <text x="48" y="136.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 19:11 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="147.0" r="3.5" fill="#79c0ff"/>
@@ -449,162 +449,6 @@
 <text x="48" y="3361.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:47 EEST · stellami · feature work</text>
 <circle cx="38" cy="3372.0" r="3.5" fill="#3fb950"/>
 <text x="48" y="3376.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:39 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3387.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3391.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:27 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3402.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3406.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:25 EEST · runguard · tests updated</text>
-<circle cx="38" cy="3417.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3421.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:25 EEST · runguard · security hardening</text>
-<circle cx="38" cy="3432.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3436.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:19 EEST · runguard · analytics probe</text>
-<circle cx="38" cy="3447.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3451.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:19 EEST · stellami · roadmap gate update</text>
-<circle cx="38" cy="3462.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3466.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:19 EEST · stellami · feature work</text>
-<circle cx="38" cy="3477.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3481.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:12 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="3492.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3496.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:12 EEST · stellami · bug fix</text>
-<circle cx="38" cy="3507.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3511.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:11 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3522.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3526.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:09 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3537.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3541.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · stellami · roadmap gate update</text>
-<circle cx="38" cy="3552.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="3556.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · stellami-marketing · roadmap gate update</text>
-<circle cx="38" cy="3567.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3571.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3582.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="3586.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · esp-lab-jack · roadmap gate update</text>
-<circle cx="38" cy="3597.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3601.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:59 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3612.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3616.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:58 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3627.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3631.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:56 EEST · runguard · documentation update</text>
-<circle cx="38" cy="3642.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3646.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:49 EEST · stellami · version bump</text>
-<circle cx="38" cy="3657.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3661.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:49 EEST · stellami · activity update</text>
-<circle cx="38" cy="3672.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3676.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:47 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3687.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3691.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:46 EEST · runguard · activity update</text>
-<circle cx="38" cy="3702.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="3706.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:43 EEST · esp-lab-jack · activity update</text>
-<circle cx="38" cy="3717.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3721.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:43 EEST · stellami · version bump</text>
-<circle cx="38" cy="3732.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3736.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:42 EEST · stellami · legal document modification</text>
-<circle cx="38" cy="3747.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3751.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:42 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3762.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3766.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:41 EEST · stellami · activity update</text>
-<circle cx="38" cy="3777.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="3781.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:41 EEST · stellami-marketing · activity update</text>
-<circle cx="38" cy="3792.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="3796.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:41 EEST · esp-lab-jack · activity update</text>
-<circle cx="38" cy="3807.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="3811.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:38 EEST · esp-lab-jack · operator docs</text>
-<circle cx="38" cy="3822.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3826.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:37 EEST · stellami · version bump</text>
-<circle cx="38" cy="3837.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="3841.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:37 EEST · stellami-marketing · release ship</text>
-<circle cx="38" cy="3852.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3856.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:35 EEST · stellami · version bump</text>
-<circle cx="38" cy="3867.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="3871.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:35 EEST · stellami-marketing · activity update</text>
-<circle cx="38" cy="3882.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3886.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:26 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="3897.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3901.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:19 EEST · runguard · activity update</text>
-<circle cx="38" cy="3912.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3916.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:14 EEST · runguard · activity update</text>
-<circle cx="38" cy="3927.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3931.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:09 EEST · runguard · mesh connectivity update</text>
-<circle cx="38" cy="3942.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3946.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:46 EEST · runguard · mesh connectivity update</text>
-<circle cx="38" cy="3957.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3961.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:35 EEST · runguard · analytics probe</text>
-<circle cx="38" cy="3972.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3976.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · stellami · tests updated</text>
-<circle cx="38" cy="3987.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="3991.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · stellami · tests updated</text>
-<circle cx="38" cy="4002.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4006.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="4017.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4021.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · runguard · tests updated</text>
-<circle cx="38" cy="4032.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4036.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:31 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="4047.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4051.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:29 EEST · stellami · tests updated</text>
-<circle cx="38" cy="4062.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4066.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:29 EEST · runguard · tests updated</text>
-<circle cx="38" cy="4077.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4081.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:28 EEST · stellami · tests updated</text>
-<circle cx="38" cy="4092.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4096.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:28 EEST · runguard · tests updated</text>
-<circle cx="38" cy="4107.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4111.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:28 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="4122.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4126.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="4137.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4141.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · tests updated</text>
-<circle cx="38" cy="4152.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4156.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · tests updated</text>
-<circle cx="38" cy="4167.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="4171.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · esp-lab-jack · tests updated</text>
-<circle cx="38" cy="4182.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4186.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · runguard · tests updated</text>
-<circle cx="38" cy="4197.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4201.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · legal document modification</text>
-<circle cx="38" cy="4212.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4216.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · legal document modification</text>
-<circle cx="38" cy="4227.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4231.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 20:59 EEST · runguard · pulse board refresh</text>
-<circle cx="38" cy="4242.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4246.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:54 EEST · runguard · activity update</text>
-<circle cx="38" cy="4257.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4261.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:41 EEST · runguard · activity update</text>
-<circle cx="38" cy="4272.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4276.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:31 EEST · runguard · activity update</text>
-<circle cx="38" cy="4287.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4291.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:22 EEST · runguard · activity update</text>
-<circle cx="38" cy="4302.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="4306.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:26 EEST · esp-lab-jack · feature work</text>
-<circle cx="38" cy="4317.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4321.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:26 EEST · stellami · feature work</text>
-<circle cx="38" cy="4332.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4336.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:26 EEST · runguard · feature work</text>
-<circle cx="38" cy="4347.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4351.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:22 EEST · stellami · roadmap gate update</text>
-<circle cx="38" cy="4362.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4366.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:21 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="4377.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4381.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:21 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="4392.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="4396.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:08 EEST · esp-lab-jack · roadmap gate update</text>
-<circle cx="38" cy="4407.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="4411.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:07 EEST · esp-lab-jack · roadmap gate update</text>
-<circle cx="38" cy="4422.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4426.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:07 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="4437.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4441.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:07 EEST · stellami · roadmap gate update</text>
-<circle cx="38" cy="4452.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4456.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 17:50 EEST · runguard · security hardening</text>
-<circle cx="38" cy="4467.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="4471.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:58 EEST · esp-lab-jack · mark ESP-Lab as ★ MASTER on GitHub</text>
-<circle cx="38" cy="4482.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4486.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:58 EEST · runguard · mark RunGuard as ★ MASTER on GitHub</text>
-<circle cx="38" cy="4497.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4501.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:56 EEST · stellami · operator docs</text>
-<circle cx="38" cy="4512.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4516.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:30 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="4527.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4531.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:29 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="4542.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="4546.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:29 EEST · stellami · agent kit update</text>
 </g>
-<text x="20" y="4589.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 7 days · Europe/Bucharest · 0 in 24h · 295 in 7d · when · nick · action · no XP</text>
+<text x="20" y="3419.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 7 days · Europe/Bucharest · 0 in 24h · 217 in 7d · when · nick · action · no XP</text>
 </svg>
