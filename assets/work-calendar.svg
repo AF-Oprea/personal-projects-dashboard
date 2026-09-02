@@ -89,7 +89,7 @@
 <text x="60" y="326" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">EASM</text>
 <text x="280" y="326" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <text x="430" y="326" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
-<text x="580" y="326" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+39.5%</text>
+<text x="580" y="326" fill="#3fb950" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">+39.3%</text>
 <text x="730" y="326" fill="#6f7380" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">—</text>
 <rect x="24" y="342" width="832" height="30" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
 <g id="stream_logo_peri" class="stream_logo" data-stream="peri" transform="translate(34.0,348.0) scale(0.9000)" opacity="1.0"><!-- Candlestick chart - amber (stable distinct hue) -->
