@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 2133.0" width="880" height="2133.0" role="img" aria-label="Command Center — Live Stream last 7 days (public)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 2099.0" width="880" height="2099.0" role="img" aria-label="Command Center — Live Stream last 7 days (public)">
 <title>Command Center (public)</title>
-<rect width="880" height="2133.0" rx="20" fill="#07080b"/>
-<rect x="1.2" y="1.2" width="877.6" height="2130.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
+<rect width="880" height="2099.0" rx="20" fill="#07080b"/>
+<rect x="1.2" y="1.2" width="877.6" height="2096.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="20" y="42" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="20" y="60" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · last 7 days · Europe/Bucharest · when · nick · action</text>
-<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-03 15:15 EEST</text>
-<rect x="20" y="72" width="840" height="2013.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-03 15:30 EEST</text>
+<rect x="20" y="72" width="840" height="1979.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="34" y="94" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="846" y="94" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 7 days · Europe/Bucharest · when · nick · action</text>
 <defs>
 <clipPath id="live-stream-clip-pub">
-<rect x="20" y="72" width="840" height="2013.0"/>
+<rect x="20" y="72" width="840" height="1979.0"/>
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 7D · 115</text>
+<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 7D · 113</text>
 <circle cx="38" cy="132.0" r="3.5" fill="#ef4444"/>
 <text x="48" y="136.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 19:11 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="149.0" r="3.5" fill="#79c0ff"/>
@@ -241,10 +241,6 @@
 <text x="48" y="2023.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:02 EEST · MF2FV · roadmap gate update</text>
 <circle cx="38" cy="2036.0" r="3.5" fill="#ef4444"/>
 <text x="48" y="2040.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:38 EEST · MF2FV · activity update</text>
-<circle cx="38" cy="2053.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2057.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:18 EEST · MF2FV · agent kit update</text>
-<circle cx="38" cy="2070.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2074.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:17 EEST · MF2FV · activity update</text>
 </g>
-<text x="20" y="2119.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 7 days · Europe/Bucharest · 0 in 24h · 115 in 7d · when · nick · action · no XP</text>
+<text x="20" y="2085.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 7 days · Europe/Bucharest · 0 in 24h · 113 in 7d · when · nick · action · no XP</text>
 </svg>
