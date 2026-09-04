@@ -213,8 +213,9 @@ h2 {
 }
 
 .tune-btn:disabled, .icon-btn:disabled, .tune-form button:disabled {
-  opacity: 0.4;
+  opacity: 0.35;
   cursor: not-allowed;
+  filter: grayscale(0.35);
 }
 
 .icon-btn {

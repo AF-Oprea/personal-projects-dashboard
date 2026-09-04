@@ -173,9 +173,13 @@
         if (state.player && typeof state.player.loadPlaylist === "function") {
           window.clearInterval(timer);
           resolve(state.player);
-        } else if (Date.now() - started > 15000) {
+        } else if (Date.now() - started > 8000) {
           window.clearInterval(timer);
-          reject(new Error("YouTube player did not load."));
+          reject(
+            new Error(
+              "YouTube player did not load. Open this page on your computer — the station itself is already local."
+            )
+          );
         }
       }, 100);
     });
@@ -183,28 +187,40 @@
 
   async function applyStation(station) {
     state.playlistId = station.playlist_id;
-    document.body.classList.add("is-tuned");
     $("playlist").value = station.source_url || station.watch_url || "";
     $("freq").textContent = `${station.frequency || "87.5"} FM`;
     $("shuffle").checked = Boolean(station.shuffle);
     $("loop").checked = station.loop !== false;
     $("title").textContent = "Cueing the playlist…";
     $("author").textContent = "The station is linking your YouTube list.";
-    const player = await waitForPlayer();
-    player.setLoop($("loop").checked);
-    player.loadPlaylist({
-      listType: "playlist",
-      list: station.playlist_id,
-      index: 0,
-    });
-    if ($("shuffle").checked && player.setShuffle) player.setShuffle(true);
     refreshButtons();
+    try {
+      const player = await waitForPlayer();
+      document.body.classList.add("is-tuned");
+      player.setLoop($("loop").checked);
+      player.loadPlaylist({
+        listType: "playlist",
+        list: station.playlist_id,
+        index: 0,
+      });
+      if ($("shuffle").checked && player.setShuffle) player.setShuffle(true);
+      refreshButtons();
+    } catch (err) {
+      $("title").textContent = "Station linked";
+      $("author").textContent = "Playlist is saved locally. Playback needs YouTube in this browser.";
+      throw err;
+    }
   }
 
-  function showError(message) {
+  function showError(message, options = {}) {
     const node = $("form-error");
     node.hidden = !message;
     node.textContent = message || "";
+    if ($("idle-copy") && (options.idle || !message)) {
+      $("idle-copy").textContent = options.idle
+        ? message
+        : "Link a playlist to go on air.";
+    }
   }
 
   $("tune-form").addEventListener("submit", async (event) => {
@@ -223,7 +239,8 @@
       }
       await applyStation(payload.station);
     } catch (err) {
-      showError(err.message || "Could not tune that playlist.");
+      const msg = err.message || "Could not tune that playlist.";
+      showError(msg, { idle: /YouTube player did not load/.test(msg) });
     }
   });
 
@@ -286,7 +303,11 @@
       const payload = await response.json();
       if (payload.tuned && payload.station) {
         if (!preset) $("playlist").value = payload.station.source_url || payload.station.watch_url;
-        await applyStation(payload.station);
+        try {
+          await applyStation(payload.station);
+        } catch (err) {
+          showError(err.message, { idle: /YouTube player did not load/.test(err.message) });
+        }
       } else if (preset) {
         $("tune-form").requestSubmit();
       }
