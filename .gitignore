@@ -10,3 +10,5 @@ projects.local.conf
 *.key
 secrets.env
 __pycache__/
+rt/data/*.json
+rt/data/*.cache

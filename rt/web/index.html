@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>R&amp;T — local YouTube radio</title>
+    <meta name="description" content="Paste a YouTube playlist and listen to it like a radio on a local server." />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+    <header class="top">
+      <div class="brand">
+        <img src="/favicon.svg" width="28" height="28" alt="" />
+        <div>
+          <p class="eyebrow">AF-Oprea · stream</p>
+          <h1>R&amp;T</h1>
+        </div>
+      </div>
+      <div class="status">
+        <span id="air-dot" class="air-dot" aria-hidden="true"></span>
+        <span id="air-label">Standby</span>
+        <span id="freq" class="freq">87.5 FM</span>
+      </div>
+    </header>
+
+    <main class="deck">
+      <section class="set" aria-label="Radio">
+        <div class="bezel">
+          <div id="screen" class="screen"></div>
+          <div id="idle-screen" class="idle-screen">
+            <p>Link a playlist to go on air.</p>
+            <p class="hint">Local station · YouTube embed · loops like radio</p>
+          </div>
+        </div>
+
+        <div class="now">
+          <p class="eyebrow">Now playing</p>
+          <h2 id="title">Silence on the wire</h2>
+          <p id="author" class="author">Tune a YouTube playlist to start the station.</p>
+          <div class="progress-wrap">
+            <div class="progress" aria-hidden="true"><span id="bar"></span></div>
+            <div class="times">
+              <span id="elapsed">0:00</span>
+              <span id="duration">0:00</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="transport">
+          <button type="button" id="prev" class="icon-btn" aria-label="Previous track" disabled>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg>
+          </button>
+          <button type="button" id="toggle" class="tune-btn" disabled>Tune In</button>
+          <button type="button" id="next" class="icon-btn" aria-label="Next track" disabled>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 6h2v12h-2zM6 6v12l8.5-6z"/></svg>
+          </button>
+        </div>
+
+        <div class="knobs">
+          <label class="toggle">
+            <input type="checkbox" id="shuffle" />
+            <span>Shuffle mix</span>
+          </label>
+          <label class="toggle">
+            <input type="checkbox" id="loop" checked />
+            <span>Loop station</span>
+          </label>
+          <label class="volume">
+            <span>Volume</span>
+            <input type="range" id="volume" min="0" max="100" value="80" />
+          </label>
+        </div>
+      </section>
+
+      <section class="side">
+        <form id="tune-form" class="tune-form" action="/api/tune" method="post">
+          <label for="playlist">YouTube playlist</label>
+          <div class="row">
+            <input
+              id="playlist"
+              name="url"
+              type="text"
+              inputmode="url"
+              autocomplete="off"
+              placeholder="https://www.youtube.com/playlist?list=…"
+              required
+            />
+            <button type="submit">Link</button>
+          </div>
+          <p id="form-error" class="error" hidden></p>
+        </form>
+
+        <div class="queue-head">
+          <p class="eyebrow">On deck</p>
+          <p id="queue-count" class="muted">No tracks yet</p>
+        </div>
+        <ol id="queue" class="queue"></ol>
+      </section>
+    </main>
+
+    <footer>
+      <p>Local server only. Playback uses the official YouTube embed — nothing is downloaded.</p>
+    </footer>
+
+    <script src="/app.js"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </body>
+</html>
