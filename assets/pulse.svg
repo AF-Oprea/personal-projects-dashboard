@@ -87,7 +87,7 @@
   <circle cx="8.3" cy="13" r="0.55" fill="#fca5a5"/>
   <circle cx="11.7" cy="13" r="0.55" fill="#fca5a5"/></g><use class="stream_logo" data-stream="mf2fv" href="#stream_logo_mf2fv" x="35.0" y="231.0" width="18" height="18" opacity="0"/>
 <text x="66" y="236" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">MF2FV</text>
-<text x="66" y="252" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">MF2FV — PWA multi-room party (public/private sessio…</text>
+<text x="66" y="252" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">MF2FV — PWA multi-room social deduction party</text>
 <text x="430" y="244" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">78.8%</text>
 <rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
 <rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="#ba3535"/>
@@ -322,6 +322,6 @@
 <rect x="785.0" y="730.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ff7b72" stroke-width="1.4"/>
 <rect x="785.0" y="730.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="748.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
-<text x="28" y="794" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.0% · Δ 24h +0.0% · Δ 7d +0.4% · Δ 30d — (% LOC · roadmap % on ring)</text>
-<text x="28" y="808" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-04T19:24:24Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
+<text x="28" y="794" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.1% · Δ 24h +0.1% · Δ 7d +0.4% · Δ 30d — (% LOC · roadmap % on ring)</text>
+<text x="28" y="808" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-04T19:25:31Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
 </svg>
