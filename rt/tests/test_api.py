@@ -57,6 +57,8 @@ class ApiTests(unittest.TestCase):
             self.assertEqual(response.status, 200)
             self.assertIn("R&amp;T", html)
             self.assertIn("YouTube playlist", html)
+            self.assertIn("screen-host", html)
+            self.assertNotIn('id="screen"', html)
 
     def test_tune_and_control(self):
         status, body = self._json(
@@ -67,6 +69,8 @@ class ApiTests(unittest.TestCase):
         self.assertEqual(status, 200)
         self.assertTrue(body["tuned"])
         self.assertEqual(body["station"]["playlist_id"], "PLabcdefghijklmnopqrstuvwx01234567")
+        self.assertIn("/embed/videoseries?", body["station"]["embed_url"])
+        self.assertIn("list=PLabcdefghijklmnopqrstuvwx01234567", body["station"]["embed_url"])
 
         status, body = self._json("/api/station")
         self.assertTrue(body["tuned"])

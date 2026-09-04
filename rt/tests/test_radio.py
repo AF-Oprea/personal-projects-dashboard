@@ -9,6 +9,7 @@ from rt.radio import (
     fm_frequency,
     new_station,
     parse_playlist_id,
+    playlist_embed_url,
     public_station,
 )
 
@@ -69,6 +70,17 @@ class StationTests(unittest.TestCase):
             public = public_station(again.get())
             self.assertTrue(public["tuned"])
             self.assertEqual(public["station"]["frequency"], station["frequency"])
+            embed = public["station"]["embed_url"]
+            self.assertIn("/embed/videoseries?", embed)
+            self.assertIn("list=PLabcdefghijklmnopqrstuvwx01234567", embed)
+            self.assertNotIn("/embed/?", embed)
+
+    def test_embed_url_always_has_playlist(self):
+        url = playlist_embed_url("PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI")
+        self.assertTrue(url.startswith("https://www.youtube.com/embed/videoseries?"))
+        self.assertIn("list=PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI", url)
+        self.assertIn("enablejsapi=1", url)
+        self.assertNotRegex(url, r"/embed/\?")
 
     def test_meta_cache_uses_fetcher_once(self):
         calls = []

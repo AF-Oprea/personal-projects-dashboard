@@ -14,31 +14,107 @@
 
   window.onYouTubeIframeAPIReady = () => {
     state.ytReady = true;
-    state.player = new YT.Player("screen", {
-      width: 640,
-      height: 360,
-      playerVars: {
-        autoplay: 0,
-        controls: 1,
-        disablekb: 0,
-        fs: 1,
-        modestbranding: 1,
-        rel: 0,
-        iv_load_policy: 3,
-        playsinline: 1,
-        origin: location.origin,
-      },
-      events: {
-        onReady: onPlayerReady,
-        onStateChange: onPlayerState,
-        onError: () => skipUnavailable(),
-      },
-    });
   };
 
+  function embedUrl(playlistId, serverUrl) {
+    const url = new URL(
+      serverUrl && serverUrl.includes("/embed/videoseries")
+        ? serverUrl
+        : "https://www.youtube.com/embed/videoseries"
+    );
+    url.searchParams.set("list", playlistId);
+    url.searchParams.set("autoplay", "1");
+    url.searchParams.set("loop", "1");
+    url.searchParams.set("enablejsapi", "1");
+    url.searchParams.set("origin", location.origin);
+    return url.toString();
+  }
+
+  function mountIframe(src) {
+    if (state.player && typeof state.player.destroy === "function") {
+      try {
+        state.player.destroy();
+      } catch {
+        /* iframe will be replaced anyway */
+      }
+      state.player = null;
+    }
+    const host = $("screen-host");
+    host.replaceChildren();
+    const iframe = document.createElement("iframe");
+    iframe.id = "screen";
+    iframe.className = "screen";
+    iframe.title = "YouTube video player";
+    iframe.allow =
+      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+    iframe.referrerPolicy = "strict-origin-when-cross-origin";
+    iframe.allowFullscreen = true;
+    iframe.src = src;
+    host.appendChild(iframe);
+    document.body.classList.add("is-tuned");
+  }
+
+  function waitForApi() {
+    return new Promise((resolve, reject) => {
+      const started = Date.now();
+      const timer = window.setInterval(() => {
+        if (state.ytReady && window.YT && window.YT.Player) {
+          window.clearInterval(timer);
+          resolve();
+        } else if (Date.now() - started > 8000) {
+          window.clearInterval(timer);
+          reject(new Error("YouTube IFrame API did not load."));
+        }
+      }, 50);
+    });
+  }
+
+  function bindPlayer() {
+    return new Promise((resolve) => {
+      const el = $("screen");
+      if (!window.YT || !window.YT.Player || !el || el.tagName !== "IFRAME") {
+        resolve(null);
+        return;
+      }
+      let settled = false;
+      const finish = (player) => {
+        if (settled) return;
+        settled = true;
+        resolve(player || null);
+      };
+      const timer = window.setTimeout(() => finish(state.player), 8000);
+      state.player = new YT.Player("screen", {
+        playerVars: {
+          listType: "playlist",
+          list: state.playlistId,
+          index: 0,
+          autoplay: 1,
+          loop: 1,
+          modestbranding: 1,
+          rel: 0,
+          playsinline: 1,
+          enablejsapi: 1,
+          controls: 1,
+        },
+        events: {
+          onReady: (event) => {
+            window.clearTimeout(timer);
+            state.player = event.target;
+            onPlayerReady();
+            finish(event.target);
+          },
+          onStateChange: onPlayerState,
+          onError: () => skipUnavailable(),
+        },
+      });
+    });
+  }
+
   function onPlayerReady() {
-    state.player.setVolume(Number($("volume").value));
-    state.player.setLoop($("loop").checked);
+    if (!state.player) return;
+    if (state.player.setVolume) state.player.setVolume(Number($("volume").value));
+    if (state.player.setLoop) state.player.setLoop($("loop").checked);
+    if ($("shuffle").checked && state.player.setShuffle) state.player.setShuffle(true);
     refreshButtons();
   }
 
@@ -166,25 +242,6 @@
     return escapeHtml(value).replaceAll("'", "&#39;");
   }
 
-  function waitForPlayer() {
-    return new Promise((resolve, reject) => {
-      const started = Date.now();
-      const timer = window.setInterval(() => {
-        if (state.player && typeof state.player.loadPlaylist === "function") {
-          window.clearInterval(timer);
-          resolve(state.player);
-        } else if (Date.now() - started > 8000) {
-          window.clearInterval(timer);
-          reject(
-            new Error(
-              "YouTube player did not load. Open this page on your computer — the station itself is already local."
-            )
-          );
-        }
-      }, 100);
-    });
-  }
-
   async function applyStation(station) {
     state.playlistId = station.playlist_id;
     $("playlist").value = station.source_url || station.watch_url || "";
@@ -193,23 +250,19 @@
     $("loop").checked = station.loop !== false;
     $("title").textContent = "Cueing the playlist…";
     $("author").textContent = "The station is linking your YouTube list.";
+    showError("");
+    const src = embedUrl(station.playlist_id, station.embed_url);
+    mountIframe(src);
     refreshButtons();
     try {
-      const player = await waitForPlayer();
-      document.body.classList.add("is-tuned");
-      player.setLoop($("loop").checked);
-      player.loadPlaylist({
-        listType: "playlist",
-        list: station.playlist_id,
-        index: 0,
-      });
-      if ($("shuffle").checked && player.setShuffle) player.setShuffle(true);
-      refreshButtons();
-    } catch (err) {
-      $("title").textContent = "Station linked";
-      $("author").textContent = "Playlist is saved locally. Playback needs YouTube in this browser.";
-      throw err;
+      await waitForApi();
+      const player = await bindPlayer();
+      if (player && player.setLoop) player.setLoop($("loop").checked);
+      if (player && $("shuffle").checked && player.setShuffle) player.setShuffle(true);
+    } catch {
+      $("author").textContent = "Playlist is in the player. Use YouTube controls if Tune In stays off.";
     }
+    refreshButtons();
   }
 
   function showError(message, options = {}) {
@@ -239,8 +292,7 @@
       }
       await applyStation(payload.station);
     } catch (err) {
-      const msg = err.message || "Could not tune that playlist.";
-      showError(msg, { idle: /YouTube player did not load/.test(msg) });
+      showError(err.message || "Could not tune that playlist.");
     }
   });
 
@@ -303,11 +355,7 @@
       const payload = await response.json();
       if (payload.tuned && payload.station) {
         if (!preset) $("playlist").value = payload.station.source_url || payload.station.watch_url;
-        try {
-          await applyStation(payload.station);
-        } catch (err) {
-          showError(err.message, { idle: /YouTube player did not load/.test(err.message) });
-        }
+        await applyStation(payload.station);
       } else if (preset) {
         $("tune-form").requestSubmit();
       }

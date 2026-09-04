@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable
 from urllib.error import HTTPError, URLError
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import parse_qs, urlencode, urlparse
 from urllib.request import Request, urlopen
 
 YOUTUBE_HOSTS = {
@@ -82,6 +82,23 @@ def parse_playlist_id(raw: str) -> str:
 
 def playlist_watch_url(playlist_id: str) -> str:
     return f"https://www.youtube.com/playlist?list={playlist_id}"
+
+
+def playlist_embed_url(playlist_id: str) -> str:
+    """Official playlist embed — never /embed/? without an id."""
+    query = urlencode(
+        {
+            "list": playlist_id,
+            "autoplay": "1",
+            "loop": "1",
+            "rel": "0",
+            "modestbranding": "1",
+            "playsinline": "1",
+            "enablejsapi": "1",
+            "controls": "1",
+        }
+    )
+    return f"https://www.youtube.com/embed/videoseries?{query}"
 
 
 def video_watch_url(video_id: str) -> str:
@@ -214,6 +231,7 @@ def public_station(station: dict[str, Any] | None) -> dict[str, Any]:
             "playlist_id": station["playlist_id"],
             "source_url": station.get("source_url"),
             "watch_url": station.get("watch_url"),
+            "embed_url": playlist_embed_url(station["playlist_id"]),
             "frequency": station.get("frequency"),
             "tuned_at": station.get("tuned_at"),
             "shuffle": bool(station.get("shuffle")),
