@@ -2,7 +2,7 @@
 <title>Activity · last 15 days</title>
 <rect width="880" height="496" rx="16" fill="#07080b"/>
 <text x="24" y="32" fill="#f4f1ea" font-size="16" font-family="ui-serif, Georgia, serif">Activity · last 15 days</text>
-<text x="24" y="50" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Git commits + files touched per day · Europe/Bucharest · docs / roadmap / markdown count · 7 active days · 320 commits · 5962 file touches</text>
+<text x="24" y="50" fill="#9a9aa8" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Git commits + files touched per day · Europe/Bucharest · docs / roadmap / markdown count · 7 active days · 322 commits · 5964 file touches</text>
 <defs><clipPath id="wc-stream-label"><rect x="60.0" y="0" width="132.5" height="496"/></clipPath></defs>
 <rect x="24" y="68" width="202" height="48" rx="10" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="36" y="86" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Δ 30m code</text>
@@ -15,7 +15,7 @@
 <text x="456" y="106" fill="#3fb950" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+0.4%</text>
 <rect x="654" y="68" width="202" height="48" rx="10" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="666" y="86" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Δ 30d code</text>
-<text x="666" y="106" fill="#3fb950" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+9.3%</text>
+<text x="666" y="106" fill="#3fb950" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+9.4%</text>
 <text x="247.0" y="144" fill="#6f7380" font-size="8" font-family="ui-sans-serif, system-ui, sans-serif">Aug 22</text>
 <text x="331.4" y="144" fill="#6f7380" font-size="8" font-family="ui-sans-serif, system-ui, sans-serif">Aug 24</text>
 <text x="415.9" y="144" fill="#6f7380" font-size="8" font-family="ui-sans-serif, system-ui, sans-serif">Aug 26</text>
@@ -56,7 +56,7 @@
   <path fill="#0d1117" fill-opacity=".35" d="M10 3.2 L14.8 5.1 V9.7 C14.8 12.9 12.6 15.4 10 16.4 C7.4 15.4 5.2 12.9 5.2 9.7 V5.1 Z"/>
   <path fill="#f4f1ea" d="M7.2 7.1h3.1c1.35 0 2.2.7 2.2 1.75 0 .85-.5 1.45-1.35 1.65L12.6 13h-1.85l-1.2-2.35H8.7V13H7.2V7.1zm1.5 1.2v1.55h1.35c.55 0 .9-.28.9-.75s-.35-.8-.9-.8H8.7z"/></g><use class="stream_logo" data-stream="runguard" href="#stream_logo_runguard" x="34.0" y="179.0" width="18" height="18" opacity="0"/>
 <text x="60" y="192" fill="#f4f1ea" font-size="12" font-family="ui-monospace, SFMono-Regular, monospace" clip-path="url(#wc-stream-label)">RunGuard</text>
-<text x="239" y="192" fill="#6f7380" font-size="9" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">71c/5d</text>
+<text x="239" y="192" fill="#6f7380" font-size="9" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">72c/6d</text>
 <rect x="247.0" y="179.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>RunGuard 2026-08-22: idle</title></rect>
 <rect x="289.2" y="179.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>RunGuard 2026-08-23: idle</title></rect>
 <rect x="331.4" y="179.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>RunGuard 2026-08-24: idle</title></rect>
@@ -71,7 +71,7 @@
 <rect x="711.4" y="179.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>RunGuard 2026-09-02: idle</title></rect>
 <rect x="753.6" y="179.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>RunGuard 2026-09-03: idle</title></rect>
 <rect x="795.8" y="179.0" width="18.0" height="18.0" rx="3" fill="#113316"><title>RunGuard 2026-09-04: 1 commit · 1 file</title></rect>
-<rect x="838.0" y="179.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>RunGuard 2026-09-05: idle</title></rect>
+<rect x="838.0" y="179.0" width="18.0" height="18.0" rx="3" fill="#113316"><title>RunGuard 2026-09-05: 1 commit · 1 file</title></rect>
 <rect x="24" y="202" width="832" height="24" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
 <g id="stream_logo_stellami" class="stream_logo" data-stream="stellami" transform="translate(34.0,205.0) scale(0.9000)" opacity="1.0"><!-- Star - purple field + gold accent (from Stellami brand logo-curent) -->
   <defs>
@@ -192,7 +192,7 @@
   <path fill="#ff7b72" d="M10 2.8 C10 2.8 15.2 9.2 15.2 12.4 A5.2 5.2 0 0 1 4.8 12.4 C4.8 9.2 10 2.8 10 2.8 Z"/>
   <ellipse cx="8.2" cy="11.2" rx="1.4" ry="2" fill="#ffd0cc" opacity=".55"/></g><use class="stream_logo" data-stream="wash" href="#stream_logo_wash" x="34.0" y="309.0" width="18" height="18" opacity="0"/>
 <text x="60" y="322" fill="#f4f1ea" font-size="12" font-family="ui-monospace, SFMono-Regular, monospace" clip-path="url(#wc-stream-label)">WASH</text>
-<text x="239" y="322" fill="#6f7380" font-size="9" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">5c/2d</text>
+<text x="239" y="322" fill="#6f7380" font-size="9" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">6c/3d</text>
 <rect x="247.0" y="309.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>WASH 2026-08-22: idle</title></rect>
 <rect x="289.2" y="309.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>WASH 2026-08-23: idle</title></rect>
 <rect x="331.4" y="309.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>WASH 2026-08-24: idle</title></rect>
@@ -207,7 +207,7 @@
 <rect x="711.4" y="309.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>WASH 2026-09-02: idle</title></rect>
 <rect x="753.6" y="309.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>WASH 2026-09-03: idle</title></rect>
 <rect x="795.8" y="309.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>WASH 2026-09-04: idle</title></rect>
-<rect x="838.0" y="309.0" width="18.0" height="18.0" rx="3" fill="rgba(255,255,255,0.06)"><title>WASH 2026-09-05: idle</title></rect>
+<rect x="838.0" y="309.0" width="18.0" height="18.0" rx="3" fill="#47221f"><title>WASH 2026-09-05: 1 commit · 1 file</title></rect>
 <rect x="24" y="332" width="832" height="24" rx="8" fill="#101218" stroke="rgba(232,228,214,0.06)"/>
 <g id="stream_logo_peri" class="stream_logo" data-stream="peri" transform="translate(34.0,335.0) scale(0.9000)" opacity="1.0"><!-- Candlestick chart - amber (stable distinct hue) -->
   <rect width="20" height="20" rx="4" fill="#422006"/>
