@@ -9,13 +9,13 @@
 <text x="36" y="106" fill="#9a9aa8" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
 <rect x="234" y="68" width="202" height="48" rx="10" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="246" y="86" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Δ 24h code</text>
-<text x="246" y="106" fill="#9a9aa8" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
+<text x="246" y="106" fill="#3fb950" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+0.5%</text>
 <rect x="444" y="68" width="202" height="48" rx="10" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="456" y="86" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Δ 7d code</text>
-<text x="456" y="106" fill="#9a9aa8" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
+<text x="456" y="106" fill="#3fb950" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+0.5%</text>
 <rect x="654" y="68" width="202" height="48" rx="10" fill="#101218" stroke="rgba(232,228,214,0.10)"/>
 <text x="666" y="86" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif">Δ 30d code</text>
-<text x="666" y="106" fill="#9a9aa8" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+0.0%</text>
+<text x="666" y="106" fill="#3fb950" font-size="16" font-family="ui-monospace, SFMono-Regular, monospace">+9.6%</text>
 <text x="247.0" y="144" fill="#6f7380" font-size="8" font-family="ui-sans-serif, system-ui, sans-serif">Aug 23</text>
 <text x="331.4" y="144" fill="#6f7380" font-size="8" font-family="ui-sans-serif, system-ui, sans-serif">Aug 25</text>
 <text x="415.9" y="144" fill="#6f7380" font-size="8" font-family="ui-sans-serif, system-ui, sans-serif">Aug 27</text>
