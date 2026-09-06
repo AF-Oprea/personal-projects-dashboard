@@ -1,955 +1,959 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 7226.0" width="880" height="7226.0" role="img" aria-label="Command Center — Live Stream last 30 days (public)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 7256.0" width="880" height="7256.0" role="img" aria-label="Command Center — Live Stream last 30 days (public)">
 <title>Command Center (public)</title>
-<rect width="880" height="7226.0" rx="20" fill="#07080b"/>
-<rect x="1.2" y="1.2" width="877.6" height="7223.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
+<rect width="880" height="7256.0" rx="20" fill="#07080b"/>
+<rect x="1.2" y="1.2" width="877.6" height="7253.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="20" y="42" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="20" y="60" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · last 30 days · Europe/Bucharest · when · nick · action</text>
-<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-06 17:00 EEST</text>
-<rect x="20" y="72" width="840" height="7106.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-06 17:03 EEST</text>
+<rect x="20" y="72" width="840" height="7136.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="34" y="94" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="846" y="94" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 30 days · Europe/Bucharest · when · nick · action</text>
 <defs>
 <clipPath id="live-stream-clip-pub">
-<rect x="20" y="72" width="840" height="7106.0"/>
+<rect x="20" y="72" width="840" height="7136.0"/>
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 143</text>
+<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 145</text>
 <text x="34" y="138.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LATEST PER STREAM · 4</text>
 <circle cx="38" cy="150.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="154.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:58 EEST · PPCV · bug fix</text>
+<text x="48" y="154.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:03 EEST · PPCV · activity update</text>
 <circle cx="38" cy="165.0" r="3.5" fill="#ef4444"/>
 <text x="48" y="169.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:06 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="180.0" r="3.5" fill="#3fb950"/>
 <text x="48" y="184.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:38 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="195.0" r="3.5" fill="#ff7b72"/>
 <text x="48" y="199.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:03 EEST · WASH · activity update</text>
-<text x="34" y="220.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">MORE LAST 24H · 139</text>
+<text x="34" y="220.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">MORE LAST 24H · 141</text>
 <circle cx="38" cy="232.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="236.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:53 EEST · PPCV · bug fix</text>
+<text x="48" y="236.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:01 EEST · PPCV · activity update</text>
 <circle cx="38" cy="247.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="251.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:52 EEST · PPCV · ui polish</text>
+<text x="48" y="251.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:58 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="262.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="266.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:50 EEST · PPCV · activity update</text>
+<text x="48" y="266.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:53 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="277.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="281.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:42 EEST · PPCV · activity update</text>
+<text x="48" y="281.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:52 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="292.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="296.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:39 EEST · PPCV · cleanup removal</text>
+<text x="48" y="296.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:50 EEST · PPCV · activity update</text>
 <circle cx="38" cy="307.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="311.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:34 EEST · PPCV · bug fix</text>
+<text x="48" y="311.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:42 EEST · PPCV · activity update</text>
 <circle cx="38" cy="322.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="326.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:27 EEST · PPCV · activity update</text>
+<text x="48" y="326.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:39 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="337.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="341.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:18 EEST · PPCV · activity update</text>
+<text x="48" y="341.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:34 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="352.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="356.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:07 EEST · PPCV · activity update</text>
+<text x="48" y="356.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:27 EEST · PPCV · activity update</text>
 <circle cx="38" cy="367.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="371.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:56 EEST · PPCV · activity update</text>
+<text x="48" y="371.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:18 EEST · PPCV · activity update</text>
 <circle cx="38" cy="382.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="386.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:49 EEST · PPCV · bug fix</text>
+<text x="48" y="386.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:07 EEST · PPCV · activity update</text>
 <circle cx="38" cy="397.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="401.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:44 EEST · PPCV · activity update</text>
+<text x="48" y="401.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:56 EEST · PPCV · activity update</text>
 <circle cx="38" cy="412.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="416.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:40 EEST · PPCV · activity update</text>
+<text x="48" y="416.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:49 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="427.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="431.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:29 EEST · PPCV · activity update</text>
+<text x="48" y="431.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:44 EEST · PPCV · activity update</text>
 <circle cx="38" cy="442.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="446.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:21 EEST · PPCV · cleanup removal</text>
+<text x="48" y="446.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:40 EEST · PPCV · activity update</text>
 <circle cx="38" cy="457.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="461.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:21 EEST · PPCV · feature work</text>
-<circle cx="38" cy="472.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="476.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:51 EEST · MF2FV · activity update</text>
+<text x="48" y="461.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:29 EEST · PPCV · activity update</text>
+<circle cx="38" cy="472.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="476.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:21 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="487.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="491.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:45 EEST · PPCV · activity update</text>
-<circle cx="38" cy="502.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="506.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:27 EEST · PPCV · mesh connectivity update</text>
+<text x="48" y="491.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:21 EEST · PPCV · feature work</text>
+<circle cx="38" cy="502.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="506.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:51 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="517.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="521.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:17 EEST · PPCV · operator docs</text>
+<text x="48" y="521.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:45 EEST · PPCV · activity update</text>
 <circle cx="38" cy="532.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="536.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:56 EEST · PPCV · cleanup removal</text>
+<text x="48" y="536.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:27 EEST · PPCV · mesh connectivity update</text>
 <circle cx="38" cy="547.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="551.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:41 EEST · PPCV · activity update</text>
+<text x="48" y="551.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:17 EEST · PPCV · operator docs</text>
 <circle cx="38" cy="562.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="566.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:35 EEST · PPCV · activity update</text>
+<text x="48" y="566.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:56 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="577.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="581.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:26 EEST · PPCV · activity update</text>
+<text x="48" y="581.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:41 EEST · PPCV · activity update</text>
 <circle cx="38" cy="592.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="596.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:12 EEST · PPCV · wire hero PROJECTS heading to RO i18n</text>
+<text x="48" y="596.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:35 EEST · PPCV · activity update</text>
 <circle cx="38" cy="607.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="611.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:14 EEST · PPCV · activity update</text>
+<text x="48" y="611.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:26 EEST · PPCV · activity update</text>
 <circle cx="38" cy="622.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="626.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:08 EEST · PPCV · activity update</text>
+<text x="48" y="626.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:12 EEST · PPCV · wire hero PROJECTS heading to RO i18n</text>
 <circle cx="38" cy="637.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="641.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:06 EEST · PPCV · activity update</text>
+<text x="48" y="641.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:14 EEST · PPCV · activity update</text>
 <circle cx="38" cy="652.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="656.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:03 EEST · PPCV · activity update</text>
+<text x="48" y="656.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:08 EEST · PPCV · activity update</text>
 <circle cx="38" cy="667.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="671.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:00 EEST · PPCV · bug fix</text>
+<text x="48" y="671.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:06 EEST · PPCV · activity update</text>
 <circle cx="38" cy="682.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="686.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:52 EEST · PPCV · cleanup removal</text>
+<text x="48" y="686.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:03 EEST · PPCV · activity update</text>
 <circle cx="38" cy="697.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="701.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:24 EEST · PPCV · activity update</text>
+<text x="48" y="701.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:00 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="712.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="716.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:17 EEST · PPCV · activity update</text>
+<text x="48" y="716.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:52 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="727.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="731.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:14 EEST · PPCV · activity update</text>
+<text x="48" y="731.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:24 EEST · PPCV · activity update</text>
 <circle cx="38" cy="742.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="746.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:11 EEST · PPCV · pulse board refresh</text>
+<text x="48" y="746.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:17 EEST · PPCV · activity update</text>
 <circle cx="38" cy="757.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="761.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:07 EEST · PPCV · activity update</text>
+<text x="48" y="761.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:14 EEST · PPCV · activity update</text>
 <circle cx="38" cy="772.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="776.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:06 EEST · PPCV · activity update</text>
+<text x="48" y="776.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:11 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="787.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="791.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:01 EEST · PPCV · activity update</text>
+<text x="48" y="791.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:07 EEST · PPCV · activity update</text>
 <circle cx="38" cy="802.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="806.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:57 EEST · PPCV · activity update</text>
+<text x="48" y="806.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:06 EEST · PPCV · activity update</text>
 <circle cx="38" cy="817.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="821.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:53 EEST · PPCV · ui polish</text>
+<text x="48" y="821.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:01 EEST · PPCV · activity update</text>
 <circle cx="38" cy="832.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="836.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:45 EEST · PPCV · activity update</text>
+<text x="48" y="836.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:57 EEST · PPCV · activity update</text>
 <circle cx="38" cy="847.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="851.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:21 EEST · PPCV · bug fix</text>
+<text x="48" y="851.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:53 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="862.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="866.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:16 EEST · PPCV · command center update</text>
+<text x="48" y="866.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:45 EEST · PPCV · activity update</text>
 <circle cx="38" cy="877.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="881.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:08 EEST · PPCV · activity update</text>
+<text x="48" y="881.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:21 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="892.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="896.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:05 EEST · PPCV · mute and shrink not-live sky pills</text>
+<text x="48" y="896.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:16 EEST · PPCV · command center update</text>
 <circle cx="38" cy="907.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="911.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:02 EEST · PPCV · cleanup removal</text>
+<text x="48" y="911.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:08 EEST · PPCV · activity update</text>
 <circle cx="38" cy="922.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="926.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:01 EEST · PPCV · cleanup removal</text>
+<text x="48" y="926.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:05 EEST · PPCV · mute and shrink not-live sky pills</text>
 <circle cx="38" cy="937.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="941.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:57 EEST · PPCV · make sky cluster panel fully transparent</text>
+<text x="48" y="941.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:02 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="952.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="956.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:57 EEST · PPCV · activity update</text>
+<text x="48" y="956.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:01 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="967.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="971.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:55 EEST · PPCV · activity update</text>
+<text x="48" y="971.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:57 EEST · PPCV · make sky cluster panel fully transparent</text>
 <circle cx="38" cy="982.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="986.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:53 EEST · PPCV · activity update</text>
+<text x="48" y="986.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:57 EEST · PPCV · activity update</text>
 <circle cx="38" cy="997.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1001.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:49 EEST · PPCV · activity update</text>
+<text x="48" y="1001.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:55 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1012.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1016.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:30 EEST · PPCV · cleanup removal</text>
+<text x="48" y="1016.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:53 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1027.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1031.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:27 EEST · PPCV · feature work</text>
+<text x="48" y="1031.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:49 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1042.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1046.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:25 EEST · PPCV · activity update</text>
+<text x="48" y="1046.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:30 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="1057.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1061.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:22 EEST · PPCV · rename AF-Oprea wiki to PPCV on :6660</text>
-<circle cx="38" cy="1072.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="1076.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:17 EEST · MF2FV · ui polish</text>
+<text x="48" y="1061.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:27 EEST · PPCV · feature work</text>
+<circle cx="38" cy="1072.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="1076.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:25 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1087.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1091.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:09 EEST · PPCV · pulse board refresh</text>
-<circle cx="38" cy="1102.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1106.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:06 EEST · PPCV · pulse board refresh</text>
+<text x="48" y="1091.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:22 EEST · PPCV · rename AF-Oprea wiki to PPCV on :6660</text>
+<circle cx="38" cy="1102.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="1106.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:17 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="1117.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1121.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:03 EEST · PPCV · pulse board refresh</text>
+<text x="48" y="1121.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:09 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="1132.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1136.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:58 EEST · PPCV · activity update</text>
+<text x="48" y="1136.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:06 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="1147.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1151.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:55 EEST · PPCV · pulse board refresh</text>
+<text x="48" y="1151.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:03 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="1162.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1166.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:53 EEST · PPCV · feature work</text>
+<text x="48" y="1166.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:58 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1177.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1181.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:51 EEST · PPCV · release ship</text>
+<text x="48" y="1181.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:55 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="1192.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1196.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:48 EEST · PPCV · feature work</text>
+<text x="48" y="1196.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:53 EEST · PPCV · feature work</text>
 <circle cx="38" cy="1207.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1211.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:39 EEST · PPCV · activity update</text>
+<text x="48" y="1211.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:51 EEST · PPCV · release ship</text>
 <circle cx="38" cy="1222.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1226.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:36 EEST · PPCV · agent kit update</text>
+<text x="48" y="1226.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:48 EEST · PPCV · feature work</text>
 <circle cx="38" cy="1237.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1241.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:34 EEST · PPCV · activity update</text>
+<text x="48" y="1241.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:39 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1252.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1256.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:28 EEST · PPCV · feature work</text>
+<text x="48" y="1256.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:36 EEST · PPCV · agent kit update</text>
 <circle cx="38" cy="1267.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1271.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:17 EEST · PPCV · activity update</text>
+<text x="48" y="1271.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:34 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1282.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1286.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:14 EEST · PPCV · activity update</text>
+<text x="48" y="1286.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:28 EEST · PPCV · feature work</text>
 <circle cx="38" cy="1297.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1301.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:13 EEST · PPCV · activity update</text>
+<text x="48" y="1301.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:17 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1312.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1316.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:10 EEST · PPCV · activity update</text>
+<text x="48" y="1316.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:14 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1327.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1331.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:06 EEST · PPCV · activity update</text>
+<text x="48" y="1331.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:13 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1342.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1346.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:01 EEST · PPCV · activity update</text>
+<text x="48" y="1346.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:10 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1357.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1361.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:57 EEST · PPCV · activity update</text>
+<text x="48" y="1361.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:06 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1372.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1376.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:54 EEST · PPCV · ui polish</text>
+<text x="48" y="1376.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:01 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1387.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1391.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:46 EEST · PPCV · cleanup removal</text>
+<text x="48" y="1391.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:57 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1402.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1406.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:44 EEST · PPCV · activity update</text>
+<text x="48" y="1406.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:54 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="1417.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1421.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:40 EEST · PPCV · activity update</text>
+<text x="48" y="1421.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:46 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="1432.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1436.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:38 EEST · PPCV · activity update</text>
+<text x="48" y="1436.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:44 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1447.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1451.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:36 EEST · PPCV · schema migration</text>
+<text x="48" y="1451.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:40 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1462.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1466.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:34 EEST · PPCV · move tech marquee flush under the header</text>
+<text x="48" y="1466.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:38 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1477.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1481.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:31 EEST · PPCV · activity update</text>
+<text x="48" y="1481.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:36 EEST · PPCV · schema migration</text>
 <circle cx="38" cy="1492.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1496.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:27 EEST · PPCV · activity update</text>
+<text x="48" y="1496.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:34 EEST · PPCV · move tech marquee flush under the header</text>
 <circle cx="38" cy="1507.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1511.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:24 EEST · PPCV · status refresh</text>
+<text x="48" y="1511.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:31 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1522.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1526.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:20 EEST · PPCV · activity update</text>
+<text x="48" y="1526.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:27 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1537.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1541.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:18 EEST · PPCV · feature work</text>
+<text x="48" y="1541.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:24 EEST · PPCV · status refresh</text>
 <circle cx="38" cy="1552.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1556.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:17 EEST · PPCV · cleanup removal</text>
+<text x="48" y="1556.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:20 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1567.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1571.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:13 EEST · PPCV · activity update</text>
+<text x="48" y="1571.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:18 EEST · PPCV · feature work</text>
 <circle cx="38" cy="1582.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1586.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:11 EEST · PPCV · activity update</text>
+<text x="48" y="1586.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:17 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="1597.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1601.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:10 EEST · PPCV · activity update</text>
+<text x="48" y="1601.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:13 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1612.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1616.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:07 EEST · PPCV · activity update</text>
+<text x="48" y="1616.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:11 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1627.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1631.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:05 EEST · PPCV · activity update</text>
+<text x="48" y="1631.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:10 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1642.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1646.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:02 EEST · PPCV · activity update</text>
+<text x="48" y="1646.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:07 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1657.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1661.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:59 EEST · PPCV · activity update</text>
+<text x="48" y="1661.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:05 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1672.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1676.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:57 EEST · PPCV · weather lab update</text>
+<text x="48" y="1676.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:02 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1687.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1691.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:56 EEST · PPCV · activity update</text>
+<text x="48" y="1691.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:59 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1702.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1706.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:51 EEST · PPCV · activity update</text>
+<text x="48" y="1706.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:57 EEST · PPCV · weather lab update</text>
 <circle cx="38" cy="1717.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1721.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:49 EEST · PPCV · activity update</text>
+<text x="48" y="1721.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:56 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1732.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1736.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:47 EEST · PPCV · activity update</text>
+<text x="48" y="1736.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:51 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1747.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1751.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:42 EEST · PPCV · activity update</text>
+<text x="48" y="1751.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:49 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1762.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1766.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:38 EEST · PPCV · activity update</text>
+<text x="48" y="1766.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:47 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1777.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1781.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:36 EEST · PPCV · activity update</text>
+<text x="48" y="1781.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:42 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1792.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1796.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:43 EEST · PPCV · activity update</text>
-<circle cx="38" cy="1807.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="1811.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:43 EEST · MF2FV · activity update</text>
+<text x="48" y="1796.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:38 EEST · PPCV · activity update</text>
+<circle cx="38" cy="1807.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="1811.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:36 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1822.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1826.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:34 EEST · PPCV · activity update</text>
-<circle cx="38" cy="1837.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1841.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:30 EEST · PPCV · cleanup removal</text>
+<text x="48" y="1826.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:43 EEST · PPCV · activity update</text>
+<circle cx="38" cy="1837.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="1841.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:43 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="1852.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1856.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:27 EEST · PPCV · shorten hero tagline to skills only</text>
+<text x="48" y="1856.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:34 EEST · PPCV · activity update</text>
 <circle cx="38" cy="1867.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1871.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:26 EEST · PPCV · ui polish</text>
+<text x="48" y="1871.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:30 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="1882.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1886.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:15 EEST · PPCV · feature work</text>
+<text x="48" y="1886.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:27 EEST · PPCV · shorten hero tagline to skills only</text>
 <circle cx="38" cy="1897.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1901.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:12 EEST · PPCV · activity update</text>
-<circle cx="38" cy="1912.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="1916.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:57 EEST · WASH · weather lab update</text>
+<text x="48" y="1901.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:26 EEST · PPCV · ui polish</text>
+<circle cx="38" cy="1912.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="1916.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:15 EEST · PPCV · feature work</text>
 <circle cx="38" cy="1927.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1931.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:55 EEST · PPCV · feature work</text>
-<circle cx="38" cy="1942.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1946.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:47 EEST · PPCV · cleanup removal</text>
+<text x="48" y="1931.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:12 EEST · PPCV · activity update</text>
+<circle cx="38" cy="1942.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="1946.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:57 EEST · WASH · weather lab update</text>
 <circle cx="38" cy="1957.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1961.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:46 EEST · PPCV · cleanup removal</text>
+<text x="48" y="1961.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:55 EEST · PPCV · feature work</text>
 <circle cx="38" cy="1972.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1976.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:44 EEST · PPCV · ui polish</text>
+<text x="48" y="1976.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:47 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="1987.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1991.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:44 EEST · PPCV · ui polish</text>
+<text x="48" y="1991.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:46 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="2002.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2006.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:43 EEST · PPCV · ui polish</text>
-<circle cx="38" cy="2017.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="2021.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · WASH · weather lab update</text>
-<circle cx="38" cy="2032.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="2036.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="2047.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2051.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · PPCV · ui polish</text>
-<circle cx="38" cy="2062.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2066.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:40 EEST · PPCV · activity update</text>
+<text x="48" y="2006.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:44 EEST · PPCV · ui polish</text>
+<circle cx="38" cy="2017.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2021.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:44 EEST · PPCV · ui polish</text>
+<circle cx="38" cy="2032.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2036.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:43 EEST · PPCV · ui polish</text>
+<circle cx="38" cy="2047.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="2051.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · WASH · weather lab update</text>
+<circle cx="38" cy="2062.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="2066.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="2077.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2081.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:39 EEST · PPCV · activity update</text>
+<text x="48" y="2081.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="2092.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2096.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:36 EEST · PPCV · activity update</text>
+<text x="48" y="2096.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:40 EEST · PPCV · activity update</text>
 <circle cx="38" cy="2107.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2111.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:35 EEST · PPCV · bug fix</text>
+<text x="48" y="2111.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:39 EEST · PPCV · activity update</text>
 <circle cx="38" cy="2122.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2126.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:32 EEST · PPCV · feature work</text>
+<text x="48" y="2126.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:36 EEST · PPCV · activity update</text>
 <circle cx="38" cy="2137.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2141.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:29 EEST · PPCV · activity update</text>
+<text x="48" y="2141.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:35 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="2152.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2156.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:15 EEST · PPCV · ui polish</text>
+<text x="48" y="2156.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:32 EEST · PPCV · feature work</text>
 <circle cx="38" cy="2167.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2171.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:08 EEST · PPCV · ui polish</text>
+<text x="48" y="2171.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:29 EEST · PPCV · activity update</text>
 <circle cx="38" cy="2182.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2186.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:03 EEST · PPCV · activity update</text>
+<text x="48" y="2186.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:15 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="2197.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2201.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:00 EEST · PPCV · feature work</text>
-<circle cx="38" cy="2212.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2216.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:49 EEST · MF2FV · cleanup removal</text>
-<circle cx="38" cy="2227.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2231.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:43 EEST · MF2FV · activity update</text>
+<text x="48" y="2201.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:08 EEST · PPCV · ui polish</text>
+<circle cx="38" cy="2212.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2216.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:03 EEST · PPCV · activity update</text>
+<circle cx="38" cy="2227.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2231.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:00 EEST · PPCV · feature work</text>
 <circle cx="38" cy="2242.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2246.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:33 EEST · MF2FV · activity update</text>
+<text x="48" y="2246.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:49 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="2257.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2261.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:33 EEST · MF2FV · activity update</text>
+<text x="48" y="2261.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:43 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="2272.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2276.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:27 EEST · MF2FV · documentation update</text>
+<text x="48" y="2276.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:33 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="2287.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2291.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:25 EEST · MF2FV · feature work</text>
+<text x="48" y="2291.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:33 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="2302.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2306.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:23 EEST · MF2FV · activity update</text>
-<text x="34" y="2327.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 323</text>
-<circle cx="38" cy="2339.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2343.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:32 EEST · MF2FV · documentation update</text>
-<circle cx="38" cy="2354.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="2358.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:32 EEST · runguard · roadmap gate update</text>
+<text x="48" y="2306.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:27 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="2317.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="2321.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:25 EEST · MF2FV · feature work</text>
+<circle cx="38" cy="2332.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="2336.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:23 EEST · MF2FV · activity update</text>
+<text x="34" y="2357.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 323</text>
 <circle cx="38" cy="2369.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2373.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:25 EEST · MF2FV · documentation update</text>
-<circle cx="38" cy="2384.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2388.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:24 EEST · MF2FV · activity update</text>
+<text x="48" y="2373.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:32 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="2384.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="2388.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:32 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="2399.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2403.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 19:11 EEST · MF2FV · feature work</text>
-<circle cx="38" cy="2414.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="2418.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · AAT · activity update</text>
-<circle cx="38" cy="2429.0" r="3.5" fill="#d29922"/>
-<text x="48" y="2433.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · R&amp;T · activity update</text>
-<circle cx="38" cy="2444.0" r="3.5" fill="#58a6ff"/>
-<text x="48" y="2448.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · CC-AR · activity update</text>
-<circle cx="38" cy="2459.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2463.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:05 EEST · MF2FV · cleanup removal</text>
-<circle cx="38" cy="2474.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2478.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 16:08 EEST · MF2FV · release ship</text>
+<text x="48" y="2403.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:25 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="2414.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="2418.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:24 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="2429.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="2433.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 19:11 EEST · MF2FV · feature work</text>
+<circle cx="38" cy="2444.0" r="3.5" fill="#7ee787"/>
+<text x="48" y="2448.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · AAT · activity update</text>
+<circle cx="38" cy="2459.0" r="3.5" fill="#d29922"/>
+<text x="48" y="2463.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · R&amp;T · activity update</text>
+<circle cx="38" cy="2474.0" r="3.5" fill="#58a6ff"/>
+<text x="48" y="2478.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · CC-AR · activity update</text>
 <circle cx="38" cy="2489.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2493.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 15:11 EEST · MF2FV · feature work</text>
+<text x="48" y="2493.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:05 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="2504.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2508.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:47 EEST · MF2FV · feature work</text>
+<text x="48" y="2508.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 16:08 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="2519.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2523.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:42 EEST · MF2FV · activity update</text>
+<text x="48" y="2523.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 15:11 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="2534.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2538.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:36 EEST · MF2FV · activity update</text>
+<text x="48" y="2538.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:47 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="2549.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2553.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:34 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="2553.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:42 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="2564.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2568.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:33 EEST · MF2FV · documentation update</text>
+<text x="48" y="2568.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:36 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="2579.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2583.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:32 EEST · MF2FV · activity update</text>
+<text x="48" y="2583.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:34 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="2594.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2598.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:31 EEST · MF2FV · documentation update</text>
-<circle cx="38" cy="2609.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="2613.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
-<circle cx="38" cy="2624.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="2628.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · esp-lab-jack · documentation update</text>
-<circle cx="38" cy="2639.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="2643.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · WASH · documentation update</text>
-<circle cx="38" cy="2654.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="2658.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · EASM · documentation update</text>
-<circle cx="38" cy="2669.0" r="3.5" fill="#fbbf24"/>
-<text x="48" y="2673.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · PeriFX · documentation update</text>
-<circle cx="38" cy="2684.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="2688.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami-marketing · documentation update</text>
-<circle cx="38" cy="2699.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="2703.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
-<circle cx="38" cy="2714.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="2718.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
+<text x="48" y="2598.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:33 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="2609.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="2613.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:32 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="2624.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="2628.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:31 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="2639.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="2643.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
+<circle cx="38" cy="2654.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="2658.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · esp-lab-jack · documentation update</text>
+<circle cx="38" cy="2669.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="2673.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · WASH · documentation update</text>
+<circle cx="38" cy="2684.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="2688.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · EASM · documentation update</text>
+<circle cx="38" cy="2699.0" r="3.5" fill="#fbbf24"/>
+<text x="48" y="2703.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · PeriFX · documentation update</text>
+<circle cx="38" cy="2714.0" r="3.5" fill="#f778ba"/>
+<text x="48" y="2718.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami-marketing · documentation update</text>
 <circle cx="38" cy="2729.0" r="3.5" fill="#a78bfa"/>
 <text x="48" y="2733.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
-<circle cx="38" cy="2744.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="2748.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · runguard · documentation update</text>
-<circle cx="38" cy="2759.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2763.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · MF2FV · documentation update</text>
-<circle cx="38" cy="2774.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2778.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:10 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="2744.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="2748.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
+<circle cx="38" cy="2759.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="2763.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
+<circle cx="38" cy="2774.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="2778.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · runguard · documentation update</text>
 <circle cx="38" cy="2789.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2793.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:06 EEST · MF2FV · activity update</text>
+<text x="48" y="2793.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="2804.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2808.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:51 EEST · MF2FV · documentation update</text>
+<text x="48" y="2808.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:10 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="2819.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2823.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:51 EEST · MF2FV · mesh connectivity update</text>
-<circle cx="38" cy="2834.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="2838.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · runguard · roadmap gate update</text>
+<text x="48" y="2823.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:06 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="2834.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="2838.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:51 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="2849.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2853.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · MF2FV · documentation update</text>
-<circle cx="38" cy="2864.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2868.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · MF2FV · documentation update</text>
+<text x="48" y="2853.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:51 EEST · MF2FV · mesh connectivity update</text>
+<circle cx="38" cy="2864.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="2868.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="2879.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2883.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:29 EEST · MF2FV · activity update</text>
+<text x="48" y="2883.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="2894.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2898.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:23 EEST · MF2FV · bug fix</text>
+<text x="48" y="2898.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="2909.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2913.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:50 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="2913.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:29 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="2924.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2928.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:45 EEST · MF2FV · documentation update</text>
+<text x="48" y="2928.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:23 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="2939.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2943.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:31 EEST · MF2FV · activity update</text>
+<text x="48" y="2943.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:50 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="2954.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2958.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:12 EEST · MF2FV · documentation update</text>
+<text x="48" y="2958.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:45 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="2969.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2973.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:12 EEST · MF2FV · bug fix</text>
+<text x="48" y="2973.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:31 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="2984.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2988.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:57 EEST · MF2FV · security hardening</text>
+<text x="48" y="2988.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:12 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="2999.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3003.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:55 EEST · MF2FV · feature work</text>
+<text x="48" y="3003.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:12 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3014.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3018.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:32 EEST · MF2FV · tests updated</text>
+<text x="48" y="3018.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:57 EEST · MF2FV · security hardening</text>
 <circle cx="38" cy="3029.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3033.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:31 EEST · MF2FV · bug fix</text>
+<text x="48" y="3033.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:55 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="3044.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3048.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:25 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="3048.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:32 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="3059.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3063.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:22 EEST · MF2FV · activity update</text>
+<text x="48" y="3063.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:31 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3074.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3078.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:20 EEST · MF2FV · tests updated</text>
+<text x="48" y="3078.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:25 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="3089.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3093.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:19 EEST · MF2FV · tests updated</text>
+<text x="48" y="3093.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:22 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3104.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3108.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:18 EEST · MF2FV · activity update</text>
+<text x="48" y="3108.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:20 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="3119.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3123.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:16 EEST · MF2FV · tests updated</text>
+<text x="48" y="3123.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:19 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="3134.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3138.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:15 EEST · MF2FV · weather lab update</text>
+<text x="48" y="3138.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:18 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3149.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3153.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:09 EEST · MF2FV · activity update</text>
+<text x="48" y="3153.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:16 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="3164.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3168.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:04 EEST · MF2FV · activity update</text>
+<text x="48" y="3168.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:15 EEST · MF2FV · weather lab update</text>
 <circle cx="38" cy="3179.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3183.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:01 EEST · MF2FV · bug fix</text>
+<text x="48" y="3183.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:09 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3194.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3198.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:55 EEST · MF2FV · activity update</text>
+<text x="48" y="3198.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:04 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3209.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3213.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:50 EEST · MF2FV · activity update</text>
+<text x="48" y="3213.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:01 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3224.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3228.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:35 EEST · MF2FV · ui polish</text>
+<text x="48" y="3228.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:55 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3239.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3243.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:21 EEST · MF2FV · bug fix</text>
+<text x="48" y="3243.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:50 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3254.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3258.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:13 EEST · MF2FV · bug fix</text>
+<text x="48" y="3258.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:35 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="3269.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3273.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:59 EEST · MF2FV · activity update</text>
+<text x="48" y="3273.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:21 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3284.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3288.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:55 EEST · MF2FV · schema migration</text>
+<text x="48" y="3288.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:13 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3299.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3303.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:54 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="3303.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:59 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3314.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3318.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:52 EEST · MF2FV · roadmap gate update</text>
+<text x="48" y="3318.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:55 EEST · MF2FV · schema migration</text>
 <circle cx="38" cy="3329.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3333.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:48 EEST · MF2FV · documentation update</text>
+<text x="48" y="3333.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:54 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="3344.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3348.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:47 EEST · MF2FV · roadmap gate update</text>
+<text x="48" y="3348.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:52 EEST · MF2FV · roadmap gate update</text>
 <circle cx="38" cy="3359.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3363.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:39 EEST · MF2FV · documentation update</text>
+<text x="48" y="3363.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:48 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="3374.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3378.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:33 EEST · MF2FV · activity update</text>
+<text x="48" y="3378.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:47 EEST · MF2FV · roadmap gate update</text>
 <circle cx="38" cy="3389.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3393.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:27 EEST · MF2FV · documentation update</text>
+<text x="48" y="3393.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:39 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="3404.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3408.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:25 EEST · MF2FV · release ship</text>
-<circle cx="38" cy="3419.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="3423.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:09 EEST · runguard · roadmap gate update</text>
+<text x="48" y="3408.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:33 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="3419.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="3423.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:27 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="3434.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3438.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:03 EEST · MF2FV · bug fix</text>
-<circle cx="38" cy="3449.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3453.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:59 EEST · MF2FV · bug fix</text>
+<text x="48" y="3438.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:25 EEST · MF2FV · release ship</text>
+<circle cx="38" cy="3449.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="3453.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:09 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="3464.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3468.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:54 EEST · MF2FV · activity update</text>
+<text x="48" y="3468.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:03 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3479.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3483.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:41 EEST · MF2FV · activity update</text>
+<text x="48" y="3483.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:59 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3494.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3498.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:38 EEST · MF2FV · documentation update</text>
+<text x="48" y="3498.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:54 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3509.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3513.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:37 EEST · MF2FV · activity update</text>
+<text x="48" y="3513.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:41 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3524.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3528.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:33 EEST · MF2FV · activity update</text>
+<text x="48" y="3528.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:38 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="3539.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3543.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:09 EEST · MF2FV · bug fix</text>
+<text x="48" y="3543.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:37 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3554.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3558.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:09 EEST · MF2FV · bug fix</text>
+<text x="48" y="3558.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:33 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3569.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3573.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:04 EEST · MF2FV · bug fix</text>
+<text x="48" y="3573.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:09 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3584.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3588.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:58 EEST · MF2FV · bug fix</text>
+<text x="48" y="3588.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:09 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3599.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3603.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:58 EEST · MF2FV · documentation update</text>
+<text x="48" y="3603.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:04 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3614.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3618.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:54 EEST · MF2FV · activity update</text>
+<text x="48" y="3618.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:58 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3629.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3633.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:38 EEST · MF2FV · release ship</text>
+<text x="48" y="3633.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:58 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="3644.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3648.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:38 EEST · MF2FV · activity update</text>
+<text x="48" y="3648.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:54 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3659.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3663.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:31 EEST · MF2FV · bug fix</text>
+<text x="48" y="3663.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:38 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="3674.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3678.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:12 EEST · MF2FV · bug fix</text>
+<text x="48" y="3678.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:38 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3689.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3693.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:07 EEST · MF2FV · documentation update</text>
+<text x="48" y="3693.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:31 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3704.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3708.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:04 EEST · MF2FV · release ship</text>
+<text x="48" y="3708.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:12 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3719.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3723.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:02 EEST · MF2FV · release ship</text>
+<text x="48" y="3723.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:07 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="3734.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3738.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:02 EEST · MF2FV · activity update</text>
+<text x="48" y="3738.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:04 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="3749.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3753.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:57 EEST · MF2FV · release ship</text>
+<text x="48" y="3753.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:02 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="3764.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3768.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:54 EEST · MF2FV · release ship</text>
+<text x="48" y="3768.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:02 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3779.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3783.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:53 EEST · MF2FV · bug fix</text>
+<text x="48" y="3783.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:57 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="3794.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3798.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:52 EEST · MF2FV · release ship</text>
+<text x="48" y="3798.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:54 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="3809.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3813.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:52 EEST · MF2FV · documentation update</text>
+<text x="48" y="3813.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:53 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3824.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3828.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:51 EEST · MF2FV · activity update</text>
+<text x="48" y="3828.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:52 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="3839.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3843.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:50 EEST · MF2FV · status refresh</text>
+<text x="48" y="3843.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:52 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="3854.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3858.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:47 EEST · MF2FV · bug fix</text>
+<text x="48" y="3858.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:51 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3869.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3873.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:43 EEST · MF2FV · release ship</text>
+<text x="48" y="3873.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:50 EEST · MF2FV · status refresh</text>
 <circle cx="38" cy="3884.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3888.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:42 EEST · MF2FV · documentation update</text>
+<text x="48" y="3888.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:47 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="3899.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3903.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:41 EEST · MF2FV · documentation update</text>
+<text x="48" y="3903.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:43 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="3914.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3918.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:39 EEST · MF2FV · activity update</text>
+<text x="48" y="3918.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:42 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="3929.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3933.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:39 EEST · MF2FV · release ship</text>
+<text x="48" y="3933.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:41 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="3944.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3948.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:38 EEST · MF2FV · feature work</text>
+<text x="48" y="3948.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:39 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3959.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3963.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:30 EEST · MF2FV · documentation update</text>
+<text x="48" y="3963.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:39 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="3974.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3978.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:30 EEST · MF2FV · activity update</text>
+<text x="48" y="3978.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:38 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="3989.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3993.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:12 EEST · MF2FV · documentation update</text>
+<text x="48" y="3993.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:30 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="4004.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4008.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:10 EEST · MF2FV · ui polish</text>
+<text x="48" y="4008.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:30 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4019.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4023.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:08 EEST · MF2FV · ui polish</text>
+<text x="48" y="4023.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:12 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="4034.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4038.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:06 EEST · MF2FV · documentation update</text>
+<text x="48" y="4038.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:10 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="4049.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4053.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:06 EEST · MF2FV · release ship</text>
+<text x="48" y="4053.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:08 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="4064.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4068.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:02 EEST · MF2FV · roadmap gate update</text>
+<text x="48" y="4068.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:06 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="4079.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4083.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:38 EEST · MF2FV · activity update</text>
+<text x="48" y="4083.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:06 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="4094.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4098.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:18 EEST · MF2FV · agent kit update</text>
+<text x="48" y="4098.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:02 EEST · MF2FV · roadmap gate update</text>
 <circle cx="38" cy="4109.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4113.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:17 EEST · MF2FV · activity update</text>
+<text x="48" y="4113.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:38 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4124.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4128.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:07 EEST · MF2FV · activity update</text>
+<text x="48" y="4128.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:18 EEST · MF2FV · agent kit update</text>
 <circle cx="38" cy="4139.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4143.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:04 EEST · MF2FV · release ship</text>
+<text x="48" y="4143.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:17 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4154.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4158.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 13:15 EEST · MF2FV · activity update</text>
+<text x="48" y="4158.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:07 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4169.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4173.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 13:14 EEST · MF2FV · tests updated</text>
+<text x="48" y="4173.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:04 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="4184.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4188.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 13:13 EEST · MF2FV · config tweak</text>
+<text x="48" y="4188.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 13:15 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4199.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4203.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 12:41 EEST · MF2FV · bug fix</text>
+<text x="48" y="4203.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 13:14 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="4214.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4218.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 12:18 EEST · MF2FV · activity update</text>
+<text x="48" y="4218.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 13:13 EEST · MF2FV · config tweak</text>
 <circle cx="38" cy="4229.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4233.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 12:00 EEST · MF2FV · ui polish</text>
+<text x="48" y="4233.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 12:41 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="4244.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4248.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:49 EEST · MF2FV · activity update</text>
+<text x="48" y="4248.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 12:18 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4259.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4263.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:47 EEST · MF2FV · bug fix</text>
+<text x="48" y="4263.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 12:00 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="4274.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4278.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:32 EEST · MF2FV · feature work</text>
+<text x="48" y="4278.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:49 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4289.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4293.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:19 EEST · MF2FV · documentation update</text>
+<text x="48" y="4293.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:47 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="4304.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4308.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:10 EEST · MF2FV · feature work</text>
+<text x="48" y="4308.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:32 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="4319.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4323.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:40 EEST · MF2FV · activity update</text>
+<text x="48" y="4323.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:19 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="4334.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4338.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:26 EEST · MF2FV · feature work</text>
+<text x="48" y="4338.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 11:10 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="4349.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4353.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:09 EEST · MF2FV · activity update</text>
+<text x="48" y="4353.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:40 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4364.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4368.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:05 EEST · MF2FV · activity update</text>
+<text x="48" y="4368.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:26 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="4379.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4383.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:01 EEST · MF2FV · activity update</text>
+<text x="48" y="4383.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:09 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4394.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4398.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:01 EEST · MF2FV · activity update</text>
+<text x="48" y="4398.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:05 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4409.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4413.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 09:52 EEST · MF2FV · activity update</text>
+<text x="48" y="4413.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:01 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4424.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4428.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 03:12 EEST · MF2FV · tests updated</text>
+<text x="48" y="4428.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:01 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4439.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4443.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 03:11 EEST · MF2FV · feature work</text>
+<text x="48" y="4443.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 09:52 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4454.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4458.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 03:02 EEST · MF2FV · activity update</text>
+<text x="48" y="4458.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 03:12 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="4469.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4473.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 03:00 EEST · MF2FV · feature work</text>
+<text x="48" y="4473.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 03:11 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="4484.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4488.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:53 EEST · MF2FV · activity update</text>
+<text x="48" y="4488.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 03:02 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4499.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4503.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:45 EEST · MF2FV · activity update</text>
+<text x="48" y="4503.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 03:00 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="4514.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4518.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:43 EEST · MF2FV · ui polish</text>
+<text x="48" y="4518.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:53 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4529.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4533.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:33 EEST · MF2FV · feature work</text>
+<text x="48" y="4533.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:45 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4544.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4548.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:16 EEST · MF2FV · status refresh</text>
+<text x="48" y="4548.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:43 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="4559.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4563.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:14 EEST · MF2FV · feature work</text>
+<text x="48" y="4563.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:33 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="4574.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4578.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:00 EEST · MF2FV · activity update</text>
+<text x="48" y="4578.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:16 EEST · MF2FV · status refresh</text>
 <circle cx="38" cy="4589.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4593.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:00 EEST · MF2FV · show bot indicator on vote grid names</text>
+<text x="48" y="4593.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:14 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="4604.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4608.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:59 EEST · MF2FV · feature work</text>
+<text x="48" y="4608.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:00 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4619.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4623.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:47 EEST · MF2FV · activity update</text>
+<text x="48" y="4623.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 02:00 EEST · MF2FV · show bot indicator on vote grid names</text>
 <circle cx="38" cy="4634.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4638.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:41 EEST · MF2FV · status refresh</text>
+<text x="48" y="4638.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:59 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="4649.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4653.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:40 EEST · MF2FV · activity update</text>
+<text x="48" y="4653.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:47 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4664.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4668.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:40 EEST · MF2FV · documentation update</text>
+<text x="48" y="4668.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:41 EEST · MF2FV · status refresh</text>
 <circle cx="38" cy="4679.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4683.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:35 EEST · MF2FV · status refresh</text>
+<text x="48" y="4683.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:40 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="4694.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4698.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:04 EEST · MF2FV · feature work</text>
+<text x="48" y="4698.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:40 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="4709.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4713.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:58 EEST · MF2FV · bug fix</text>
+<text x="48" y="4713.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:35 EEST · MF2FV · status refresh</text>
 <circle cx="38" cy="4724.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4728.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:52 EEST · MF2FV · roadmap gate update</text>
+<text x="48" y="4728.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 01:04 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="4739.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4743.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:39 EEST · MF2FV · bug fix</text>
+<text x="48" y="4743.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:58 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="4754.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4758.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:34 EEST · MF2FV · activity update</text>
+<text x="48" y="4758.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:52 EEST · MF2FV · roadmap gate update</text>
 <circle cx="38" cy="4769.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4773.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:28 EEST · MF2FV · activity update</text>
-<circle cx="38" cy="4784.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="4788.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:05 EEST · EASM · bug fix</text>
-<circle cx="38" cy="4799.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4803.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:19 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="4814.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4818.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:13 EEST · runguard · service health gate</text>
-<circle cx="38" cy="4829.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="4833.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:12 EEST · EASM · roadmap gate update</text>
-<circle cx="38" cy="4844.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="4848.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:12 EEST · EASM · activity update</text>
-<circle cx="38" cy="4859.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4863.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:12 EEST · runguard · agent kit update</text>
-<circle cx="38" cy="4874.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4878.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 20:38 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="4889.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="4893.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 20:36 EEST · EASM · documentation update</text>
+<text x="48" y="4773.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:39 EEST · MF2FV · bug fix</text>
+<circle cx="38" cy="4784.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="4788.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:34 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="4799.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="4803.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:28 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="4814.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="4818.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 00:05 EEST · EASM · bug fix</text>
+<circle cx="38" cy="4829.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="4833.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:19 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="4844.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="4848.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:13 EEST · runguard · service health gate</text>
+<circle cx="38" cy="4859.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="4863.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:12 EEST · EASM · roadmap gate update</text>
+<circle cx="38" cy="4874.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="4878.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:12 EEST · EASM · activity update</text>
+<circle cx="38" cy="4889.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="4893.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 21:12 EEST · runguard · agent kit update</text>
 <circle cx="38" cy="4904.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4908.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 20:36 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="4919.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4923.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 17:57 EEST · runguard · roadmap gate update</text>
+<text x="48" y="4908.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 20:38 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="4919.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="4923.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 20:36 EEST · EASM · documentation update</text>
 <circle cx="38" cy="4934.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4938.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 17:55 EEST · runguard · roadmap gate update</text>
+<text x="48" y="4938.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 20:36 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="4949.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4953.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:48 EEST · runguard · release ship</text>
+<text x="48" y="4953.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 17:57 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="4964.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4968.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:47 EEST · runguard · security hardening</text>
+<text x="48" y="4968.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 17:55 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="4979.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4983.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:33 EEST · runguard · bug fix</text>
+<text x="48" y="4983.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:48 EEST · runguard · release ship</text>
 <circle cx="38" cy="4994.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4998.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:20 EEST · runguard · agent kit update</text>
+<text x="48" y="4998.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:47 EEST · runguard · security hardening</text>
 <circle cx="38" cy="5009.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5013.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 15:33 EEST · runguard · roadmap gate update</text>
+<text x="48" y="5013.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:33 EEST · runguard · bug fix</text>
 <circle cx="38" cy="5024.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5028.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 15:33 EEST · runguard · security hardening</text>
+<text x="48" y="5028.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:20 EEST · runguard · agent kit update</text>
 <circle cx="38" cy="5039.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5043.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 15:10 EEST · runguard · security hardening</text>
+<text x="48" y="5043.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 15:33 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="5054.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5058.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 12:48 EEST · runguard · security hardening</text>
+<text x="48" y="5058.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 15:33 EEST · runguard · security hardening</text>
 <circle cx="38" cy="5069.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5073.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 12:20 EEST · runguard · agent kit update</text>
+<text x="48" y="5073.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 15:10 EEST · runguard · security hardening</text>
 <circle cx="38" cy="5084.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5088.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 12:15 EEST · runguard · security hardening</text>
+<text x="48" y="5088.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 12:48 EEST · runguard · security hardening</text>
 <circle cx="38" cy="5099.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5103.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 12:06 EEST · runguard · security hardening</text>
-<circle cx="38" cy="5114.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="5118.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 11:27 EEST · EASM · bug fix</text>
-<circle cx="38" cy="5129.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="5133.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 10:44 EEST · EASM · roadmap gate update</text>
+<text x="48" y="5103.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 12:20 EEST · runguard · agent kit update</text>
+<circle cx="38" cy="5114.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5118.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 12:15 EEST · runguard · security hardening</text>
+<circle cx="38" cy="5129.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5133.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 12:06 EEST · runguard · security hardening</text>
 <circle cx="38" cy="5144.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="5148.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 10:39 EEST · EASM · activity update</text>
+<text x="48" y="5148.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 11:27 EEST · EASM · bug fix</text>
 <circle cx="38" cy="5159.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="5163.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 10:21 EEST · EASM · bug fix</text>
+<text x="48" y="5163.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 10:44 EEST · EASM · roadmap gate update</text>
 <circle cx="38" cy="5174.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="5178.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 10:09 EEST · EASM · ui polish</text>
-<circle cx="38" cy="5189.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5193.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 05:07 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5204.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="5208.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 05:07 EEST · WASH · service health gate</text>
-<circle cx="38" cy="5219.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5223.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:12 EEST · stellami · operator docs</text>
-<circle cx="38" cy="5234.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="5238.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · stellami-marketing · operator docs</text>
+<text x="48" y="5178.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 10:39 EEST · EASM · activity update</text>
+<circle cx="38" cy="5189.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="5193.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 10:21 EEST · EASM · bug fix</text>
+<circle cx="38" cy="5204.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="5208.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 10:09 EEST · EASM · ui polish</text>
+<circle cx="38" cy="5219.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5223.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 05:07 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5234.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="5238.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 05:07 EEST · WASH · service health gate</text>
 <circle cx="38" cy="5249.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5253.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · stellami · operator docs</text>
-<circle cx="38" cy="5264.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5268.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · stellami · operator docs</text>
+<text x="48" y="5253.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:12 EEST · stellami · operator docs</text>
+<circle cx="38" cy="5264.0" r="3.5" fill="#f778ba"/>
+<text x="48" y="5268.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · stellami-marketing · operator docs</text>
 <circle cx="38" cy="5279.0" r="3.5" fill="#a78bfa"/>
 <text x="48" y="5283.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · stellami · operator docs</text>
-<circle cx="38" cy="5294.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="5298.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · WASH · operator docs</text>
-<circle cx="38" cy="5309.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="5313.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · EASM · operator docs</text>
-<circle cx="38" cy="5324.0" r="3.5" fill="#fbbf24"/>
-<text x="48" y="5328.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · PeriFX · operator docs</text>
-<circle cx="38" cy="5339.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="5343.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · esp-lab-jack · operator docs</text>
-<circle cx="38" cy="5354.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5358.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · runguard · operator docs</text>
-<circle cx="38" cy="5369.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5373.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:32 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5384.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5388.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="5399.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5403.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · stellami · weather lab update</text>
-<circle cx="38" cy="5414.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5418.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · runguard · documentation update</text>
-<circle cx="38" cy="5429.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="5433.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · WASH · weather lab update</text>
-<circle cx="38" cy="5444.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="5448.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · EASM · operator docs</text>
-<circle cx="38" cy="5459.0" r="3.5" fill="#fbbf24"/>
-<text x="48" y="5463.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · PeriFX · roadmap gate update</text>
-<circle cx="38" cy="5474.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5478.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:55 EEST · runguard · analytics probe</text>
-<circle cx="38" cy="5489.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="5493.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:38 EEST · WASH · weather lab update</text>
-<circle cx="38" cy="5504.0" r="3.5" fill="#fbbf24"/>
-<text x="48" y="5508.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:30 EEST · PeriFX · activity update</text>
-<circle cx="38" cy="5519.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="5523.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:30 EEST · EASM · activity update</text>
-<circle cx="38" cy="5534.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5538.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:16 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5549.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5553.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:14 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5294.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5298.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · stellami · operator docs</text>
+<circle cx="38" cy="5309.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5313.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · stellami · operator docs</text>
+<circle cx="38" cy="5324.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="5328.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · WASH · operator docs</text>
+<circle cx="38" cy="5339.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="5343.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · EASM · operator docs</text>
+<circle cx="38" cy="5354.0" r="3.5" fill="#fbbf24"/>
+<text x="48" y="5358.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · PeriFX · operator docs</text>
+<circle cx="38" cy="5369.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="5373.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · esp-lab-jack · operator docs</text>
+<circle cx="38" cy="5384.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5388.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 03:11 EEST · runguard · operator docs</text>
+<circle cx="38" cy="5399.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5403.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:32 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5414.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5418.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · stellami · agent kit update</text>
+<circle cx="38" cy="5429.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5433.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · stellami · weather lab update</text>
+<circle cx="38" cy="5444.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5448.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · runguard · documentation update</text>
+<circle cx="38" cy="5459.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="5463.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · WASH · weather lab update</text>
+<circle cx="38" cy="5474.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="5478.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · EASM · operator docs</text>
+<circle cx="38" cy="5489.0" r="3.5" fill="#fbbf24"/>
+<text x="48" y="5493.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 02:06 EEST · PeriFX · roadmap gate update</text>
+<circle cx="38" cy="5504.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5508.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:55 EEST · runguard · analytics probe</text>
+<circle cx="38" cy="5519.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="5523.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:38 EEST · WASH · weather lab update</text>
+<circle cx="38" cy="5534.0" r="3.5" fill="#fbbf24"/>
+<text x="48" y="5538.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:30 EEST · PeriFX · activity update</text>
+<circle cx="38" cy="5549.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="5553.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:30 EEST · EASM · activity update</text>
 <circle cx="38" cy="5564.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5568.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:12 EEST · runguard · pulse board refresh</text>
+<text x="48" y="5568.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:16 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="5579.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5583.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:51 EEST · runguard · analytics probe</text>
-<circle cx="38" cy="5594.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="5598.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:48 EEST · esp-lab-jack · activity update</text>
-<circle cx="38" cy="5609.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5613.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:47 EEST · stellami · tests updated</text>
-<circle cx="38" cy="5624.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5628.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:47 EEST · stellami · feature work</text>
-<circle cx="38" cy="5639.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5643.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:39 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5654.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5658.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:27 EEST · runguard · roadmap gate update</text>
+<text x="48" y="5583.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:14 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5594.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5598.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 01:12 EEST · runguard · pulse board refresh</text>
+<circle cx="38" cy="5609.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5613.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:51 EEST · runguard · analytics probe</text>
+<circle cx="38" cy="5624.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="5628.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:48 EEST · esp-lab-jack · activity update</text>
+<circle cx="38" cy="5639.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5643.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:47 EEST · stellami · tests updated</text>
+<circle cx="38" cy="5654.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5658.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:47 EEST · stellami · feature work</text>
 <circle cx="38" cy="5669.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5673.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:25 EEST · runguard · tests updated</text>
+<text x="48" y="5673.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:39 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="5684.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5688.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:25 EEST · runguard · security hardening</text>
+<text x="48" y="5688.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:27 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="5699.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5703.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:19 EEST · runguard · analytics probe</text>
-<circle cx="38" cy="5714.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5718.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:19 EEST · stellami · roadmap gate update</text>
-<circle cx="38" cy="5729.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5733.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:19 EEST · stellami · feature work</text>
+<text x="48" y="5703.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:25 EEST · runguard · tests updated</text>
+<circle cx="38" cy="5714.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5718.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:25 EEST · runguard · security hardening</text>
+<circle cx="38" cy="5729.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5733.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:19 EEST · runguard · analytics probe</text>
 <circle cx="38" cy="5744.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5748.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:12 EEST · stellami · agent kit update</text>
+<text x="48" y="5748.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:19 EEST · stellami · roadmap gate update</text>
 <circle cx="38" cy="5759.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5763.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:12 EEST · stellami · bug fix</text>
-<circle cx="38" cy="5774.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5778.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:11 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5789.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5793.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:09 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5804.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5808.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · stellami · roadmap gate update</text>
-<circle cx="38" cy="5819.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="5823.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · stellami-marketing · roadmap gate update</text>
-<circle cx="38" cy="5834.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5838.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5849.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="5853.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · esp-lab-jack · roadmap gate update</text>
+<text x="48" y="5763.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:19 EEST · stellami · feature work</text>
+<circle cx="38" cy="5774.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5778.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:12 EEST · stellami · agent kit update</text>
+<circle cx="38" cy="5789.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5793.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:12 EEST · stellami · bug fix</text>
+<circle cx="38" cy="5804.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5808.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:11 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5819.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5823.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:09 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5834.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5838.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · stellami · roadmap gate update</text>
+<circle cx="38" cy="5849.0" r="3.5" fill="#f778ba"/>
+<text x="48" y="5853.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · stellami-marketing · roadmap gate update</text>
 <circle cx="38" cy="5864.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5868.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:59 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5879.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5883.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:58 EEST · runguard · roadmap gate update</text>
+<text x="48" y="5868.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5879.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="5883.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 00:01 EEST · esp-lab-jack · roadmap gate update</text>
 <circle cx="38" cy="5894.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5898.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:56 EEST · runguard · documentation update</text>
-<circle cx="38" cy="5909.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5913.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:49 EEST · stellami · version bump</text>
-<circle cx="38" cy="5924.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5928.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:49 EEST · stellami · activity update</text>
-<circle cx="38" cy="5939.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5943.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:47 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5954.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5958.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:46 EEST · runguard · activity update</text>
-<circle cx="38" cy="5969.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="5973.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:43 EEST · esp-lab-jack · activity update</text>
-<circle cx="38" cy="5984.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="5988.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:43 EEST · stellami · version bump</text>
-<circle cx="38" cy="5999.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6003.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:42 EEST · stellami · legal document modification</text>
-<circle cx="38" cy="6014.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6018.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:42 EEST · runguard · roadmap gate update</text>
+<text x="48" y="5898.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:59 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5909.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5913.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:58 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5924.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5928.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:56 EEST · runguard · documentation update</text>
+<circle cx="38" cy="5939.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5943.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:49 EEST · stellami · version bump</text>
+<circle cx="38" cy="5954.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="5958.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:49 EEST · stellami · activity update</text>
+<circle cx="38" cy="5969.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5973.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:47 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="5984.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5988.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:46 EEST · runguard · activity update</text>
+<circle cx="38" cy="5999.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6003.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:43 EEST · esp-lab-jack · activity update</text>
+<circle cx="38" cy="6014.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6018.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:43 EEST · stellami · version bump</text>
 <circle cx="38" cy="6029.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6033.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:41 EEST · stellami · activity update</text>
-<circle cx="38" cy="6044.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="6048.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:41 EEST · stellami-marketing · activity update</text>
-<circle cx="38" cy="6059.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6063.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:41 EEST · esp-lab-jack · activity update</text>
-<circle cx="38" cy="6074.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6078.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:38 EEST · esp-lab-jack · operator docs</text>
-<circle cx="38" cy="6089.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6093.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:37 EEST · stellami · version bump</text>
-<circle cx="38" cy="6104.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="6108.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:37 EEST · stellami-marketing · release ship</text>
+<text x="48" y="6033.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:42 EEST · stellami · legal document modification</text>
+<circle cx="38" cy="6044.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6048.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:42 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="6059.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6063.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:41 EEST · stellami · activity update</text>
+<circle cx="38" cy="6074.0" r="3.5" fill="#f778ba"/>
+<text x="48" y="6078.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:41 EEST · stellami-marketing · activity update</text>
+<circle cx="38" cy="6089.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6093.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:41 EEST · esp-lab-jack · activity update</text>
+<circle cx="38" cy="6104.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6108.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:38 EEST · esp-lab-jack · operator docs</text>
 <circle cx="38" cy="6119.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6123.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:35 EEST · stellami · version bump</text>
+<text x="48" y="6123.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:37 EEST · stellami · version bump</text>
 <circle cx="38" cy="6134.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="6138.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:35 EEST · stellami-marketing · activity update</text>
-<circle cx="38" cy="6149.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6153.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:26 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="6164.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6168.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:19 EEST · runguard · activity update</text>
+<text x="48" y="6138.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:37 EEST · stellami-marketing · release ship</text>
+<circle cx="38" cy="6149.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6153.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:35 EEST · stellami · version bump</text>
+<circle cx="38" cy="6164.0" r="3.5" fill="#f778ba"/>
+<text x="48" y="6168.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:35 EEST · stellami-marketing · activity update</text>
 <circle cx="38" cy="6179.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6183.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:14 EEST · runguard · activity update</text>
+<text x="48" y="6183.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:26 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="6194.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6198.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:09 EEST · runguard · mesh connectivity update</text>
+<text x="48" y="6198.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:19 EEST · runguard · activity update</text>
 <circle cx="38" cy="6209.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6213.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:46 EEST · runguard · mesh connectivity update</text>
+<text x="48" y="6213.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:14 EEST · runguard · activity update</text>
 <circle cx="38" cy="6224.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6228.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:35 EEST · runguard · analytics probe</text>
-<circle cx="38" cy="6239.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6243.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · stellami · tests updated</text>
-<circle cx="38" cy="6254.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6258.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · stellami · tests updated</text>
-<circle cx="38" cy="6269.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6273.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="6284.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6288.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · runguard · tests updated</text>
+<text x="48" y="6228.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 23:09 EEST · runguard · mesh connectivity update</text>
+<circle cx="38" cy="6239.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6243.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:46 EEST · runguard · mesh connectivity update</text>
+<circle cx="38" cy="6254.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6258.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:35 EEST · runguard · analytics probe</text>
+<circle cx="38" cy="6269.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6273.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · stellami · tests updated</text>
+<circle cx="38" cy="6284.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6288.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · stellami · tests updated</text>
 <circle cx="38" cy="6299.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6303.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:31 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="6314.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6318.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:29 EEST · stellami · tests updated</text>
+<text x="48" y="6303.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="6314.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6318.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:33 EEST · runguard · tests updated</text>
 <circle cx="38" cy="6329.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6333.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:29 EEST · runguard · tests updated</text>
+<text x="48" y="6333.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:31 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="6344.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6348.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:28 EEST · stellami · tests updated</text>
+<text x="48" y="6348.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:29 EEST · stellami · tests updated</text>
 <circle cx="38" cy="6359.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6363.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:28 EEST · runguard · tests updated</text>
+<text x="48" y="6363.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:29 EEST · runguard · tests updated</text>
 <circle cx="38" cy="6374.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6378.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:28 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="6389.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6393.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · agent kit update</text>
+<text x="48" y="6378.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:28 EEST · stellami · tests updated</text>
+<circle cx="38" cy="6389.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6393.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:28 EEST · runguard · tests updated</text>
 <circle cx="38" cy="6404.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6408.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · tests updated</text>
+<text x="48" y="6408.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:28 EEST · stellami · agent kit update</text>
 <circle cx="38" cy="6419.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6423.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · tests updated</text>
-<circle cx="38" cy="6434.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6438.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · esp-lab-jack · tests updated</text>
-<circle cx="38" cy="6449.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6453.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · runguard · tests updated</text>
-<circle cx="38" cy="6464.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6468.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · legal document modification</text>
-<circle cx="38" cy="6479.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6483.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · legal document modification</text>
-<circle cx="38" cy="6494.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6498.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 20:59 EEST · runguard · pulse board refresh</text>
-<circle cx="38" cy="6509.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6513.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:54 EEST · runguard · activity update</text>
+<text x="48" y="6423.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · agent kit update</text>
+<circle cx="38" cy="6434.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6438.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · tests updated</text>
+<circle cx="38" cy="6449.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6453.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · tests updated</text>
+<circle cx="38" cy="6464.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6468.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · esp-lab-jack · tests updated</text>
+<circle cx="38" cy="6479.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6483.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · runguard · tests updated</text>
+<circle cx="38" cy="6494.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6498.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · legal document modification</text>
+<circle cx="38" cy="6509.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6513.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 22:27 EEST · stellami · legal document modification</text>
 <circle cx="38" cy="6524.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6528.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:41 EEST · runguard · activity update</text>
+<text x="48" y="6528.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 20:59 EEST · runguard · pulse board refresh</text>
 <circle cx="38" cy="6539.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6543.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:31 EEST · runguard · activity update</text>
+<text x="48" y="6543.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:54 EEST · runguard · activity update</text>
 <circle cx="38" cy="6554.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6558.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:22 EEST · runguard · activity update</text>
-<circle cx="38" cy="6569.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6573.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:26 EEST · esp-lab-jack · feature work</text>
-<circle cx="38" cy="6584.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6588.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:26 EEST · stellami · feature work</text>
-<circle cx="38" cy="6599.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6603.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:26 EEST · runguard · feature work</text>
+<text x="48" y="6558.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:41 EEST · runguard · activity update</text>
+<circle cx="38" cy="6569.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6573.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:31 EEST · runguard · activity update</text>
+<circle cx="38" cy="6584.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6588.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 19:22 EEST · runguard · activity update</text>
+<circle cx="38" cy="6599.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6603.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:26 EEST · esp-lab-jack · feature work</text>
 <circle cx="38" cy="6614.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6618.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:22 EEST · stellami · roadmap gate update</text>
-<circle cx="38" cy="6629.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6633.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:21 EEST · stellami · agent kit update</text>
+<text x="48" y="6618.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:26 EEST · stellami · feature work</text>
+<circle cx="38" cy="6629.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6633.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:26 EEST · runguard · feature work</text>
 <circle cx="38" cy="6644.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6648.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:21 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="6659.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6663.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:08 EEST · esp-lab-jack · roadmap gate update</text>
-<circle cx="38" cy="6674.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6678.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:07 EEST · esp-lab-jack · roadmap gate update</text>
-<circle cx="38" cy="6689.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6693.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:07 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="6704.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6708.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:07 EEST · stellami · roadmap gate update</text>
+<text x="48" y="6648.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:22 EEST · stellami · roadmap gate update</text>
+<circle cx="38" cy="6659.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6663.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:21 EEST · stellami · agent kit update</text>
+<circle cx="38" cy="6674.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6678.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:21 EEST · stellami · agent kit update</text>
+<circle cx="38" cy="6689.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6693.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:08 EEST · esp-lab-jack · roadmap gate update</text>
+<circle cx="38" cy="6704.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6708.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:07 EEST · esp-lab-jack · roadmap gate update</text>
 <circle cx="38" cy="6719.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6723.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 17:50 EEST · runguard · security hardening</text>
-<circle cx="38" cy="6734.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6738.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:58 EEST · esp-lab-jack · mark ESP-Lab as ★ MASTER on GitHub</text>
+<text x="48" y="6723.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:07 EEST · runguard · roadmap gate update</text>
+<circle cx="38" cy="6734.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6738.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 18:07 EEST · stellami · roadmap gate update</text>
 <circle cx="38" cy="6749.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6753.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:58 EEST · runguard · mark RunGuard as ★ MASTER on GitHub</text>
-<circle cx="38" cy="6764.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6768.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:56 EEST · stellami · operator docs</text>
-<circle cx="38" cy="6779.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6783.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:30 EEST · stellami · agent kit update</text>
+<text x="48" y="6753.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 17:50 EEST · runguard · security hardening</text>
+<circle cx="38" cy="6764.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6768.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:58 EEST · esp-lab-jack · mark ESP-Lab as ★ MASTER on GitHub</text>
+<circle cx="38" cy="6779.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6783.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:58 EEST · runguard · mark RunGuard as ★ MASTER on GitHub</text>
 <circle cx="38" cy="6794.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6798.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:29 EEST · stellami · agent kit update</text>
+<text x="48" y="6798.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:56 EEST · stellami · operator docs</text>
 <circle cx="38" cy="6809.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6813.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:29 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="6824.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6828.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 10:50 EEST · runguard · documentation update</text>
+<text x="48" y="6813.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:30 EEST · stellami · agent kit update</text>
+<circle cx="38" cy="6824.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6828.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:29 EEST · stellami · agent kit update</text>
 <circle cx="38" cy="6839.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6843.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 03:25 EEST · stellami · activity update</text>
-<circle cx="38" cy="6854.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6858.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 03:24 EEST · stellami · documentation update</text>
+<text x="48" y="6843.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 15:29 EEST · stellami · agent kit update</text>
+<circle cx="38" cy="6854.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6858.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 10:50 EEST · runguard · documentation update</text>
 <circle cx="38" cy="6869.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6873.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 03:24 EEST · stellami · agent kit update</text>
-<circle cx="38" cy="6884.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6888.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:51 EEST · runguard · agent kit update</text>
-<circle cx="38" cy="6899.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6903.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:23 EEST · esp-lab-jack · config tweak</text>
-<circle cx="38" cy="6914.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="6918.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:22 EEST · stellami-marketing · activity update</text>
-<circle cx="38" cy="6929.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6933.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:21 EEST · stellami · documentation update</text>
-<circle cx="38" cy="6944.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6948.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:18 EEST · runguard · activity update</text>
-<circle cx="38" cy="6959.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="6963.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:05 EEST · stellami-marketing · feature work</text>
-<circle cx="38" cy="6974.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6978.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:04 EEST · stellami · feature work</text>
-<circle cx="38" cy="6989.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6993.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:04 EEST · esp-lab-jack · feature work</text>
-<circle cx="38" cy="7004.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7008.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 01:59 EEST · runguard · release ship</text>
-<circle cx="38" cy="7019.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7023.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 22:52 EEST · runguard · activity update</text>
+<text x="48" y="6873.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 03:25 EEST · stellami · activity update</text>
+<circle cx="38" cy="6884.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6888.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 03:24 EEST · stellami · documentation update</text>
+<circle cx="38" cy="6899.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6903.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 03:24 EEST · stellami · agent kit update</text>
+<circle cx="38" cy="6914.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6918.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:51 EEST · runguard · agent kit update</text>
+<circle cx="38" cy="6929.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6933.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:23 EEST · esp-lab-jack · config tweak</text>
+<circle cx="38" cy="6944.0" r="3.5" fill="#f778ba"/>
+<text x="48" y="6948.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:22 EEST · stellami-marketing · activity update</text>
+<circle cx="38" cy="6959.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6963.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:21 EEST · stellami · documentation update</text>
+<circle cx="38" cy="6974.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6978.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:18 EEST · runguard · activity update</text>
+<circle cx="38" cy="6989.0" r="3.5" fill="#f778ba"/>
+<text x="48" y="6993.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:05 EEST · stellami-marketing · feature work</text>
+<circle cx="38" cy="7004.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="7008.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:04 EEST · stellami · feature work</text>
+<circle cx="38" cy="7019.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="7023.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:04 EEST · esp-lab-jack · feature work</text>
 <circle cx="38" cy="7034.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7038.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 21:31 EEST · runguard · agent kit update</text>
+<text x="48" y="7038.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 01:59 EEST · runguard · release ship</text>
 <circle cx="38" cy="7049.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7053.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 20:09 EEST · runguard · release ship</text>
+<text x="48" y="7053.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 22:52 EEST · runguard · activity update</text>
 <circle cx="38" cy="7064.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7068.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 19:09 EEST · runguard · agent kit update</text>
+<text x="48" y="7068.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 21:31 EEST · runguard · agent kit update</text>
 <circle cx="38" cy="7079.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7083.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 18:22 EEST · runguard · feature work</text>
+<text x="48" y="7083.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 20:09 EEST · runguard · release ship</text>
 <circle cx="38" cy="7094.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7098.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 18:05 EEST · runguard · agent kit update</text>
+<text x="48" y="7098.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 19:09 EEST · runguard · agent kit update</text>
 <circle cx="38" cy="7109.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7113.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 17:24 EEST · runguard · mesh connectivity update</text>
+<text x="48" y="7113.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 18:22 EEST · runguard · feature work</text>
 <circle cx="38" cy="7124.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7128.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 14:07 EEST · runguard · feature work</text>
+<text x="48" y="7128.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 18:05 EEST · runguard · agent kit update</text>
 <circle cx="38" cy="7139.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7143.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 11:59 EEST · runguard · security hardening</text>
+<text x="48" y="7143.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 17:24 EEST · runguard · mesh connectivity update</text>
 <circle cx="38" cy="7154.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7158.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 11:55 EEST · runguard · activity update</text>
+<text x="48" y="7158.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 14:07 EEST · runguard · feature work</text>
 <circle cx="38" cy="7169.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7173.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 11:01 EEST · runguard · activity update</text>
+<text x="48" y="7173.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 11:59 EEST · runguard · security hardening</text>
+<circle cx="38" cy="7184.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="7188.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 11:55 EEST · runguard · activity update</text>
+<circle cx="38" cy="7199.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="7203.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 11:01 EEST · runguard · activity update</text>
 </g>
-<text x="20" y="7212.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 143 in 24h · 466 in 30d · when · nick · action · no XP</text>
+<text x="20" y="7242.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 145 in 24h · 468 in 30d · when · nick · action · no XP</text>
 </svg>
