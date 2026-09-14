@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 7258.0" width="880" height="7258.0" role="img" aria-label="Command Center — Live Stream last 30 days (public)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 7093.0" width="880" height="7093.0" role="img" aria-label="Command Center — Live Stream last 30 days (public)">
 <title>Command Center (public)</title>
-<rect width="880" height="7258.0" rx="20" fill="#07080b"/>
-<rect x="1.2" y="1.2" width="877.6" height="7255.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
+<rect width="880" height="7093.0" rx="20" fill="#07080b"/>
+<rect x="1.2" y="1.2" width="877.6" height="7090.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="20" y="42" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="20" y="60" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · last 30 days · Europe/Bucharest · when · nick · action</text>
-<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-09 09:45 EEST</text>
-<rect x="20" y="72" width="840" height="7138.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-14 13:15 EEST</text>
+<rect x="20" y="72" width="840" height="6973.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="34" y="94" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="846" y="94" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 30 days · Europe/Bucharest · when · nick · action</text>
 <defs>
 <clipPath id="live-stream-clip-pub">
-<rect x="20" y="72" width="840" height="7138.0"/>
+<rect x="20" y="72" width="840" height="6973.0"/>
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 472</text>
+<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 461</text>
 <circle cx="38" cy="132.0" r="3.5" fill="#c9b896"/>
 <text x="48" y="136.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:38 EEST · PPCV · activity update</text>
 <circle cx="38" cy="147.0" r="3.5" fill="#c9b896"/>
@@ -937,28 +937,6 @@
 <text x="48" y="7021.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 02:04 EEST · esp-lab-jack · feature work</text>
 <circle cx="38" cy="7032.0" r="3.5" fill="#3fb950"/>
 <text x="48" y="7036.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 01:59 EEST · runguard · release ship</text>
-<circle cx="38" cy="7047.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7051.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 22:52 EEST · runguard · activity update</text>
-<circle cx="38" cy="7062.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7066.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 21:31 EEST · runguard · agent kit update</text>
-<circle cx="38" cy="7077.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7081.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 20:09 EEST · runguard · release ship</text>
-<circle cx="38" cy="7092.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7096.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 19:09 EEST · runguard · agent kit update</text>
-<circle cx="38" cy="7107.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7111.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 18:22 EEST · runguard · feature work</text>
-<circle cx="38" cy="7122.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7126.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 18:05 EEST · runguard · agent kit update</text>
-<circle cx="38" cy="7137.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7141.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 17:24 EEST · runguard · mesh connectivity update</text>
-<circle cx="38" cy="7152.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7156.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 14:07 EEST · runguard · feature work</text>
-<circle cx="38" cy="7167.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7171.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 11:59 EEST · runguard · security hardening</text>
-<circle cx="38" cy="7182.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7186.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 11:55 EEST · runguard · activity update</text>
-<circle cx="38" cy="7197.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="7201.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-14 11:01 EEST · runguard · activity update</text>
 </g>
-<text x="20" y="7244.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 0 in 24h · 472 in 30d · when · nick · action · no XP</text>
+<text x="20" y="7079.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 0 in 24h · 461 in 30d · when · nick · action · no XP</text>
 </svg>
