@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20" role="img" aria-label="CCDPC">
+  <!-- CRT cream/teal THE COMPUTER -->
+  <rect width="20" height="20" rx="4" fill="#1c2422"/>
+  <rect x="3.2" y="3.4" width="13.6" height="11.2" rx="1.5" fill="#e8dcc4"/>
+  <rect x="4.6" y="4.8" width="10.8" height="7.8" rx="0.6" fill="#134e4a"/>
+  <rect x="5.1" y="5.3" width="9.8" height="6.8" rx="0.4" fill="#2dd4bf"/>
+  <rect x="5.1" y="7.6" width="9.8" height="0.7" fill="#ccfbf1" opacity=".4"/>
+  <rect x="8.8" y="14.6" width="2.4" height="1.3" fill="#c4b49a"/>
+  <rect x="6.2" y="16" width="7.6" height="1.5" rx="0.35" fill="#e8dcc4"/>
+</svg>
