@@ -304,7 +304,7 @@
 <rect x="785.0" y="668.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
 <text x="812.5" y="686.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="712" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_courage-pc" class="stream_logo" data-stream="courage-pc" opacity="1.0"><rect x="35.0" y="727.0" width="18" height="18" rx="4" fill="#79c0ff"/><text x="44.0" y="740.2" text-anchor="middle" fill="#0d1117" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="700">C</text></g>
+<g id="stream_logo_courage-pc" class="stream_logo" data-stream="courage-pc" opacity="0.42"><rect x="35.0" y="727.0" width="18" height="18" rx="4" fill="#42698c"/><text x="44.0" y="740.2" text-anchor="middle" fill="#0d1117" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="700">C</text></g>
 <text x="66" y="732" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">Courage PC</text>
 <text x="66" y="748" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Courage-style CRT computer — OpenRouter BYOK chat</text>
 <text x="430" y="740" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">15.0%</text>
@@ -368,6 +368,6 @@
 <rect x="785.0" y="854.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ff7b72" stroke-width="1.4"/>
 <rect x="785.0" y="854.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="872.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
-<text x="28" y="918" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.1% · Δ 24h +1.1% · Δ 7d +1.6% · Δ 30d +13.2% (% LOC · roadmap % on ring)</text>
-<text x="28" y="932" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-16T13:00:01Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
+<text x="28" y="918" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.0% · Δ 24h +1.1% · Δ 7d +1.6% · Δ 30d +13.2% (% LOC · roadmap % on ring)</text>
+<text x="28" y="932" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-16T13:15:02Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
 </svg>
