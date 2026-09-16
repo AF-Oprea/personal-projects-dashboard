@@ -1,7 +1,8 @@
 engine
 .github
 .cursor
-docs
+docs/*
+!docs/PULSE.md
 scripts
 .git-rewrite
 projects.local.conf
