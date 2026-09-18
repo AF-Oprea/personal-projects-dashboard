@@ -4,7 +4,7 @@
 <rect x="1.2" y="1.2" width="877.6" height="7733.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="20" y="42" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="20" y="60" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · last 30 days · Europe/Bucharest · when · nick · action</text>
-<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-18 17:30 EEST</text>
+<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-18 17:45 EEST</text>
 <rect x="20" y="72" width="840" height="7616.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="34" y="94" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="846" y="94" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 30 days · Europe/Bucharest · when · nick · action</text>
@@ -14,7 +14,7 @@
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 40</text>
+<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 36</text>
 <text x="34" y="138.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LATEST PER STREAM · 4</text>
 <circle cx="38" cy="150.0" r="3.5" fill="#a78bfa"/>
 <text x="48" y="154.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-18 01:41 EEST · stellami · version bump</text>
@@ -24,7 +24,7 @@
 <text x="48" y="184.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 22:09 EEST · PPCV · crt chat update</text>
 <circle cx="38" cy="195.0" r="3.5" fill="#2dd4bf"/>
 <text x="48" y="199.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:13 EEST · CCDPC · activity update</text>
-<text x="34" y="220.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">MORE LAST 24H · 36</text>
+<text x="34" y="220.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">MORE LAST 24H · 32</text>
 <circle cx="38" cy="232.0" r="3.5" fill="#ef4444"/>
 <text x="48" y="236.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 23:25 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="247.0" r="3.5" fill="#ef4444"/>
@@ -89,15 +89,15 @@
 <text x="48" y="686.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:59 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="697.0" r="3.5" fill="#2dd4bf"/>
 <text x="48" y="701.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:54 EEST · CCDPC · crt chat update</text>
-<circle cx="38" cy="712.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="716.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:43 EEST · CCDPC · release ship</text>
-<circle cx="38" cy="727.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="731.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:42 EEST · CCDPC · crt chat update</text>
-<circle cx="38" cy="742.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="746.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:35 EEST · CCDPC · bug fix</text>
-<circle cx="38" cy="757.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="761.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:34 EEST · CCDPC · operator docs</text>
-<text x="34" y="782.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 460</text>
+<text x="34" y="722.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 464</text>
+<circle cx="38" cy="734.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="738.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:43 EEST · CCDPC · release ship</text>
+<circle cx="38" cy="749.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="753.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:42 EEST · CCDPC · crt chat update</text>
+<circle cx="38" cy="764.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="768.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:35 EEST · CCDPC · bug fix</text>
+<circle cx="38" cy="779.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="783.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:34 EEST · CCDPC · operator docs</text>
 <circle cx="38" cy="794.0" r="3.5" fill="#2dd4bf"/>
 <text x="48" y="798.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:26 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="809.0" r="3.5" fill="#2dd4bf"/>
@@ -1019,5 +1019,5 @@
 <circle cx="38" cy="7679.0" r="3.5" fill="#ef4444"/>
 <text x="48" y="7683.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 10:09 EEST · MF2FV · activity update</text>
 </g>
-<text x="20" y="7722.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 40 in 24h · 500 in 30d · when · nick · action · no XP</text>
+<text x="20" y="7722.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 36 in 24h · 500 in 30d · when · nick · action · no XP</text>
 </svg>
