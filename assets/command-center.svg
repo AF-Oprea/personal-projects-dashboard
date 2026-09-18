@@ -4,7 +4,7 @@
 <rect x="1.2" y="1.2" width="877.6" height="7697.6" rx="18.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="20" y="42" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="20" y="60" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · last 30 days · Europe/Bucharest · when · nick · action</text>
-<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-19 02:30 EEST</text>
+<text x="860" y="48" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-19 02:45 EEST</text>
 <rect x="20" y="72" width="840" height="7580.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="34" y="94" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="846" y="94" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 30 days · Europe/Bucharest · when · nick · action</text>
@@ -14,1007 +14,1007 @@
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 14</text>
-<text x="34" y="138.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 13</text>
+<text x="34" y="120" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 15</text>
+<text x="34" y="138.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 14</text>
 <circle cx="38" cy="150.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="154.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 02:18 EEST · AAT · documentation update</text>
+<text x="48" y="154.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 02:19 EEST · AAT · activity update</text>
 <circle cx="38" cy="165.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="169.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 02:09 EEST · AAT · activity update</text>
+<text x="48" y="169.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 02:18 EEST · AAT · documentation update</text>
 <circle cx="38" cy="180.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="184.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 02:04 EEST · AAT · activity update</text>
+<text x="48" y="184.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 02:09 EEST · AAT · activity update</text>
 <circle cx="38" cy="195.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="199.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:56 EEST · AAT · feature work</text>
+<text x="48" y="199.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 02:04 EEST · AAT · activity update</text>
 <circle cx="38" cy="210.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="214.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:40 EEST · AAT · pulse board refresh</text>
+<text x="48" y="214.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:56 EEST · AAT · feature work</text>
 <circle cx="38" cy="225.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="229.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:35 EEST · AAT · documentation update</text>
+<text x="48" y="229.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:40 EEST · AAT · pulse board refresh</text>
 <circle cx="38" cy="240.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="244.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:25 EEST · AAT · ui polish</text>
+<text x="48" y="244.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:35 EEST · AAT · documentation update</text>
 <circle cx="38" cy="255.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="259.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:23 EEST · AAT · ui polish</text>
+<text x="48" y="259.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:25 EEST · AAT · ui polish</text>
 <circle cx="38" cy="270.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="274.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:09 EEST · AAT · ui polish</text>
+<text x="48" y="274.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:23 EEST · AAT · ui polish</text>
 <circle cx="38" cy="285.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="289.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:04 EEST · AAT · pulse board refresh</text>
+<text x="48" y="289.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:09 EEST · AAT · ui polish</text>
 <circle cx="38" cy="300.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="304.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 00:47 EEST · AAT · feature work</text>
+<text x="48" y="304.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 01:04 EEST · AAT · pulse board refresh</text>
 <circle cx="38" cy="315.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="319.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 00:40 EEST · AAT · documentation update</text>
+<text x="48" y="319.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 00:47 EEST · AAT · feature work</text>
 <circle cx="38" cy="330.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="334.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 00:36 EEST · AAT · operator docs</text>
-<text x="34" y="355.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 486</text>
-<circle cx="38" cy="367.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="371.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-18 01:41 EEST · stellami · version bump</text>
-<circle cx="38" cy="382.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="386.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-18 00:08 EEST · MF2FV · activity update</text>
+<text x="48" y="334.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 00:40 EEST · AAT · documentation update</text>
+<circle cx="38" cy="345.0" r="3.5" fill="#7ee787"/>
+<text x="48" y="349.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 00:36 EEST · AAT · operator docs</text>
+<text x="34" y="370.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 485</text>
+<circle cx="38" cy="382.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="386.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-18 01:41 EEST · stellami · version bump</text>
 <circle cx="38" cy="397.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="401.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 23:25 EEST · MF2FV · activity update</text>
+<text x="48" y="401.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-18 00:08 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="412.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="416.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 23:15 EEST · MF2FV · crt chat update</text>
-<circle cx="38" cy="427.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="431.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 22:09 EEST · PPCV · crt chat update</text>
-<circle cx="38" cy="442.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="446.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 22:02 EEST · MF2FV · legal document modification</text>
+<text x="48" y="416.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 23:25 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="427.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="431.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 23:15 EEST · MF2FV · crt chat update</text>
+<circle cx="38" cy="442.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="446.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 22:09 EEST · PPCV · crt chat update</text>
 <circle cx="38" cy="457.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="461.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:54 EEST · MF2FV · crt chat update</text>
+<text x="48" y="461.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 22:02 EEST · MF2FV · legal document modification</text>
 <circle cx="38" cy="472.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="476.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:45 EEST · MF2FV · crt chat update</text>
+<text x="48" y="476.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:54 EEST · MF2FV · crt chat update</text>
 <circle cx="38" cy="487.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="491.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:38 EEST · MF2FV · crt chat update</text>
+<text x="48" y="491.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:45 EEST · MF2FV · crt chat update</text>
 <circle cx="38" cy="502.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="506.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:21 EEST · MF2FV · activity update</text>
+<text x="48" y="506.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:38 EEST · MF2FV · crt chat update</text>
 <circle cx="38" cy="517.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="521.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:20 EEST · MF2FV · activity update</text>
+<text x="48" y="521.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:21 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="532.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="536.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:16 EEST · MF2FV · mesh connectivity update</text>
+<text x="48" y="536.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:20 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="547.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="551.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:14 EEST · MF2FV · bug fix</text>
+<text x="48" y="551.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:16 EEST · MF2FV · mesh connectivity update</text>
 <circle cx="38" cy="562.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="566.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:10 EEST · MF2FV · activity update</text>
+<text x="48" y="566.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:14 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="577.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="581.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:09 EEST · MF2FV · activity update</text>
+<text x="48" y="581.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:10 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="592.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="596.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:03 EEST · MF2FV · pulse board refresh</text>
+<text x="48" y="596.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:09 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="607.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="611.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:56 EEST · MF2FV · roadmap gate update</text>
+<text x="48" y="611.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 21:03 EEST · MF2FV · pulse board refresh</text>
 <circle cx="38" cy="622.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="626.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:45 EEST · MF2FV · bug fix</text>
+<text x="48" y="626.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:56 EEST · MF2FV · roadmap gate update</text>
 <circle cx="38" cy="637.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="641.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:44 EEST · MF2FV · bug fix</text>
+<text x="48" y="641.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:45 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="652.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="656.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:39 EEST · MF2FV · crt chat update</text>
+<text x="48" y="656.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:44 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="667.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="671.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:27 EEST · MF2FV · bug fix</text>
+<text x="48" y="671.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:39 EEST · MF2FV · crt chat update</text>
 <circle cx="38" cy="682.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="686.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:19 EEST · MF2FV · bug fix</text>
-<circle cx="38" cy="697.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="701.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:13 EEST · CCDPC · activity update</text>
-<circle cx="38" cy="712.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="716.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:01 EEST · MF2FV · activity update</text>
+<text x="48" y="686.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:27 EEST · MF2FV · bug fix</text>
+<circle cx="38" cy="697.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="701.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:19 EEST · MF2FV · bug fix</text>
+<circle cx="38" cy="712.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="716.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:13 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="727.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="731.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:00 EEST · MF2FV · activity update</text>
+<text x="48" y="731.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:01 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="742.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="746.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 19:51 EEST · MF2FV · mesh connectivity update</text>
+<text x="48" y="746.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 20:00 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="757.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="761.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 19:23 EEST · MF2FV · activity update</text>
-<circle cx="38" cy="772.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="776.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 19:01 EEST · CCDPC · legal document modification</text>
+<text x="48" y="761.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 19:51 EEST · MF2FV · mesh connectivity update</text>
+<circle cx="38" cy="772.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="776.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 19:23 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="787.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="791.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:53 EEST · CCDPC · activity update</text>
+<text x="48" y="791.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 19:01 EEST · CCDPC · legal document modification</text>
 <circle cx="38" cy="802.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="806.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:42 EEST · CCDPC · crt chat update</text>
+<text x="48" y="806.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:53 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="817.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="821.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:40 EEST · CCDPC · activity update</text>
+<text x="48" y="821.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:42 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="832.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="836.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:35 EEST · CCDPC · bug fix</text>
+<text x="48" y="836.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:40 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="847.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="851.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:17 EEST · CCDPC · feature work</text>
+<text x="48" y="851.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:35 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="862.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="866.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:04 EEST · CCDPC · activity update</text>
+<text x="48" y="866.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:17 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="877.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="881.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:59 EEST · CCDPC · activity update</text>
+<text x="48" y="881.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 18:04 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="892.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="896.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:54 EEST · CCDPC · crt chat update</text>
+<text x="48" y="896.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:59 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="907.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="911.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:43 EEST · CCDPC · release ship</text>
+<text x="48" y="911.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:54 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="922.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="926.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:42 EEST · CCDPC · crt chat update</text>
+<text x="48" y="926.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:43 EEST · CCDPC · release ship</text>
 <circle cx="38" cy="937.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="941.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:35 EEST · CCDPC · bug fix</text>
+<text x="48" y="941.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:42 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="952.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="956.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:34 EEST · CCDPC · operator docs</text>
+<text x="48" y="956.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:35 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="967.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="971.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:26 EEST · CCDPC · feature work</text>
+<text x="48" y="971.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:34 EEST · CCDPC · operator docs</text>
 <circle cx="38" cy="982.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="986.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:23 EEST · CCDPC · activity update</text>
+<text x="48" y="986.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:26 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="997.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1001.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:19 EEST · CCDPC · activity update</text>
+<text x="48" y="1001.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:23 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1012.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1016.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:18 EEST · CCDPC · activity update</text>
+<text x="48" y="1016.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:19 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1027.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1031.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:15 EEST · CCDPC · activity update</text>
+<text x="48" y="1031.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:18 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1042.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1046.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:15 EEST · CCDPC · ui polish</text>
+<text x="48" y="1046.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:15 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1057.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1061.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:12 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1061.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:15 EEST · CCDPC · ui polish</text>
 <circle cx="38" cy="1072.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1076.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:10 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1076.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:12 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1087.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1091.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:09 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1091.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:10 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1102.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1106.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:06 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1106.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:09 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1117.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1121.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 13:06 EEST · CCDPC · merge pull request #35 from AF-Oprea</text>
+<text x="48" y="1121.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 17:06 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1132.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1136.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 13:06 EEST · CCDPC · activity update</text>
+<text x="48" y="1136.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 13:06 EEST · CCDPC · merge pull request #35 from AF-Oprea</text>
 <circle cx="38" cy="1147.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1151.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:52 EEST · CCDPC · merge pull request #34 from AF-Oprea</text>
+<text x="48" y="1151.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 13:06 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1162.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1166.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:52 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1166.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:52 EEST · CCDPC · merge pull request #34 from AF-Oprea</text>
 <circle cx="38" cy="1177.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1181.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:50 EEST · CCDPC · merge pull request #33 from AF-Oprea</text>
+<text x="48" y="1181.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:52 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1192.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1196.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:50 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1196.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:50 EEST · CCDPC · merge pull request #33 from AF-Oprea</text>
 <circle cx="38" cy="1207.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1211.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:48 EEST · CCDPC · merge pull request #32 from AF-Oprea</text>
+<text x="48" y="1211.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:50 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1222.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1226.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:48 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1226.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:48 EEST · CCDPC · merge pull request #32 from AF-Oprea</text>
 <circle cx="38" cy="1237.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1241.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:46 EEST · CCDPC · merge pull request #31 from AF-Oprea</text>
+<text x="48" y="1241.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:48 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1252.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1256.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:46 EEST · CCDPC · activity update</text>
+<text x="48" y="1256.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:46 EEST · CCDPC · merge pull request #31 from AF-Oprea</text>
 <circle cx="38" cy="1267.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1271.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:43 EEST · CCDPC · merge pull request #30 from AF-Oprea</text>
+<text x="48" y="1271.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:46 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1282.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1286.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:43 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1286.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:43 EEST · CCDPC · merge pull request #30 from AF-Oprea</text>
 <circle cx="38" cy="1297.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1301.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:39 EEST · CCDPC · merge pull request #29 from AF-Oprea</text>
+<text x="48" y="1301.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:43 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1312.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1316.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:39 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1316.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:39 EEST · CCDPC · merge pull request #29 from AF-Oprea</text>
 <circle cx="38" cy="1327.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1331.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:29 EEST · CCDPC · merge pull request #28 from AF-Oprea</text>
+<text x="48" y="1331.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:39 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1342.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1346.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:29 EEST · CCDPC · bug fix</text>
+<text x="48" y="1346.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:29 EEST · CCDPC · merge pull request #28 from AF-Oprea</text>
 <circle cx="38" cy="1357.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1361.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:22 EEST · CCDPC · merge pull request #27 from AF-Oprea</text>
+<text x="48" y="1361.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:29 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="1372.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1376.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:22 EEST · CCDPC · documentation update</text>
+<text x="48" y="1376.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:22 EEST · CCDPC · merge pull request #27 from AF-Oprea</text>
 <circle cx="38" cy="1387.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1391.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:20 EEST · CCDPC · merge pull request #26 from AF-Oprea</text>
+<text x="48" y="1391.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:22 EEST · CCDPC · documentation update</text>
 <circle cx="38" cy="1402.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1406.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:20 EEST · CCDPC · activity update</text>
+<text x="48" y="1406.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:20 EEST · CCDPC · merge pull request #26 from AF-Oprea</text>
 <circle cx="38" cy="1417.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1421.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:17 EEST · CCDPC · merge pull request #25 from AF-Oprea</text>
+<text x="48" y="1421.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:20 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1432.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1436.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:15 EEST · CCDPC · activity update</text>
+<text x="48" y="1436.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:17 EEST · CCDPC · merge pull request #25 from AF-Oprea</text>
 <circle cx="38" cy="1447.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1451.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:11 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1451.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:15 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1462.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1466.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 11:53 EEST · CCDPC · activity update</text>
+<text x="48" y="1466.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 12:11 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1477.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1481.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:51 EEST · CCDPC · merge pull request #24 from AF-Oprea</text>
+<text x="48" y="1481.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 11:53 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1492.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1496.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:50 EEST · CCDPC · roadmap gate update</text>
+<text x="48" y="1496.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:51 EEST · CCDPC · merge pull request #24 from AF-Oprea</text>
 <circle cx="38" cy="1507.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1511.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:47 EEST · CCDPC · merge pull request #23 from AF-Oprea</text>
+<text x="48" y="1511.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:50 EEST · CCDPC · roadmap gate update</text>
 <circle cx="38" cy="1522.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1526.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:46 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1526.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:47 EEST · CCDPC · merge pull request #23 from AF-Oprea</text>
 <circle cx="38" cy="1537.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1541.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:43 EEST · CCDPC · activity update</text>
+<text x="48" y="1541.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:46 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1552.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1556.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:37 EEST · CCDPC · merge pull request #22 from AF-Oprea</text>
+<text x="48" y="1556.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:43 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1567.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1571.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:37 EEST · CCDPC · roadmap gate update</text>
+<text x="48" y="1571.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:37 EEST · CCDPC · merge pull request #22 from AF-Oprea</text>
 <circle cx="38" cy="1582.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1586.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:34 EEST · CCDPC · merge pull request #21 from AF-Oprea</text>
+<text x="48" y="1586.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:37 EEST · CCDPC · roadmap gate update</text>
 <circle cx="38" cy="1597.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1601.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:34 EEST · CCDPC · activity update</text>
+<text x="48" y="1601.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:34 EEST · CCDPC · merge pull request #21 from AF-Oprea</text>
 <circle cx="38" cy="1612.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1616.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:33 EEST · CCDPC · activity update</text>
+<text x="48" y="1616.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:34 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1627.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1631.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:33 EEST · CCDPC · merge pull request #20 from AF-Oprea</text>
+<text x="48" y="1631.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:33 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1642.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1646.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:32 EEST · CCDPC · roadmap gate update</text>
+<text x="48" y="1646.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:33 EEST · CCDPC · merge pull request #20 from AF-Oprea</text>
 <circle cx="38" cy="1657.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1661.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:28 EEST · CCDPC · merge pull request #19 from AF-Oprea</text>
+<text x="48" y="1661.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:32 EEST · CCDPC · roadmap gate update</text>
 <circle cx="38" cy="1672.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1676.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:27 EEST · CCDPC · bug fix</text>
+<text x="48" y="1676.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:28 EEST · CCDPC · merge pull request #19 from AF-Oprea</text>
 <circle cx="38" cy="1687.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1691.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:23 EEST · CCDPC · merge pull request #18 from AF-Oprea</text>
+<text x="48" y="1691.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:27 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="1702.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1706.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:20 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1706.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:23 EEST · CCDPC · merge pull request #18 from AF-Oprea</text>
 <circle cx="38" cy="1717.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1721.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:17 EEST · CCDPC · merge pull request #17 from AF-Oprea</text>
-<circle cx="38" cy="1732.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1736.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:17 EEST · PPCV · merge pull request #4 from AF-Oprea</text>
-<circle cx="38" cy="1747.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1751.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:16 EEST · CCDPC · merge pull request #13 from AF-Oprea</text>
-<circle cx="38" cy="1762.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="1766.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:16 EEST · PPCV · operator docs</text>
-<circle cx="38" cy="1777.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1781.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:15 EEST · CCDPC · activity update</text>
+<text x="48" y="1721.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:20 EEST · CCDPC · crt chat update</text>
+<circle cx="38" cy="1732.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="1736.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:17 EEST · CCDPC · merge pull request #17 from AF-Oprea</text>
+<circle cx="38" cy="1747.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="1751.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:17 EEST · PPCV · merge pull request #4 from AF-Oprea</text>
+<circle cx="38" cy="1762.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="1766.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:16 EEST · CCDPC · merge pull request #13 from AF-Oprea</text>
+<circle cx="38" cy="1777.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="1781.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:16 EEST · PPCV · operator docs</text>
 <circle cx="38" cy="1792.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1796.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:15 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1796.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:15 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="1807.0" r="3.5" fill="#2dd4bf"/>
 <text x="48" y="1811.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:15 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1822.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1826.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:02 EEST · CCDPC · merge pull request #16 from AF-Oprea</text>
+<text x="48" y="1826.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:15 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1837.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1841.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:01 EEST · CCDPC · documentation update</text>
+<text x="48" y="1841.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:02 EEST · CCDPC · merge pull request #16 from AF-Oprea</text>
 <circle cx="38" cy="1852.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1856.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:58 EEST · CCDPC · merge pull request #15 from AF-Oprea</text>
+<text x="48" y="1856.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 02:01 EEST · CCDPC · documentation update</text>
 <circle cx="38" cy="1867.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1871.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:58 EEST · CCDPC · version bump</text>
+<text x="48" y="1871.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:58 EEST · CCDPC · merge pull request #15 from AF-Oprea</text>
 <circle cx="38" cy="1882.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1886.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:56 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1886.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:58 EEST · CCDPC · version bump</text>
 <circle cx="38" cy="1897.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1901.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:50 EEST · CCDPC · merge pull request #14 from AF-Oprea</text>
+<text x="48" y="1901.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:56 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1912.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1916.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:49 EEST · CCDPC · crt chat update</text>
+<text x="48" y="1916.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:50 EEST · CCDPC · merge pull request #14 from AF-Oprea</text>
 <circle cx="38" cy="1927.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1931.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:38 EEST · CCDPC · merge pull request #12 from AF-Oprea</text>
+<text x="48" y="1931.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:49 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="1942.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1946.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:37 EEST · CCDPC · documentation update</text>
-<circle cx="38" cy="1957.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="1961.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:33 EEST · stellami · merge pull request #2 from AF-Oprea</text>
+<text x="48" y="1946.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:38 EEST · CCDPC · merge pull request #12 from AF-Oprea</text>
+<circle cx="38" cy="1957.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="1961.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:37 EEST · CCDPC · documentation update</text>
 <circle cx="38" cy="1972.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="1976.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:32 EEST · stellami · documentation update</text>
-<circle cx="38" cy="1987.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="1991.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:31 EEST · CCDPC · merge pull request #10 from AF-Oprea</text>
+<text x="48" y="1976.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:33 EEST · stellami · merge pull request #2 from AF-Oprea</text>
+<circle cx="38" cy="1987.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="1991.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:32 EEST · stellami · documentation update</text>
 <circle cx="38" cy="2002.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2006.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:28 EEST · CCDPC · feature work</text>
-<circle cx="38" cy="2017.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="2021.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:20 EEST · runguard · merge pull request #20 from AF-Oprea</text>
+<text x="48" y="2006.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:31 EEST · CCDPC · merge pull request #10 from AF-Oprea</text>
+<circle cx="38" cy="2017.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="2021.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:28 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="2032.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="2036.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:19 EEST · runguard · documentation update</text>
-<circle cx="38" cy="2047.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2051.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:19 EEST · MF2FV · merge pull request #4 from AF-Oprea</text>
-<circle cx="38" cy="2062.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2066.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:19 EEST · CCDPC · activity update</text>
+<text x="48" y="2036.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:20 EEST · runguard · merge pull request #20 from AF-Oprea</text>
+<circle cx="38" cy="2047.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="2051.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:19 EEST · runguard · documentation update</text>
+<circle cx="38" cy="2062.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="2066.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:19 EEST · MF2FV · merge pull request #4 from AF-Oprea</text>
 <circle cx="38" cy="2077.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2081.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:19 EEST · CCDPC · merge pull request #11 from AF-Oprea</text>
-<circle cx="38" cy="2092.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2096.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:18 EEST · PPCV · merge pull request #3 from AF-Oprea</text>
-<circle cx="38" cy="2107.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2111.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:18 EEST · CCDPC · roadmap gate update</text>
-<circle cx="38" cy="2122.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="2126.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:17 EEST · MF2FV · cleanup removal</text>
-<circle cx="38" cy="2137.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2141.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:17 EEST · PPCV · crt chat update</text>
-<circle cx="38" cy="2152.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2156.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:14 EEST · CCDPC · activity update</text>
+<text x="48" y="2081.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:19 EEST · CCDPC · activity update</text>
+<circle cx="38" cy="2092.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="2096.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:19 EEST · CCDPC · merge pull request #11 from AF-Oprea</text>
+<circle cx="38" cy="2107.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2111.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:18 EEST · PPCV · merge pull request #3 from AF-Oprea</text>
+<circle cx="38" cy="2122.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="2126.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:18 EEST · CCDPC · roadmap gate update</text>
+<circle cx="38" cy="2137.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="2141.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:17 EEST · MF2FV · cleanup removal</text>
+<circle cx="38" cy="2152.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2156.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:17 EEST · PPCV · crt chat update</text>
 <circle cx="38" cy="2167.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2171.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:11 EEST · CCDPC · activity update</text>
+<text x="48" y="2171.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:14 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2182.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2186.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:10 EEST · CCDPC · activity update</text>
+<text x="48" y="2186.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:11 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2197.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2201.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:09 EEST · CCDPC · activity update</text>
+<text x="48" y="2201.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:10 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2212.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2216.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:07 EEST · CCDPC · schema migration</text>
+<text x="48" y="2216.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:09 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2227.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2231.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:07 EEST · CCDPC · bug fix</text>
-<circle cx="38" cy="2242.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2246.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:52 EEST · PPCV · crt chat update</text>
-<circle cx="38" cy="2257.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2261.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:48 EEST · CCDPC · legal document modification</text>
+<text x="48" y="2231.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:07 EEST · CCDPC · schema migration</text>
+<circle cx="38" cy="2242.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="2246.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 01:07 EEST · CCDPC · bug fix</text>
+<circle cx="38" cy="2257.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2261.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:52 EEST · PPCV · crt chat update</text>
 <circle cx="38" cy="2272.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2276.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:46 EEST · CCDPC · cleanup removal</text>
+<text x="48" y="2276.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:48 EEST · CCDPC · legal document modification</text>
 <circle cx="38" cy="2287.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2291.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:43 EEST · CCDPC · activity update</text>
+<text x="48" y="2291.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:46 EEST · CCDPC · cleanup removal</text>
 <circle cx="38" cy="2302.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2306.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:41 EEST · CCDPC · activity update</text>
+<text x="48" y="2306.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:43 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2317.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2321.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:40 EEST · CCDPC · merge pull request #9 from AF-Oprea</text>
+<text x="48" y="2321.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:41 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2332.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2336.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:40 EEST · CCDPC · roadmap gate update</text>
+<text x="48" y="2336.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:40 EEST · CCDPC · merge pull request #9 from AF-Oprea</text>
 <circle cx="38" cy="2347.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2351.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:35 EEST · CCDPC · activity update</text>
-<circle cx="38" cy="2362.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2366.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:34 EEST · PPCV · merge pull request #2 from AF-Oprea</text>
-<circle cx="38" cy="2377.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2381.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:34 EEST · CCDPC · documentation update</text>
+<text x="48" y="2351.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:40 EEST · CCDPC · roadmap gate update</text>
+<circle cx="38" cy="2362.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="2366.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:35 EEST · CCDPC · activity update</text>
+<circle cx="38" cy="2377.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2381.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:34 EEST · PPCV · merge pull request #2 from AF-Oprea</text>
 <circle cx="38" cy="2392.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2396.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:34 EEST · CCDPC · activity update</text>
+<text x="48" y="2396.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:34 EEST · CCDPC · documentation update</text>
 <circle cx="38" cy="2407.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2411.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:33 EEST · CCDPC · documentation update</text>
+<text x="48" y="2411.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:34 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2422.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2426.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:33 EEST · CCDPC · crt chat update</text>
-<circle cx="38" cy="2437.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2441.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:33 EEST · PPCV · merge pull request #1 from AF-Oprea</text>
-<circle cx="38" cy="2452.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2456.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:32 EEST · CCDPC · crt chat update</text>
-<circle cx="38" cy="2467.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2471.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:32 EEST · PPCV · crt chat update</text>
-<circle cx="38" cy="2482.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2486.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:28 EEST · CCDPC · merge pull request #5 from AF-Oprea</text>
+<text x="48" y="2426.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:33 EEST · CCDPC · documentation update</text>
+<circle cx="38" cy="2437.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="2441.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:33 EEST · CCDPC · crt chat update</text>
+<circle cx="38" cy="2452.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2456.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:33 EEST · PPCV · merge pull request #1 from AF-Oprea</text>
+<circle cx="38" cy="2467.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="2471.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:32 EEST · CCDPC · crt chat update</text>
+<circle cx="38" cy="2482.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2486.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:32 EEST · PPCV · crt chat update</text>
 <circle cx="38" cy="2497.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2501.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:28 EEST · CCDPC · crt chat update</text>
+<text x="48" y="2501.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:28 EEST · CCDPC · merge pull request #5 from AF-Oprea</text>
 <circle cx="38" cy="2512.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2516.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:27 EEST · CCDPC · merge pull request #4 from AF-Oprea</text>
+<text x="48" y="2516.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:28 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="2527.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2531.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:27 EEST · CCDPC · bug fix</text>
-<circle cx="38" cy="2542.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2546.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:27 EEST · PPCV · crt chat update</text>
+<text x="48" y="2531.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:27 EEST · CCDPC · merge pull request #4 from AF-Oprea</text>
+<circle cx="38" cy="2542.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="2546.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:27 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="2557.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="2561.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:25 EEST · PPCV · crt chat update</text>
-<circle cx="38" cy="2572.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2576.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:25 EEST · CCDPC · feature work</text>
+<text x="48" y="2561.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:27 EEST · PPCV · crt chat update</text>
+<circle cx="38" cy="2572.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="2576.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:25 EEST · PPCV · crt chat update</text>
 <circle cx="38" cy="2587.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2591.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:18 EEST · CCDPC · activity update</text>
+<text x="48" y="2591.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:25 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="2602.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2606.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:16 EEST · CCDPC · ui polish</text>
+<text x="48" y="2606.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:18 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2617.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2621.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:16 EEST · CCDPC · bug fix</text>
+<text x="48" y="2621.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:16 EEST · CCDPC · ui polish</text>
 <circle cx="38" cy="2632.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2636.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:14 EEST · CCDPC · feature work</text>
+<text x="48" y="2636.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:16 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="2647.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2651.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:55 EEST · CCDPC · bug fix</text>
+<text x="48" y="2651.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-17 00:14 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="2662.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2666.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:53 EEST · CCDPC · activity update</text>
+<text x="48" y="2666.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:55 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="2677.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2681.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:47 EEST · CCDPC · bug fix</text>
+<text x="48" y="2681.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:53 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2692.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2696.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:44 EEST · CCDPC · activity update</text>
+<text x="48" y="2696.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:47 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="2707.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2711.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:40 EEST · CCDPC · activity update</text>
+<text x="48" y="2711.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:44 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2722.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2726.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 20:50 EEST · CCDPC · feature work</text>
+<text x="48" y="2726.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 23:40 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2737.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2741.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 20:49 EEST · CCDPC · activity update</text>
+<text x="48" y="2741.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 20:50 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="2752.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2756.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 20:47 EEST · CCDPC · merge pull request #3 from AF-Oprea</text>
+<text x="48" y="2756.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 20:49 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2767.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2771.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 17:17 EEST · CCDPC · documentation update</text>
+<text x="48" y="2771.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 20:47 EEST · CCDPC · merge pull request #3 from AF-Oprea</text>
 <circle cx="38" cy="2782.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2786.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 17:15 EEST · CCDPC · crt chat update</text>
+<text x="48" y="2786.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 17:17 EEST · CCDPC · documentation update</text>
 <circle cx="38" cy="2797.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2801.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 17:12 EEST · CCDPC · crt chat update</text>
+<text x="48" y="2801.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 17:15 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="2812.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2816.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:55 EEST · CCDPC · activity update</text>
+<text x="48" y="2816.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 17:12 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="2827.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2831.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:42 EEST · CCDPC · crt chat update</text>
+<text x="48" y="2831.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:55 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2842.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2846.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:41 EEST · CCDPC · feature work</text>
+<text x="48" y="2846.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:42 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="2857.0" r="3.5" fill="#2dd4bf"/>
 <text x="48" y="2861.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:41 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="2872.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2876.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:37 EEST · CCDPC · crt chat update</text>
+<text x="48" y="2876.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:41 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="2887.0" r="3.5" fill="#2dd4bf"/>
 <text x="48" y="2891.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:37 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="2902.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2906.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:24 EEST · CCDPC · activity update</text>
+<text x="48" y="2906.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:37 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="2917.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2921.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:20 EEST · CCDPC · activity update</text>
+<text x="48" y="2921.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:24 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2932.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2936.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:03 EEST · CCDPC · activity update</text>
+<text x="48" y="2936.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:20 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2947.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2951.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:02 EEST · CCDPC · crt chat update</text>
+<text x="48" y="2951.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:03 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="2962.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2966.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:58 EEST · CCDPC · bug fix</text>
+<text x="48" y="2966.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 16:02 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="2977.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2981.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:58 EEST · CCDPC · status refresh</text>
+<text x="48" y="2981.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:58 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="2992.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="2996.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:45 EEST · CCDPC · activity update</text>
+<text x="48" y="2996.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:58 EEST · CCDPC · status refresh</text>
 <circle cx="38" cy="3007.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3011.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:41 EEST · CCDPC · activity update</text>
+<text x="48" y="3011.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:45 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3022.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3026.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:39 EEST · CCDPC · bug fix</text>
+<text x="48" y="3026.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:41 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3037.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3041.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:30 EEST · CCDPC · feature work</text>
+<text x="48" y="3041.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:39 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="3052.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3056.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:16 EEST · CCDPC · activity update</text>
+<text x="48" y="3056.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:30 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="3067.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3071.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:14 EEST · CCDPC · align smoke defaults with Gemini 3.6</text>
+<text x="48" y="3071.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:16 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3082.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3086.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:14 EEST · CCDPC · activity update</text>
+<text x="48" y="3086.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:14 EEST · CCDPC · align smoke defaults with Gemini 3.6</text>
 <circle cx="38" cy="3097.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3101.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:11 EEST · CCDPC · activity update</text>
+<text x="48" y="3101.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:14 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3112.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3116.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:09 EEST · CCDPC · feature work</text>
+<text x="48" y="3116.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:11 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3127.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3131.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:05 EEST · CCDPC · crt chat update</text>
+<text x="48" y="3131.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:09 EEST · CCDPC · feature work</text>
 <circle cx="38" cy="3142.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3146.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:03 EEST · CCDPC · bug fix</text>
+<text x="48" y="3146.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:05 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="3157.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3161.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:02 EEST · CCDPC · activity update</text>
+<text x="48" y="3161.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:03 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="3172.0" r="3.5" fill="#2dd4bf"/>
 <text x="48" y="3176.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:02 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3187.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3191.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:58 EEST · CCDPC · cleanup removal</text>
+<text x="48" y="3191.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 15:02 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3202.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3206.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:57 EEST · CCDPC · crt chat update</text>
+<text x="48" y="3206.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:58 EEST · CCDPC · cleanup removal</text>
 <circle cx="38" cy="3217.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3221.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:54 EEST · CCDPC · cleanup removal</text>
+<text x="48" y="3221.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:57 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="3232.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3236.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:51 EEST · CCDPC · activity update</text>
+<text x="48" y="3236.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:54 EEST · CCDPC · cleanup removal</text>
 <circle cx="38" cy="3247.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3251.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:49 EEST · CCDPC · activity update</text>
+<text x="48" y="3251.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:51 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3262.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3266.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:47 EEST · CCDPC · crt chat update</text>
+<text x="48" y="3266.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:49 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3277.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3281.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:44 EEST · CCDPC · cleanup removal</text>
+<text x="48" y="3281.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:47 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="3292.0" r="3.5" fill="#2dd4bf"/>
 <text x="48" y="3296.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:44 EEST · CCDPC · cleanup removal</text>
 <circle cx="38" cy="3307.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3311.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:41 EEST · CCDPC · crt chat update</text>
+<text x="48" y="3311.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:44 EEST · CCDPC · cleanup removal</text>
 <circle cx="38" cy="3322.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3326.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:28 EEST · CCDPC · crt chat update</text>
+<text x="48" y="3326.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:41 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="3337.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3341.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:27 EEST · CCDPC · crt chat update</text>
+<text x="48" y="3341.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:28 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="3352.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3356.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 12:57 EEST · CCDPC · activity update</text>
+<text x="48" y="3356.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 14:27 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="3367.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3371.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 02:00 EEST · CCDPC · activity update</text>
+<text x="48" y="3371.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 12:57 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3382.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3386.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 01:07 EEST · CCDPC · bug fix</text>
+<text x="48" y="3386.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 02:00 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3397.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3401.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 01:02 EEST · CCDPC · activity update</text>
+<text x="48" y="3401.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 01:07 EEST · CCDPC · bug fix</text>
 <circle cx="38" cy="3412.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3416.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:57 EEST · CCDPC · activity update</text>
+<text x="48" y="3416.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 01:02 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3427.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3431.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:54 EEST · CCDPC · crt chat update</text>
+<text x="48" y="3431.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:57 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3442.0" r="3.5" fill="#2dd4bf"/>
 <text x="48" y="3446.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:54 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="3457.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3461.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:51 EEST · CCDPC · activity update</text>
+<text x="48" y="3461.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:54 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="3472.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3476.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:47 EEST · CCDPC · bug fix</text>
+<text x="48" y="3476.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:51 EEST · CCDPC · activity update</text>
 <circle cx="38" cy="3487.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3491.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:38 EEST · CCDPC · pulse board refresh</text>
-<circle cx="38" cy="3502.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3506.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:38 EEST · PPCV · crt chat update</text>
-<circle cx="38" cy="3517.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3521.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:38 EEST · CCDPC · release ship</text>
+<text x="48" y="3491.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:47 EEST · CCDPC · bug fix</text>
+<circle cx="38" cy="3502.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="3506.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:38 EEST · CCDPC · pulse board refresh</text>
+<circle cx="38" cy="3517.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="3521.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:38 EEST · PPCV · crt chat update</text>
 <circle cx="38" cy="3532.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3536.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:37 EEST · CCDPC · bug fix</text>
+<text x="48" y="3536.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:38 EEST · CCDPC · release ship</text>
 <circle cx="38" cy="3547.0" r="3.5" fill="#2dd4bf"/>
-<text x="48" y="3551.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:34 EEST · CCDPC · crt chat update</text>
-<circle cx="38" cy="3562.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3566.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-15 16:09 EEST · MF2FV · activity update</text>
+<text x="48" y="3551.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:37 EEST · CCDPC · bug fix</text>
+<circle cx="38" cy="3562.0" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="3566.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-16 00:34 EEST · CCDPC · crt chat update</text>
 <circle cx="38" cy="3577.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3581.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-15 15:33 EEST · MF2FV · feature work</text>
+<text x="48" y="3581.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-15 16:09 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3592.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3596.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-15 15:19 EEST · MF2FV · activity update</text>
-<circle cx="38" cy="3607.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3611.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:38 EEST · PPCV · activity update</text>
+<text x="48" y="3596.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-15 15:33 EEST · MF2FV · feature work</text>
+<circle cx="38" cy="3607.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="3611.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-15 15:19 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3622.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3626.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:25 EEST · PPCV · activity update</text>
+<text x="48" y="3626.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:38 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3637.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3641.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:20 EEST · PPCV · activity update</text>
+<text x="48" y="3641.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:25 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3652.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3656.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:13 EEST · PPCV · activity update</text>
+<text x="48" y="3656.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:20 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3667.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3671.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:03 EEST · PPCV · activity update</text>
+<text x="48" y="3671.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:13 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3682.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3686.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:01 EEST · PPCV · activity update</text>
+<text x="48" y="3686.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:03 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3697.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3701.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:58 EEST · PPCV · bug fix</text>
+<text x="48" y="3701.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 17:01 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3712.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3716.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:53 EEST · PPCV · bug fix</text>
+<text x="48" y="3716.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:58 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="3727.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3731.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:52 EEST · PPCV · ui polish</text>
+<text x="48" y="3731.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:53 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="3742.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3746.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:50 EEST · PPCV · activity update</text>
+<text x="48" y="3746.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:52 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="3757.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3761.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:42 EEST · PPCV · activity update</text>
+<text x="48" y="3761.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:50 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3772.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3776.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:39 EEST · PPCV · cleanup removal</text>
+<text x="48" y="3776.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:42 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3787.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3791.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:34 EEST · PPCV · bug fix</text>
+<text x="48" y="3791.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:39 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="3802.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3806.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:27 EEST · PPCV · activity update</text>
+<text x="48" y="3806.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:34 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="3817.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3821.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:18 EEST · PPCV · activity update</text>
+<text x="48" y="3821.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:27 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3832.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3836.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:07 EEST · PPCV · activity update</text>
+<text x="48" y="3836.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:18 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3847.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3851.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:56 EEST · PPCV · activity update</text>
+<text x="48" y="3851.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 16:07 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3862.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3866.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:49 EEST · PPCV · bug fix</text>
+<text x="48" y="3866.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:56 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3877.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3881.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:44 EEST · PPCV · activity update</text>
+<text x="48" y="3881.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:49 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="3892.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3896.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:40 EEST · PPCV · activity update</text>
+<text x="48" y="3896.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:44 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3907.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3911.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:29 EEST · PPCV · activity update</text>
+<text x="48" y="3911.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:40 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3922.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3926.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:21 EEST · PPCV · cleanup removal</text>
+<text x="48" y="3926.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:29 EEST · PPCV · activity update</text>
 <circle cx="38" cy="3937.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3941.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:21 EEST · PPCV · feature work</text>
-<circle cx="38" cy="3952.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3956.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:06 EEST · MF2FV · activity update</text>
+<text x="48" y="3941.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:21 EEST · PPCV · cleanup removal</text>
+<circle cx="38" cy="3952.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="3956.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:21 EEST · PPCV · feature work</text>
 <circle cx="38" cy="3967.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="3971.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:51 EEST · MF2FV · activity update</text>
-<circle cx="38" cy="3982.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="3986.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:45 EEST · PPCV · activity update</text>
+<text x="48" y="3971.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 15:06 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="3982.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="3986.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:51 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="3997.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4001.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:27 EEST · PPCV · mesh connectivity update</text>
+<text x="48" y="4001.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:45 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4012.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4016.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:17 EEST · PPCV · operator docs</text>
+<text x="48" y="4016.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:27 EEST · PPCV · mesh connectivity update</text>
 <circle cx="38" cy="4027.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4031.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:56 EEST · PPCV · cleanup removal</text>
+<text x="48" y="4031.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 14:17 EEST · PPCV · operator docs</text>
 <circle cx="38" cy="4042.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4046.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:41 EEST · PPCV · activity update</text>
+<text x="48" y="4046.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:56 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="4057.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4061.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:35 EEST · PPCV · activity update</text>
+<text x="48" y="4061.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:41 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4072.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4076.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:26 EEST · PPCV · activity update</text>
+<text x="48" y="4076.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:35 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4087.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4091.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:12 EEST · PPCV · wire hero PROJECTS heading to RO i18n</text>
+<text x="48" y="4091.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:26 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4102.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4106.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:14 EEST · PPCV · activity update</text>
+<text x="48" y="4106.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 13:12 EEST · PPCV · wire hero PROJECTS heading to RO i18n</text>
 <circle cx="38" cy="4117.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4121.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:08 EEST · PPCV · activity update</text>
+<text x="48" y="4121.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:14 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4132.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4136.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:06 EEST · PPCV · activity update</text>
+<text x="48" y="4136.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:08 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4147.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4151.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:03 EEST · PPCV · activity update</text>
+<text x="48" y="4151.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:06 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4162.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4166.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:00 EEST · PPCV · bug fix</text>
+<text x="48" y="4166.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:03 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4177.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4181.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:52 EEST · PPCV · cleanup removal</text>
+<text x="48" y="4181.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 03:00 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="4192.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4196.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:24 EEST · PPCV · activity update</text>
+<text x="48" y="4196.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:52 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="4207.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4211.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:17 EEST · PPCV · activity update</text>
+<text x="48" y="4211.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:24 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4222.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4226.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:14 EEST · PPCV · activity update</text>
+<text x="48" y="4226.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:17 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4237.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4241.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:11 EEST · PPCV · pulse board refresh</text>
+<text x="48" y="4241.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:14 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4252.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4256.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:07 EEST · PPCV · activity update</text>
+<text x="48" y="4256.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:11 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="4267.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4271.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:06 EEST · PPCV · activity update</text>
+<text x="48" y="4271.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:07 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4282.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4286.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:01 EEST · PPCV · activity update</text>
+<text x="48" y="4286.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:06 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4297.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4301.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:57 EEST · PPCV · activity update</text>
+<text x="48" y="4301.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 02:01 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4312.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4316.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:53 EEST · PPCV · ui polish</text>
+<text x="48" y="4316.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:57 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4327.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4331.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:45 EEST · PPCV · activity update</text>
-<circle cx="38" cy="4342.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="4346.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:38 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="4357.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4361.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:21 EEST · PPCV · bug fix</text>
+<text x="48" y="4331.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:53 EEST · PPCV · ui polish</text>
+<circle cx="38" cy="4342.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="4346.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:45 EEST · PPCV · activity update</text>
+<circle cx="38" cy="4357.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="4361.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:38 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="4372.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4376.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:16 EEST · PPCV · command center update</text>
+<text x="48" y="4376.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:21 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="4387.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4391.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:08 EEST · PPCV · activity update</text>
+<text x="48" y="4391.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:16 EEST · PPCV · command center update</text>
 <circle cx="38" cy="4402.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4406.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:05 EEST · PPCV · mute and shrink not-live sky pills</text>
+<text x="48" y="4406.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:08 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4417.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4421.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:02 EEST · PPCV · cleanup removal</text>
+<text x="48" y="4421.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:05 EEST · PPCV · mute and shrink not-live sky pills</text>
 <circle cx="38" cy="4432.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4436.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:01 EEST · PPCV · cleanup removal</text>
+<text x="48" y="4436.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:02 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="4447.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4451.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:57 EEST · PPCV · make sky cluster panel fully transparent</text>
+<text x="48" y="4451.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 01:01 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="4462.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4466.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:57 EEST · PPCV · activity update</text>
+<text x="48" y="4466.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:57 EEST · PPCV · make sky cluster panel fully transparent</text>
 <circle cx="38" cy="4477.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4481.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:55 EEST · PPCV · activity update</text>
+<text x="48" y="4481.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:57 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4492.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4496.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:53 EEST · PPCV · activity update</text>
+<text x="48" y="4496.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:55 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4507.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4511.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:49 EEST · PPCV · activity update</text>
+<text x="48" y="4511.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:53 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4522.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4526.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:30 EEST · PPCV · cleanup removal</text>
+<text x="48" y="4526.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:49 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4537.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4541.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:27 EEST · PPCV · feature work</text>
+<text x="48" y="4541.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:30 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="4552.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4556.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:25 EEST · PPCV · activity update</text>
+<text x="48" y="4556.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:27 EEST · PPCV · feature work</text>
 <circle cx="38" cy="4567.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4571.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:22 EEST · PPCV · rename AF-Oprea wiki to PPCV on :6660</text>
-<circle cx="38" cy="4582.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="4586.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:17 EEST · MF2FV · ui polish</text>
-<circle cx="38" cy="4597.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4601.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:09 EEST · PPCV · pulse board refresh</text>
+<text x="48" y="4571.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:25 EEST · PPCV · activity update</text>
+<circle cx="38" cy="4582.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="4586.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:22 EEST · PPCV · rename AF-Oprea wiki to PPCV on :6660</text>
+<circle cx="38" cy="4597.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="4601.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:17 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="4612.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4616.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:06 EEST · PPCV · pulse board refresh</text>
+<text x="48" y="4616.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:09 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="4627.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4631.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:03 EEST · PPCV · pulse board refresh</text>
+<text x="48" y="4631.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:06 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="4642.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4646.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:58 EEST · PPCV · activity update</text>
+<text x="48" y="4646.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-06 00:03 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="4657.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4661.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:55 EEST · PPCV · pulse board refresh</text>
+<text x="48" y="4661.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:58 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4672.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4676.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:53 EEST · PPCV · feature work</text>
+<text x="48" y="4676.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:55 EEST · PPCV · pulse board refresh</text>
 <circle cx="38" cy="4687.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4691.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:51 EEST · PPCV · release ship</text>
+<text x="48" y="4691.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:53 EEST · PPCV · feature work</text>
 <circle cx="38" cy="4702.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4706.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:48 EEST · PPCV · feature work</text>
+<text x="48" y="4706.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:51 EEST · PPCV · release ship</text>
 <circle cx="38" cy="4717.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4721.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:39 EEST · PPCV · activity update</text>
+<text x="48" y="4721.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:48 EEST · PPCV · feature work</text>
 <circle cx="38" cy="4732.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4736.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:36 EEST · PPCV · agent kit update</text>
+<text x="48" y="4736.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:39 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4747.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4751.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:34 EEST · PPCV · activity update</text>
+<text x="48" y="4751.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:36 EEST · PPCV · agent kit update</text>
 <circle cx="38" cy="4762.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4766.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:28 EEST · PPCV · feature work</text>
+<text x="48" y="4766.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:34 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4777.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4781.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:17 EEST · PPCV · activity update</text>
+<text x="48" y="4781.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:28 EEST · PPCV · feature work</text>
 <circle cx="38" cy="4792.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4796.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:14 EEST · PPCV · activity update</text>
+<text x="48" y="4796.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:17 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4807.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4811.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:13 EEST · PPCV · activity update</text>
+<text x="48" y="4811.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:14 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4822.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4826.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:10 EEST · PPCV · activity update</text>
+<text x="48" y="4826.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:13 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4837.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4841.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:06 EEST · PPCV · activity update</text>
+<text x="48" y="4841.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:10 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4852.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4856.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:01 EEST · PPCV · activity update</text>
+<text x="48" y="4856.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:06 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4867.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4871.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:57 EEST · PPCV · activity update</text>
+<text x="48" y="4871.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 23:01 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4882.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4886.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:54 EEST · PPCV · ui polish</text>
+<text x="48" y="4886.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:57 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4897.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4901.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:46 EEST · PPCV · cleanup removal</text>
+<text x="48" y="4901.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:54 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="4912.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4916.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:44 EEST · PPCV · activity update</text>
+<text x="48" y="4916.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:46 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="4927.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4931.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:40 EEST · PPCV · activity update</text>
+<text x="48" y="4931.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:44 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4942.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4946.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:38 EEST · PPCV · activity update</text>
+<text x="48" y="4946.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:40 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4957.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4961.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:36 EEST · PPCV · schema migration</text>
+<text x="48" y="4961.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:38 EEST · PPCV · activity update</text>
 <circle cx="38" cy="4972.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4976.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:34 EEST · PPCV · move tech marquee flush under the header</text>
+<text x="48" y="4976.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:36 EEST · PPCV · schema migration</text>
 <circle cx="38" cy="4987.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="4991.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:31 EEST · PPCV · activity update</text>
+<text x="48" y="4991.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:34 EEST · PPCV · move tech marquee flush under the header</text>
 <circle cx="38" cy="5002.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5006.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:27 EEST · PPCV · activity update</text>
+<text x="48" y="5006.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:31 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5017.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5021.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:24 EEST · PPCV · status refresh</text>
+<text x="48" y="5021.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:27 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5032.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5036.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:20 EEST · PPCV · activity update</text>
+<text x="48" y="5036.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:24 EEST · PPCV · status refresh</text>
 <circle cx="38" cy="5047.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5051.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:18 EEST · PPCV · feature work</text>
+<text x="48" y="5051.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:20 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5062.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5066.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:17 EEST · PPCV · cleanup removal</text>
+<text x="48" y="5066.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:18 EEST · PPCV · feature work</text>
 <circle cx="38" cy="5077.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5081.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:13 EEST · PPCV · activity update</text>
+<text x="48" y="5081.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:17 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="5092.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5096.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:11 EEST · PPCV · activity update</text>
+<text x="48" y="5096.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:13 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5107.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5111.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:10 EEST · PPCV · activity update</text>
+<text x="48" y="5111.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:11 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5122.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5126.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:07 EEST · PPCV · activity update</text>
+<text x="48" y="5126.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:10 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5137.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5141.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:05 EEST · PPCV · activity update</text>
+<text x="48" y="5141.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:07 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5152.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5156.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:02 EEST · PPCV · activity update</text>
+<text x="48" y="5156.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:05 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5167.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5171.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:59 EEST · PPCV · activity update</text>
+<text x="48" y="5171.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 22:02 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5182.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5186.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:57 EEST · PPCV · weather lab update</text>
+<text x="48" y="5186.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:59 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5197.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5201.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:56 EEST · PPCV · activity update</text>
+<text x="48" y="5201.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:57 EEST · PPCV · weather lab update</text>
 <circle cx="38" cy="5212.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5216.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:51 EEST · PPCV · activity update</text>
+<text x="48" y="5216.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:56 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5227.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5231.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:49 EEST · PPCV · activity update</text>
+<text x="48" y="5231.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:51 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5242.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5246.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:47 EEST · PPCV · activity update</text>
+<text x="48" y="5246.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:49 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5257.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5261.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:42 EEST · PPCV · activity update</text>
+<text x="48" y="5261.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:47 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5272.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5276.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:38 EEST · PPCV · activity update</text>
+<text x="48" y="5276.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:42 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5287.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5291.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:36 EEST · PPCV · activity update</text>
+<text x="48" y="5291.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:38 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5302.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5306.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:43 EEST · PPCV · activity update</text>
-<circle cx="38" cy="5317.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5321.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:43 EEST · MF2FV · activity update</text>
-<circle cx="38" cy="5332.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5336.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:34 EEST · PPCV · activity update</text>
+<text x="48" y="5306.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 21:36 EEST · PPCV · activity update</text>
+<circle cx="38" cy="5317.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="5321.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:43 EEST · PPCV · activity update</text>
+<circle cx="38" cy="5332.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="5336.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:43 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="5347.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5351.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:30 EEST · PPCV · cleanup removal</text>
+<text x="48" y="5351.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:34 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5362.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5366.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:27 EEST · PPCV · shorten hero tagline to skills only</text>
+<text x="48" y="5366.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:30 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="5377.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5381.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:26 EEST · PPCV · ui polish</text>
+<text x="48" y="5381.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:27 EEST · PPCV · shorten hero tagline to skills only</text>
 <circle cx="38" cy="5392.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5396.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:15 EEST · PPCV · feature work</text>
+<text x="48" y="5396.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:26 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="5407.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5411.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:12 EEST · PPCV · activity update</text>
-<circle cx="38" cy="5422.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="5426.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:03 EEST · WASH · activity update</text>
+<text x="48" y="5411.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:15 EEST · PPCV · feature work</text>
+<circle cx="38" cy="5422.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="5426.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:12 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5437.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="5441.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:57 EEST · WASH · weather lab update</text>
-<circle cx="38" cy="5452.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5456.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:55 EEST · PPCV · feature work</text>
+<text x="48" y="5441.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 20:03 EEST · WASH · activity update</text>
+<circle cx="38" cy="5452.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="5456.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:57 EEST · WASH · weather lab update</text>
 <circle cx="38" cy="5467.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5471.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:47 EEST · PPCV · cleanup removal</text>
+<text x="48" y="5471.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:55 EEST · PPCV · feature work</text>
 <circle cx="38" cy="5482.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5486.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:46 EEST · PPCV · cleanup removal</text>
+<text x="48" y="5486.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:47 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="5497.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5501.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:44 EEST · PPCV · ui polish</text>
+<text x="48" y="5501.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:46 EEST · PPCV · cleanup removal</text>
 <circle cx="38" cy="5512.0" r="3.5" fill="#c9b896"/>
 <text x="48" y="5516.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:44 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="5527.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5531.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:43 EEST · PPCV · ui polish</text>
-<circle cx="38" cy="5542.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="5546.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · WASH · weather lab update</text>
-<circle cx="38" cy="5557.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5561.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5572.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5576.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · PPCV · ui polish</text>
+<text x="48" y="5531.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:44 EEST · PPCV · ui polish</text>
+<circle cx="38" cy="5542.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="5546.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:43 EEST · PPCV · ui polish</text>
+<circle cx="38" cy="5557.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="5561.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · WASH · weather lab update</text>
+<circle cx="38" cy="5572.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5576.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="5587.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5591.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:40 EEST · PPCV · activity update</text>
+<text x="48" y="5591.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:42 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="5602.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5606.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:39 EEST · PPCV · activity update</text>
+<text x="48" y="5606.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:40 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5617.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5621.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:36 EEST · PPCV · activity update</text>
+<text x="48" y="5621.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:39 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5632.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5636.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:35 EEST · PPCV · bug fix</text>
+<text x="48" y="5636.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:36 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5647.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5651.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:32 EEST · PPCV · feature work</text>
+<text x="48" y="5651.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:35 EEST · PPCV · bug fix</text>
 <circle cx="38" cy="5662.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5666.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:29 EEST · PPCV · activity update</text>
+<text x="48" y="5666.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:32 EEST · PPCV · feature work</text>
 <circle cx="38" cy="5677.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5681.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:15 EEST · PPCV · ui polish</text>
+<text x="48" y="5681.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:29 EEST · PPCV · activity update</text>
 <circle cx="38" cy="5692.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5696.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:08 EEST · PPCV · ui polish</text>
+<text x="48" y="5696.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:15 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="5707.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5711.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:03 EEST · PPCV · activity update</text>
+<text x="48" y="5711.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:08 EEST · PPCV · ui polish</text>
 <circle cx="38" cy="5722.0" r="3.5" fill="#c9b896"/>
-<text x="48" y="5726.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:00 EEST · PPCV · feature work</text>
-<circle cx="38" cy="5737.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5741.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:49 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="5726.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:03 EEST · PPCV · activity update</text>
+<circle cx="38" cy="5737.0" r="3.5" fill="#c9b896"/>
+<text x="48" y="5741.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 19:00 EEST · PPCV · feature work</text>
 <circle cx="38" cy="5752.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5756.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:43 EEST · MF2FV · activity update</text>
+<text x="48" y="5756.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:49 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="5767.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5771.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:33 EEST · MF2FV · activity update</text>
+<text x="48" y="5771.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:43 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="5782.0" r="3.5" fill="#ef4444"/>
 <text x="48" y="5786.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:33 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="5797.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5801.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:27 EEST · MF2FV · documentation update</text>
+<text x="48" y="5801.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:33 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="5812.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5816.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:25 EEST · MF2FV · feature work</text>
+<text x="48" y="5816.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:27 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="5827.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5831.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:23 EEST · MF2FV · activity update</text>
+<text x="48" y="5831.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:25 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="5842.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5846.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:32 EEST · MF2FV · documentation update</text>
-<circle cx="38" cy="5857.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="5861.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:32 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="5872.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5876.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:25 EEST · MF2FV · documentation update</text>
+<text x="48" y="5846.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-05 18:23 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="5857.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="5861.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:32 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="5872.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="5876.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:32 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="5887.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5891.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:24 EEST · MF2FV · activity update</text>
+<text x="48" y="5891.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:25 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="5902.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5906.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 19:11 EEST · MF2FV · feature work</text>
-<circle cx="38" cy="5917.0" r="3.5" fill="#7ee787"/>
-<text x="48" y="5921.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · AAT · activity update</text>
-<circle cx="38" cy="5932.0" r="3.5" fill="#d29922"/>
-<text x="48" y="5936.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · R&amp;T · activity update</text>
-<circle cx="38" cy="5947.0" r="3.5" fill="#58a6ff"/>
-<text x="48" y="5951.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · CC-AR · activity update</text>
-<circle cx="38" cy="5962.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5966.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:05 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="5906.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-04 22:24 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="5917.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="5921.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 19:11 EEST · MF2FV · feature work</text>
+<circle cx="38" cy="5932.0" r="3.5" fill="#7ee787"/>
+<text x="48" y="5936.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · AAT · activity update</text>
+<circle cx="38" cy="5947.0" r="3.5" fill="#d29922"/>
+<text x="48" y="5951.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · R&amp;T · activity update</text>
+<circle cx="38" cy="5962.0" r="3.5" fill="#58a6ff"/>
+<text x="48" y="5966.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:06 EEST · CC-AR · activity update</text>
 <circle cx="38" cy="5977.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5981.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 16:08 EEST · MF2FV · release ship</text>
+<text x="48" y="5981.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-29 18:05 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="5992.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="5996.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 15:11 EEST · MF2FV · feature work</text>
+<text x="48" y="5996.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 16:08 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="6007.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6011.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:47 EEST · MF2FV · feature work</text>
+<text x="48" y="6011.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 15:11 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="6022.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6026.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:42 EEST · MF2FV · activity update</text>
+<text x="48" y="6026.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:47 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="6037.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6041.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:36 EEST · MF2FV · activity update</text>
+<text x="48" y="6041.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:42 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6052.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6056.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:34 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="6056.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:36 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6067.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6071.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:33 EEST · MF2FV · documentation update</text>
+<text x="48" y="6071.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:34 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="6082.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6086.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:32 EEST · MF2FV · activity update</text>
+<text x="48" y="6086.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:33 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="6097.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6101.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:31 EEST · MF2FV · documentation update</text>
-<circle cx="38" cy="6112.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6116.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
-<circle cx="38" cy="6127.0" r="3.5" fill="#ffa657"/>
-<text x="48" y="6131.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · esp-lab-jack · documentation update</text>
-<circle cx="38" cy="6142.0" r="3.5" fill="#ff7b72"/>
-<text x="48" y="6146.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · WASH · documentation update</text>
-<circle cx="38" cy="6157.0" r="3.5" fill="#22d3ee"/>
-<text x="48" y="6161.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · EASM · documentation update</text>
-<circle cx="38" cy="6172.0" r="3.5" fill="#fbbf24"/>
-<text x="48" y="6176.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · PeriFX · documentation update</text>
-<circle cx="38" cy="6187.0" r="3.5" fill="#f778ba"/>
-<text x="48" y="6191.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami-marketing · documentation update</text>
-<circle cx="38" cy="6202.0" r="3.5" fill="#a78bfa"/>
-<text x="48" y="6206.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
+<text x="48" y="6101.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:32 EEST · MF2FV · activity update</text>
+<circle cx="38" cy="6112.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="6116.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:31 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="6127.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6131.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
+<circle cx="38" cy="6142.0" r="3.5" fill="#ffa657"/>
+<text x="48" y="6146.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · esp-lab-jack · documentation update</text>
+<circle cx="38" cy="6157.0" r="3.5" fill="#ff7b72"/>
+<text x="48" y="6161.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · WASH · documentation update</text>
+<circle cx="38" cy="6172.0" r="3.5" fill="#22d3ee"/>
+<text x="48" y="6176.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · EASM · documentation update</text>
+<circle cx="38" cy="6187.0" r="3.5" fill="#fbbf24"/>
+<text x="48" y="6191.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · PeriFX · documentation update</text>
+<circle cx="38" cy="6202.0" r="3.5" fill="#f778ba"/>
+<text x="48" y="6206.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami-marketing · documentation update</text>
 <circle cx="38" cy="6217.0" r="3.5" fill="#a78bfa"/>
 <text x="48" y="6221.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
 <circle cx="38" cy="6232.0" r="3.5" fill="#a78bfa"/>
 <text x="48" y="6236.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
-<circle cx="38" cy="6247.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6251.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · runguard · documentation update</text>
-<circle cx="38" cy="6262.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6266.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="6247.0" r="3.5" fill="#a78bfa"/>
+<text x="48" y="6251.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · stellami · documentation update</text>
+<circle cx="38" cy="6262.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6266.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · runguard · documentation update</text>
 <circle cx="38" cy="6277.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6281.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:10 EEST · MF2FV · activity update</text>
+<text x="48" y="6281.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:16 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="6292.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6296.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:06 EEST · MF2FV · activity update</text>
+<text x="48" y="6296.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:10 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6307.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6311.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:51 EEST · MF2FV · documentation update</text>
+<text x="48" y="6311.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 03:06 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6322.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6326.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:51 EEST · MF2FV · mesh connectivity update</text>
-<circle cx="38" cy="6337.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6341.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="6352.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6356.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · MF2FV · documentation update</text>
+<text x="48" y="6326.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:51 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="6337.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="6341.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:51 EEST · MF2FV · mesh connectivity update</text>
+<circle cx="38" cy="6352.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6356.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="6367.0" r="3.5" fill="#ef4444"/>
 <text x="48" y="6371.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="6382.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6386.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:29 EEST · MF2FV · activity update</text>
+<text x="48" y="6386.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:38 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="6397.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6401.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:23 EEST · MF2FV · bug fix</text>
+<text x="48" y="6401.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:29 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6412.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6416.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:50 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="6416.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 02:23 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="6427.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6431.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:45 EEST · MF2FV · documentation update</text>
+<text x="48" y="6431.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:50 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="6442.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6446.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:31 EEST · MF2FV · activity update</text>
+<text x="48" y="6446.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:45 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="6457.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6461.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:12 EEST · MF2FV · documentation update</text>
+<text x="48" y="6461.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:31 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6472.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6476.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:12 EEST · MF2FV · bug fix</text>
+<text x="48" y="6476.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:12 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="6487.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6491.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:57 EEST · MF2FV · security hardening</text>
+<text x="48" y="6491.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 01:12 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="6502.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6506.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:55 EEST · MF2FV · feature work</text>
+<text x="48" y="6506.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:57 EEST · MF2FV · security hardening</text>
 <circle cx="38" cy="6517.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6521.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:32 EEST · MF2FV · tests updated</text>
+<text x="48" y="6521.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:55 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="6532.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6536.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:31 EEST · MF2FV · bug fix</text>
+<text x="48" y="6536.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:32 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="6547.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6551.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:25 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="6551.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:31 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="6562.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6566.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:22 EEST · MF2FV · activity update</text>
+<text x="48" y="6566.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:25 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="6577.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6581.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:20 EEST · MF2FV · tests updated</text>
+<text x="48" y="6581.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:22 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6592.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6596.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:19 EEST · MF2FV · tests updated</text>
+<text x="48" y="6596.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:20 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="6607.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6611.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:18 EEST · MF2FV · activity update</text>
+<text x="48" y="6611.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:19 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="6622.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6626.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:16 EEST · MF2FV · tests updated</text>
+<text x="48" y="6626.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:18 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6637.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6641.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:15 EEST · MF2FV · weather lab update</text>
+<text x="48" y="6641.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:16 EEST · MF2FV · tests updated</text>
 <circle cx="38" cy="6652.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6656.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:09 EEST · MF2FV · activity update</text>
+<text x="48" y="6656.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:15 EEST · MF2FV · weather lab update</text>
 <circle cx="38" cy="6667.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6671.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:04 EEST · MF2FV · activity update</text>
+<text x="48" y="6671.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:09 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6682.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6686.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:01 EEST · MF2FV · bug fix</text>
+<text x="48" y="6686.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:04 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6697.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6701.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:55 EEST · MF2FV · activity update</text>
+<text x="48" y="6701.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-28 00:01 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="6712.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6716.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:50 EEST · MF2FV · activity update</text>
+<text x="48" y="6716.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:55 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6727.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6731.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:35 EEST · MF2FV · ui polish</text>
+<text x="48" y="6731.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:50 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6742.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6746.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:21 EEST · MF2FV · bug fix</text>
+<text x="48" y="6746.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:35 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="6757.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6761.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:13 EEST · MF2FV · bug fix</text>
+<text x="48" y="6761.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:21 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="6772.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6776.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:59 EEST · MF2FV · activity update</text>
+<text x="48" y="6776.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 23:13 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="6787.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6791.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:55 EEST · MF2FV · schema migration</text>
+<text x="48" y="6791.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:59 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6802.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6806.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:54 EEST · MF2FV · cleanup removal</text>
+<text x="48" y="6806.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:55 EEST · MF2FV · schema migration</text>
 <circle cx="38" cy="6817.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6821.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:52 EEST · MF2FV · roadmap gate update</text>
+<text x="48" y="6821.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:54 EEST · MF2FV · cleanup removal</text>
 <circle cx="38" cy="6832.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6836.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:48 EEST · MF2FV · documentation update</text>
+<text x="48" y="6836.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:52 EEST · MF2FV · roadmap gate update</text>
 <circle cx="38" cy="6847.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6851.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:47 EEST · MF2FV · roadmap gate update</text>
+<text x="48" y="6851.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:48 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="6862.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6866.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:39 EEST · MF2FV · documentation update</text>
+<text x="48" y="6866.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:47 EEST · MF2FV · roadmap gate update</text>
 <circle cx="38" cy="6877.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6881.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:33 EEST · MF2FV · activity update</text>
+<text x="48" y="6881.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:39 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="6892.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6896.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:27 EEST · MF2FV · documentation update</text>
+<text x="48" y="6896.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:33 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6907.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6911.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:25 EEST · MF2FV · release ship</text>
-<circle cx="38" cy="6922.0" r="3.5" fill="#3fb950"/>
-<text x="48" y="6926.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:09 EEST · runguard · roadmap gate update</text>
-<circle cx="38" cy="6937.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6941.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:03 EEST · MF2FV · bug fix</text>
+<text x="48" y="6911.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:27 EEST · MF2FV · documentation update</text>
+<circle cx="38" cy="6922.0" r="3.5" fill="#ef4444"/>
+<text x="48" y="6926.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:25 EEST · MF2FV · release ship</text>
+<circle cx="38" cy="6937.0" r="3.5" fill="#3fb950"/>
+<text x="48" y="6941.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:09 EEST · runguard · roadmap gate update</text>
 <circle cx="38" cy="6952.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6956.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:59 EEST · MF2FV · bug fix</text>
+<text x="48" y="6956.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 22:03 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="6967.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6971.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:54 EEST · MF2FV · activity update</text>
+<text x="48" y="6971.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:59 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="6982.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="6986.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:41 EEST · MF2FV · activity update</text>
+<text x="48" y="6986.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:54 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="6997.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7001.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:38 EEST · MF2FV · documentation update</text>
+<text x="48" y="7001.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:41 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7012.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7016.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:37 EEST · MF2FV · activity update</text>
+<text x="48" y="7016.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:38 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="7027.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7031.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:33 EEST · MF2FV · activity update</text>
+<text x="48" y="7031.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:37 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7042.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7046.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:09 EEST · MF2FV · bug fix</text>
+<text x="48" y="7046.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 21:33 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7057.0" r="3.5" fill="#ef4444"/>
 <text x="48" y="7061.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:09 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="7072.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7076.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:04 EEST · MF2FV · bug fix</text>
+<text x="48" y="7076.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:09 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="7087.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7091.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:58 EEST · MF2FV · bug fix</text>
+<text x="48" y="7091.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 18:04 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="7102.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7106.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:58 EEST · MF2FV · documentation update</text>
+<text x="48" y="7106.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:58 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="7117.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7121.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:54 EEST · MF2FV · activity update</text>
+<text x="48" y="7121.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:58 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="7132.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7136.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:38 EEST · MF2FV · release ship</text>
+<text x="48" y="7136.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:54 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7147.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7151.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:38 EEST · MF2FV · activity update</text>
+<text x="48" y="7151.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:38 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="7162.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7166.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:31 EEST · MF2FV · bug fix</text>
+<text x="48" y="7166.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:38 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7177.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7181.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:12 EEST · MF2FV · bug fix</text>
+<text x="48" y="7181.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:31 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="7192.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7196.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:07 EEST · MF2FV · documentation update</text>
+<text x="48" y="7196.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:12 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="7207.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7211.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:04 EEST · MF2FV · release ship</text>
+<text x="48" y="7211.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:07 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="7222.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7226.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:02 EEST · MF2FV · release ship</text>
+<text x="48" y="7226.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:04 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="7237.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7241.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:02 EEST · MF2FV · activity update</text>
+<text x="48" y="7241.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:02 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="7252.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7256.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:57 EEST · MF2FV · release ship</text>
+<text x="48" y="7256.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 17:02 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7267.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7271.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:54 EEST · MF2FV · release ship</text>
+<text x="48" y="7271.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:57 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="7282.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7286.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:53 EEST · MF2FV · bug fix</text>
+<text x="48" y="7286.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:54 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="7297.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7301.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:52 EEST · MF2FV · release ship</text>
+<text x="48" y="7301.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:53 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="7312.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7316.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:52 EEST · MF2FV · documentation update</text>
+<text x="48" y="7316.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:52 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="7327.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7331.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:51 EEST · MF2FV · activity update</text>
+<text x="48" y="7331.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:52 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="7342.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7346.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:50 EEST · MF2FV · status refresh</text>
+<text x="48" y="7346.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:51 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7357.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7361.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:47 EEST · MF2FV · bug fix</text>
+<text x="48" y="7361.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:50 EEST · MF2FV · status refresh</text>
 <circle cx="38" cy="7372.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7376.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:43 EEST · MF2FV · release ship</text>
+<text x="48" y="7376.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:47 EEST · MF2FV · bug fix</text>
 <circle cx="38" cy="7387.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7391.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:42 EEST · MF2FV · documentation update</text>
+<text x="48" y="7391.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:43 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="7402.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7406.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:41 EEST · MF2FV · documentation update</text>
+<text x="48" y="7406.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:42 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="7417.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7421.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:39 EEST · MF2FV · activity update</text>
+<text x="48" y="7421.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:41 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="7432.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7436.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:39 EEST · MF2FV · release ship</text>
+<text x="48" y="7436.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:39 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7447.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7451.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:38 EEST · MF2FV · feature work</text>
+<text x="48" y="7451.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:39 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="7462.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7466.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:30 EEST · MF2FV · documentation update</text>
+<text x="48" y="7466.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:38 EEST · MF2FV · feature work</text>
 <circle cx="38" cy="7477.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7481.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:30 EEST · MF2FV · activity update</text>
+<text x="48" y="7481.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:30 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="7492.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7496.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:12 EEST · MF2FV · documentation update</text>
+<text x="48" y="7496.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:30 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7507.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7511.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:10 EEST · MF2FV · ui polish</text>
+<text x="48" y="7511.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:12 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="7522.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7526.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:08 EEST · MF2FV · ui polish</text>
+<text x="48" y="7526.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:10 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="7537.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7541.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:06 EEST · MF2FV · documentation update</text>
+<text x="48" y="7541.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:08 EEST · MF2FV · ui polish</text>
 <circle cx="38" cy="7552.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7556.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:06 EEST · MF2FV · release ship</text>
+<text x="48" y="7556.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:06 EEST · MF2FV · documentation update</text>
 <circle cx="38" cy="7567.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7571.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:02 EEST · MF2FV · roadmap gate update</text>
+<text x="48" y="7571.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:06 EEST · MF2FV · release ship</text>
 <circle cx="38" cy="7582.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7586.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:38 EEST · MF2FV · activity update</text>
+<text x="48" y="7586.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 16:02 EEST · MF2FV · roadmap gate update</text>
 <circle cx="38" cy="7597.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7601.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:18 EEST · MF2FV · agent kit update</text>
+<text x="48" y="7601.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:38 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7612.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7616.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:17 EEST · MF2FV · activity update</text>
+<text x="48" y="7616.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:18 EEST · MF2FV · agent kit update</text>
 <circle cx="38" cy="7627.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7631.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:07 EEST · MF2FV · activity update</text>
+<text x="48" y="7631.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:17 EEST · MF2FV · activity update</text>
 <circle cx="38" cy="7642.0" r="3.5" fill="#ef4444"/>
-<text x="48" y="7646.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:04 EEST · MF2FV · release ship</text>
+<text x="48" y="7646.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-27 15:07 EEST · MF2FV · activity update</text>
 </g>
-<text x="20" y="7686.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 14 in 24h · 500 in 30d · when · nick · action · no XP</text>
+<text x="20" y="7686.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 15 in 24h · 500 in 30d · when · nick · action · no XP</text>
 </svg>
