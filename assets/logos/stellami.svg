@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20" role="img" aria-label="Stellami"><g transform="translate(-0 -0) scale(0.0390625 0.0390625)"><defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5e6a8"/>
+      <stop offset="45%" stop-color="#e8c57a"/>
+      <stop offset="100%" stop-color="#c9a227"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="none" stroke="url(#gold)" stroke-width="2.2" opacity=".55">
+    <circle cx="256" cy="256" r="168"/>
+    <circle cx="256" cy="256" r="132"/>
+    <circle cx="256" cy="256" r="96"/>
+  </g>
+  <g stroke="url(#gold)" stroke-width="1.4" opacity=".35">
+    <line x1="256" y1="88" x2="256" y2="424"/>
+    <line x1="88" y1="256" x2="424" y2="256"/>
+  </g>
+  <g filter="url(#glow)" stroke="url(#gold)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 108 L286 226 L404 256 L286 286 L256 404 L226 286 L108 256 L226 226 Z" fill="none"/>
+    <path d="M256 148 L272 236 L360 256 L272 276 L256 364 L240 276 L152 256 L240 236 Z" fill="url(#gold)" opacity=".92"/>
+  </g>
+  <circle cx="256" cy="256" r="18" fill="#fff8e8" opacity=".95"/></g></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20" role="img" aria-label="H-AI"><g transform="translate(-0 -0) scale(0.3125 0.3125)"><rect width="64" height="64" rx="14" fill="#f0e6a8"/>
+  <rect x="10" y="14" width="44" height="30" rx="6" fill="#1a0e0a"/>
+  <circle cx="24" cy="28" r="4" fill="#fff6c8"/>
+  <circle cx="40" cy="28" r="4" fill="#fff6c8"/>
+  <rect x="22" y="38" width="20" height="3" rx="1.5" fill="#5bc4a8"/>
+  <rect x="18" y="48" width="28" height="6" rx="2" fill="#d4c478"/></g></svg>
