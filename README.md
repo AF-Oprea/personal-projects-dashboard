@@ -1,24 +1,7 @@
-<div align="center">
-
 # AF-Oprea
 
-**Private streams... Public pulse.**
+Private streams. Public pulse.
 
-<sub>A living journal of whatever I'm building, breaking, or over-engineering this week.</sub>
-
-<img src="assets/pulse.svg?v=20260919T203001Z" alt="Projects percent completed" width="880" />
-
-</div>
-
-<div align="center">
-
-<img src="assets/worth-panel.svg?v=20260919T203001Z" alt="Complexity utility and languages" width="880" />
-
-</div>
-
-<div align="center">
-
-<img src="assets/command-center.svg?v=20260919T203001Z" alt="Command Center — Live Stream" width="880" />
-
-</div>
-<!-- last refresh: 2026-09-19T20:30:01Z -->
+This repository is a minimal public calling card for selected projects.
+Detailed roadmaps, activity history, operational dashboards, and internal
+project information are kept in private workspaces.
