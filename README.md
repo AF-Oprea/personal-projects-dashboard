@@ -2,8 +2,6 @@
 
 **Private streams... Public pulse.**
 
-<sub>A living journal of whatever I'm building, breaking, or over-engineering this week.</sub>
-
 <p align="center">
   <img src="assets/pulse.svg" alt="Public project pulse" width="880" />
 </p>
