@@ -1,0 +1,26 @@
+name: Validate public dashboard
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Validate public assets
+        run: |
+          set -euo pipefail
+          test -s README.md
+          for asset in assets/pulse.svg assets/worth-panel.svg assets/command-center.svg; do
+            test -s "$asset"
+            grep -q '<svg' "$asset"
+          done
+          if grep -RIlE '<<<<<<<|=======|>>>>>>>' README.md assets; then
+            echo "::error::Conflict markers found in public dashboard files."
+            exit 1
+          fi
