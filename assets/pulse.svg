@@ -112,7 +112,7 @@
 <rect x="24" y="278" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <g id="stream_logo_aat" class="stream_logo" data-stream="aat" opacity="1.0"><rect x="35.0" y="293.0" width="18" height="18" rx="4" fill="#c47b4a"/><text x="44.0" y="306.2" text-anchor="middle" fill="#0d1117" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="700">A</text></g>
 <text x="66" y="298" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">AAT</text>
-<text x="66" y="314" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">OBD Golf 6 CAXA — HU dials, ELM BT, DTC, Incline</text>
+<text x="66" y="314" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">OBD Golf 6 CAXA — HU dials, ELM, Erori, Accel</text>
 <text x="430" y="306" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">85.0%</text>
 <rect x="500.0" y="296.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
 <rect x="500.0" y="296.0" width="55.0" height="8.0" rx="2" fill="#985f39"/>
@@ -384,6 +384,6 @@
 <rect x="785.0" y="854.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ff7b72" stroke-width="1.4"/>
 <rect x="785.0" y="854.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="872.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
-<text x="28" y="918" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.1% · Δ 24h +2.2% · Δ 7d +7.7% · Δ 30d +20.0% (% LOC · roadmap % on ring)</text>
-<text x="28" y="932" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-19T01:45:01Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
+<text x="28" y="918" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.3% · Δ 24h +2.4% · Δ 7d +7.9% · Δ 30d +20.3% (% LOC · roadmap % on ring)</text>
+<text x="28" y="932" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-19T01:53:44Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
 </svg>
