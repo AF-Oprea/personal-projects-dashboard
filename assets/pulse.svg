@@ -10,7 +10,8 @@
 <rect x="1.2" y="1.2" width="877.6" height="939.6" rx="22.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <circle cx="42" cy="44" r="7" fill="#3fb950"/>
 <text x="58" y="36" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="2.4">AF-OPREA</text>
-<text x="58" y="60" fill="#f4f1ea" font-size="20" font-family="ui-serif, Georgia, serif">Private streams... Public pulse.</text>
+<text x="58" y="52" fill="#c9b896" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">Junior Tech Builder</text>
+<text x="58" y="74" fill="#f4f1ea" font-size="18" font-family="ui-serif, Georgia, serif">Private streams... Public pulse.</text>
 <g transform="translate(790,16)">
 <circle cx="36" cy="36" r="26" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="7"/>
 <circle cx="36" cy="36" r="26" fill="none" stroke="#e4c078" stroke-width="7" stroke-linecap="round" stroke-dasharray="163.36" stroke-dashoffset="72.53" transform="rotate(-90 36 36)"/>
@@ -378,6 +379,6 @@
 <rect x="785.0" y="854.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ff7b72" stroke-width="1.4"/>
 <rect x="785.0" y="854.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="872.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
-<text x="28" y="918" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.2% · Δ 24h +2.1% · Δ 7d +7.7% · Δ 30d +19.9% (% LOC · roadmap % on ring)</text>
-<text x="28" y="932" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-19T01:00:01Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
+<text x="28" y="918" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.1% · Δ 24h +2.1% · Δ 7d +7.7% · Δ 30d +20.0% (% LOC · roadmap % on ring)</text>
+<text x="28" y="932" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-19T01:15:01Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
 </svg>
