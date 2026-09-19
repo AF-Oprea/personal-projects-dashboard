@@ -77,12 +77,12 @@
 <rect x="785.0" y="172.0" width="2.8" height="8.0" rx="2" fill="#a78bfa"/>
 <text x="812.5" y="190.0" text-anchor="middle" fill="#a78bfa" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="216" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_mos" class="stream_logo" data-stream="mos" opacity="1.0"><rect x="35.0" y="231.0" width="18" height="18" rx="4" fill="#79c0ff"/><text x="44.0" y="244.2" text-anchor="middle" fill="#0d1117" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="700">M</text></g>
+<g id="stream_logo_mos" class="stream_logo" data-stream="mos" opacity="1.0"><rect x="35.0" y="231.0" width="18" height="18" rx="4" fill="#ff6b5e"/><text x="44.0" y="244.2" text-anchor="middle" fill="#0d1117" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="700">M</text></g>
 <text x="66" y="236" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">MOS</text>
 <text x="430" y="244" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2.0%</text>
-<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#79c0ff" stroke-width="1.4"/>
-<rect x="500.0" y="234.0" width="11.0" height="8.0" rx="2" fill="#79c0ff"/>
-<text x="527.5" y="252.0" text-anchor="middle" fill="#79c0ff" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
+<rect x="500.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ff6b5e" stroke-width="1.4"/>
+<rect x="500.0" y="234.0" width="11.0" height="8.0" rx="2" fill="#ff6b5e"/>
+<text x="527.5" y="252.0" text-anchor="middle" fill="#ff6b5e" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Start</text>
 <rect x="557.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
 <text x="584.5" y="252.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Plan</text>
 <rect x="614.0" y="234.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
@@ -389,5 +389,5 @@
 <rect x="785.0" y="916.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="934.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <text x="28" y="980" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m — · Δ 24h — · Δ 7d — · Δ 30d — (% LOC · roadmap % on ring)</text>
-<text x="28" y="994" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-19T20:21:15Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
+<text x="28" y="994" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-09-19T20:23:10Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
 </svg>
