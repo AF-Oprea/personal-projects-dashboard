@@ -1,0 +1,23 @@
+#!/bin/sh
+set -eu
+
+expected_name='AF-Oprea'
+expected_email='37816944+AF-Oprea@users.noreply.github.com'
+
+while read -r local_ref local_sha remote_ref remote_sha; do
+  [ "$local_sha" = "0000000000000000000000000000000000000000" ] && continue
+  range="$local_sha"
+  if [ "$remote_sha" != "0000000000000000000000000000000000000000" ]; then
+    range="$remote_sha..$local_sha"
+  fi
+
+  invalid_commit="$(git log "$range" --format='%H%x09%an%x09%ae%x09%cn%x09%ce' |
+    awk -F '\t' -v name="$expected_name" -v email="$expected_email" '
+      $2 != name || $3 != email || $4 != name || $5 != email { print; exit }')"
+
+  if [ -n "$invalid_commit" ]; then
+    printf '%s\n' "Push rejected: every commit must use $expected_name <$expected_email>." >&2
+    printf '%s\n' "Invalid commit: $invalid_commit" >&2
+    exit 1
+  fi
+done

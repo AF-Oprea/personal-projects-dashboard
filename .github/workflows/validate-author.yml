@@ -1,0 +1,26 @@
+name: Validate commit identity
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  author:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Require AF-Oprea as author and committer
+        shell: bash
+        run: |
+          set -euo pipefail
+          expected_name='AF-Oprea'
+          expected_email='37816944+AF-Oprea@users.noreply.github.com'
+          if ! git log --format='%an%x09%ae%x09%cn%x09%ce' | \
+            awk -F '\t' -v name="$expected_name" -v email="$expected_email" \
+              '$1 != name || $2 != email || $3 != name || $4 != email { print; exit 1 }'
+          then
+            echo "All commits must use $expected_name <$expected_email>."
+            exit 1
+          fi
