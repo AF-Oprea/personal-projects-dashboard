@@ -6,7 +6,7 @@
 
 <sub>A living journal of whatever I'm building, breaking, or over-engineering this week.</sub>
 
-<img src="assets/pulse.svg?v=20260919T213614Z" alt="Projects percent completed" width="880" />
+<img src="assets/pulse-v2.svg" alt="Projects percent completed" width="880" />
 
 </div>
 
