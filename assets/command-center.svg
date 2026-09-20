@@ -4,7 +4,7 @@
 <rect x="1.2" y="1.2" width="877.6" height="8830.6" rx="22.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="24" y="46" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="24" y="64" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · all updates · last 30 days · Europe/Bucharest · when · nick · action</text>
-<text x="856" y="52" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-20 23:44 EEST</text>
+<text x="856" y="52" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-20 23:59 EEST</text>
 <rect x="24" y="76" width="832" height="8705.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="38" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="842" y="98" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 30 days · Europe/Bucharest · when · nick · action</text>
@@ -14,8 +14,8 @@
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="38" y="124" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 9</text>
-<text x="38" y="142.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 8</text>
+<text x="38" y="124" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 8</text>
+<text x="38" y="142.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 7</text>
 <circle cx="42" cy="154.0" r="3.5" fill="#c9b896"/>
 <text x="52" y="158.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-20 01:27 EEST · PPCV · synchronize project logos</text>
 <circle cx="42" cy="169.0" r="3.5" fill="#c9b896"/>
@@ -30,9 +30,9 @@
 <text x="52" y="233.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-20 00:29 EEST · PPCV · cleanup removal</text>
 <circle cx="42" cy="244.0" r="3.5" fill="#c9b896"/>
 <text x="52" y="248.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-20 00:27 EEST · PPCV · deduplicate and rank stream cards</text>
-<circle cx="42" cy="259.0" r="3.5" fill="#c9b896"/>
-<text x="52" y="263.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 23:53 EEST · PPCV · sort PPCV projects by complexity</text>
-<text x="38" y="284.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 566</text>
+<text x="38" y="269.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 567</text>
+<circle cx="42" cy="281.0" r="3.5" fill="#c9b896"/>
+<text x="52" y="285.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 23:53 EEST · PPCV · sort PPCV projects by complexity</text>
 <circle cx="42" cy="296.0" r="3.5" fill="#ff6b5e"/>
 <text x="52" y="300.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 23:28 EEST · MOS · roadmap gate update</text>
 <circle cx="42" cy="311.0" r="3.5" fill="#ff6b5e"/>
@@ -1166,5 +1166,5 @@
 <circle cx="42" cy="8771.0" r="3.5" fill="#3fb950"/>
 <text x="52" y="8775.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 01:59 EEST · runguard · release ship</text>
 </g>
-<text x="24" y="8819.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 9 in 24h · 575 in 30d · when · nick · action · no XP</text>
+<text x="24" y="8819.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 8 in 24h · 575 in 30d · when · nick · action · no XP</text>
 </svg>
