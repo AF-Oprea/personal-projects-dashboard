@@ -4,7 +4,7 @@
 <rect x="1.2" y="1.2" width="877.6" height="8866.6" rx="22.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="24" y="46" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="24" y="64" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · all updates · last 30 days · Europe/Bucharest · when · nick · action</text>
-<text x="856" y="52" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-20 16:19 EEST</text>
+<text x="856" y="52" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-20 16:34 EEST</text>
 <rect x="24" y="76" width="832" height="8741.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="38" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="842" y="98" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 30 days · Europe/Bucharest · when · nick · action</text>
@@ -14,7 +14,7 @@
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="38" y="124" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 36</text>
+<text x="38" y="124" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 30</text>
 <text x="38" y="142.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LATEST PER STREAM · 3</text>
 <circle cx="42" cy="154.0" r="3.5" fill="#c9b896"/>
 <text x="52" y="158.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-20 01:28 EEST · PPCV · bust PPCV logo asset cache</text>
@@ -22,7 +22,7 @@
 <text x="52" y="173.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 23:28 EEST · MOS · roadmap gate update</text>
 <circle cx="42" cy="184.0" r="3.5" fill="#c47b4a"/>
 <text x="52" y="188.0" fill="#e8e4d6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:36 EEST · AAT · documentation update</text>
-<text x="38" y="209.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">MORE LAST 24H · 33</text>
+<text x="38" y="209.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">MORE LAST 24H · 27</text>
 <circle cx="42" cy="221.0" r="3.5" fill="#c9b896"/>
 <text x="52" y="225.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-20 01:27 EEST · PPCV · synchronize project logos</text>
 <circle cx="42" cy="236.0" r="3.5" fill="#c9b896"/>
@@ -77,19 +77,19 @@
 <text x="52" y="600.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 17:08 EEST · PPCV · status refresh</text>
 <circle cx="42" cy="611.0" r="3.5" fill="#c47b4a"/>
 <text x="52" y="615.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:35 EEST · AAT · release ship</text>
-<circle cx="42" cy="626.0" r="3.5" fill="#c9b896"/>
-<text x="52" y="630.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:27 EEST · PPCV · activity update</text>
-<circle cx="42" cy="641.0" r="3.5" fill="#c9b896"/>
-<text x="52" y="645.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:26 EEST · PPCV · activity update</text>
-<circle cx="42" cy="656.0" r="3.5" fill="#c9b896"/>
-<text x="52" y="660.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:25 EEST · PPCV · activity update</text>
-<circle cx="42" cy="671.0" r="3.5" fill="#c9b896"/>
-<text x="52" y="675.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:25 EEST · PPCV · status refresh</text>
-<circle cx="42" cy="686.0" r="3.5" fill="#c9b896"/>
-<text x="52" y="690.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:23 EEST · PPCV · activity update</text>
-<circle cx="42" cy="701.0" r="3.5" fill="#c47b4a"/>
-<text x="52" y="705.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:22 EEST · AAT · release ship</text>
-<text x="38" y="726.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 539</text>
+<text x="38" y="636.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 545</text>
+<circle cx="42" cy="648.0" r="3.5" fill="#c9b896"/>
+<text x="52" y="652.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:27 EEST · PPCV · activity update</text>
+<circle cx="42" cy="663.0" r="3.5" fill="#c9b896"/>
+<text x="52" y="667.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:26 EEST · PPCV · activity update</text>
+<circle cx="42" cy="678.0" r="3.5" fill="#c9b896"/>
+<text x="52" y="682.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:25 EEST · PPCV · activity update</text>
+<circle cx="42" cy="693.0" r="3.5" fill="#c9b896"/>
+<text x="52" y="697.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:25 EEST · PPCV · status refresh</text>
+<circle cx="42" cy="708.0" r="3.5" fill="#c9b896"/>
+<text x="52" y="712.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:23 EEST · PPCV · activity update</text>
+<circle cx="42" cy="723.0" r="3.5" fill="#c47b4a"/>
+<text x="52" y="727.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 16:22 EEST · AAT · release ship</text>
 <circle cx="42" cy="738.0" r="3.5" fill="#c47b4a"/>
 <text x="52" y="742.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-19 15:47 EEST · AAT · release ship</text>
 <circle cx="42" cy="753.0" r="3.5" fill="#22d3ee"/>
@@ -1169,5 +1169,5 @@
 <circle cx="42" cy="8808.0" r="3.5" fill="#3fb950"/>
 <text x="52" y="8812.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-25 01:59 EEST · runguard · release ship</text>
 </g>
-<text x="24" y="8855.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 36 in 24h · 575 in 30d · when · nick · action · no XP</text>
+<text x="24" y="8855.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 30 in 24h · 575 in 30d · when · nick · action · no XP</text>
 </svg>
