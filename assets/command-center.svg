@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 6786.0" width="880" height="6786.0" role="img" aria-label="Command Center — Live Stream last 30 days (public)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 6771.0" width="880" height="6771.0" role="img" aria-label="Command Center — Live Stream last 30 days (public)">
 <title>Command Center (public)</title>
-<rect width="880" height="6786.0" rx="24" fill="#07080b"/>
-<rect x="1.2" y="1.2" width="877.6" height="6783.6" rx="22.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
+<rect width="880" height="6771.0" rx="24" fill="#07080b"/>
+<rect x="1.2" y="1.2" width="877.6" height="6768.6" rx="22.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="24" y="46" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="24" y="64" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · all updates · last 30 days · Europe/Bucharest · when · nick · action</text>
-<text x="856" y="52" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-25 16:27 EEST</text>
-<rect x="24" y="76" width="832" height="6658.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
+<text x="856" y="52" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-09-25 16:43 EEST</text>
+<rect x="24" y="76" width="832" height="6643.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="38" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="842" y="98" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 30 days · Europe/Bucharest · when · nick · action</text>
 <defs>
 <clipPath id="live-stream-clip-pub">
-<rect x="24" y="76" width="832" height="6658.0"/>
+<rect x="24" y="76" width="832" height="6643.0"/>
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="38" y="124" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 440</text>
+<text x="38" y="124" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 439</text>
 <circle cx="42" cy="136.0" r="3.5" fill="#c9b896"/>
 <text x="52" y="140.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-20 01:28 EEST · PPCV · bust PPCV logo asset cache</text>
 <circle cx="42" cy="151.0" r="3.5" fill="#c9b896"/>
@@ -893,8 +893,6 @@
 <text x="52" y="6695.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:48 EEST · runguard · release ship</text>
 <circle cx="42" cy="6706.0" r="3.5" fill="#3fb950"/>
 <text x="52" y="6710.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:47 EEST · runguard · security hardening</text>
-<circle cx="42" cy="6721.0" r="3.5" fill="#3fb950"/>
-<text x="52" y="6725.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">08-26 16:33 EEST · runguard · bug fix</text>
 </g>
-<text x="24" y="6772.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 0 in 24h · 440 in 30d · when · nick · action · no XP</text>
+<text x="24" y="6757.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 0 in 24h · 439 in 30d · when · nick · action · no XP</text>
 </svg>
