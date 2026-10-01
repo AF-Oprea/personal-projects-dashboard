@@ -13,24 +13,34 @@ jobs:
           fetch-depth: 0
       - name: Require AF-Oprea as author and committer
         shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PUSH_BEFORE: ${{ github.event.before }}
         run: |
           set -euo pipefail
           expected_name='AF-Oprea'
           expected_email='37816944+AF-Oprea@users.noreply.github.com'
-          if [ "${GITHUB_EVENT_NAME}" = "pull_request" ]; then
-            base_sha="${{ github.event.pull_request.base.sha }}"
-            range="${base_sha}..HEAD"
+          # pull_request checkouts are a merge commit (author=display name, committer=GitHub).
+          # Only scan PR head commits: base..head.sha — never include the ephemeral merge.
+          if [ "${EVENT_NAME}" = "pull_request" ]; then
+            range="${PR_BASE_SHA}..${PR_HEAD_SHA}"
           else
-            # Push: only commits unique to this push (avoid ancient history / merge commits)
-            before="${{ github.event.before }}"
-            if [ -n "${before}" ] && [ "${before}" != "0000000000000000000000000000000000000000" ] && git cat-file -e "${before}^{commit}" 2>/dev/null; then
-              range="${before}..HEAD"
+            if [ -n "${PUSH_BEFORE:-}" ] && [ "${PUSH_BEFORE}" != "0000000000000000000000000000000000000000" ] && git cat-file -e "${PUSH_BEFORE}^{commit}" 2>/dev/null; then
+              range="${PUSH_BEFORE}..HEAD"
             else
-              range="HEAD"
+              range="-1 HEAD"
             fi
           fi
           echo "Checking commit identity range: ${range}"
-          if ! git log --format='%an%x09%ae%x09%cn%x09%ce%x09%s' ${range} | \
+          if [ "${range}" = "-1 HEAD" ]; then
+            log_out="$(git log -1 --format='%an%x09%ae%x09%cn%x09%ce%x09%s' HEAD)"
+          else
+            log_out="$(git log --format='%an%x09%ae%x09%cn%x09%ce%x09%s' ${range})"
+          fi
+          echo "$log_out"
+          if ! printf '%s\n' "$log_out" | \
             awk -F '\t' -v name="$expected_name" -v email="$expected_email" \
               'NF && ($1 != name || $2 != email || $3 != name || $4 != email) { print; exit 1 }'
           then
