@@ -5,7 +5,7 @@ on:
   pull_request:
 
 jobs:
-  author:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,10 +17,24 @@ jobs:
           set -euo pipefail
           expected_name='AF-Oprea'
           expected_email='37816944+AF-Oprea@users.noreply.github.com'
-          if ! git log --format='%an%x09%ae%x09%cn%x09%ce' | \
+          if [ "${GITHUB_EVENT_NAME}" = "pull_request" ]; then
+            base_sha="${{ github.event.pull_request.base.sha }}"
+            range="${base_sha}..HEAD"
+          else
+            # Push: only commits unique to this push (avoid ancient history / merge commits)
+            before="${{ github.event.before }}"
+            if [ -n "${before}" ] && [ "${before}" != "0000000000000000000000000000000000000000" ] && git cat-file -e "${before}^{commit}" 2>/dev/null; then
+              range="${before}..HEAD"
+            else
+              range="HEAD"
+            fi
+          fi
+          echo "Checking commit identity range: ${range}"
+          if ! git log --format='%an%x09%ae%x09%cn%x09%ce%x09%s' ${range} | \
             awk -F '\t' -v name="$expected_name" -v email="$expected_email" \
-              '$1 != name || $2 != email || $3 != name || $4 != email { print; exit 1 }'
+              'NF && ($1 != name || $2 != email || $3 != name || $4 != email) { print; exit 1 }'
           then
             echo "All commits must use $expected_name <$expected_email>."
             exit 1
           fi
+          echo "OK: all commits in range use $expected_name <$expected_email>."
