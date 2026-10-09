@@ -44,7 +44,7 @@
 <rect x="785.0" y="110.0" width="17.0" height="8.0" rx="2" fill="#3fb950"/>
 <text x="812.5" y="128.0" text-anchor="middle" fill="#3fb950" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="154" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_stellami" class="stream_logo" data-stream="stellami" transform="translate(35.0,169.0) scale(0.9000)" opacity="1.0"><g transform="translate(-0 -0) scale(0.0390625 0.0390625)"><defs>
+<g id="stream_logo_stellami" class="stream_logo" data-stream="stellami" transform="translate(35.0,169.0) scale(0.9000)" opacity="0.42"><g transform="translate(-0 -0) scale(0.0390625 0.0390625)"><defs>
     <linearGradient id="stream_logo_stellami-gold" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#f5e6a8"/>
       <stop offset="45%" stop-color="#e8c57a"/>
@@ -326,7 +326,7 @@
 <rect x="785.0" y="668.0" width="27.5" height="8.0" rx="2" fill="#c9b896"/>
 <text x="812.5" y="686.0" text-anchor="middle" fill="#c9b896" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="712" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_easm" class="stream_logo" data-stream="easm" transform="translate(35.0,727.0) scale(0.9000)" opacity="1.0"><!-- Radar / scan eye - cyan -->
+<g id="stream_logo_easm" class="stream_logo" data-stream="easm" transform="translate(35.0,727.0) scale(0.9000)" opacity="0.42"><!-- Radar / scan eye - cyan -->
   <rect width="20" height="20" rx="4" fill="#083344"/>
   <circle cx="10" cy="10" r="6.5" fill="none" stroke="#22d3ee" stroke-width="1.2"/>
   <circle cx="10" cy="10" r="4" fill="none" stroke="#67e8f9" stroke-width="1"/>
@@ -438,5 +438,5 @@
 <rect x="785.0" y="916.0" width="27.5" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="934.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <text x="28" y="980" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.0% · Δ 24h +0.0% · Δ 7d +0.2% · Δ 30d +10.0% (% LOC · roadmap % on ring)</text>
-<text x="28" y="994" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-10-09T23:09:01Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
+<text x="28" y="994" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-10-09T23:24:01Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
 </svg>
