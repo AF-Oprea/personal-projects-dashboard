@@ -4,7 +4,7 @@
 <rect x="1.2" y="1.2" width="877.6" height="6520.6" rx="22.8" fill="none" stroke="rgba(232,228,214,0.12)"/>
 <text x="24" y="46" fill="#f4f1ea" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="600">Command Center</text>
 <text x="24" y="64" fill="#6f7380" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif">Live Stream · all updates · last 30 days · Europe/Bucharest · when · nick · action</text>
-<text x="856" y="52" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-10-12 14:45 EEST</text>
+<text x="856" y="52" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">2026-10-12 15:00 EEST</text>
 <rect x="24" y="76" width="832" height="6395.0" rx="12" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <text x="38" y="98" fill="#9a9aa8" font-size="11" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="1.2">LIVE STREAM</text>
 <text x="842" y="98" fill="#6f7380" font-size="10" text-anchor="end" font-family="ui-monospace, SFMono-Regular, monospace">last 30 days · Europe/Bucharest · when · nick · action</text>
@@ -14,7 +14,7 @@
 </clipPath>
 </defs>
 <g clip-path="url(#live-stream-clip-pub)">
-<text x="38" y="124" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 50</text>
+<text x="38" y="124" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">LAST 24H · 49</text>
 <circle cx="42" cy="136.0" r="3.5" fill="#ff7b72"/>
 <text x="52" y="140.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">10-11 23:18 EEST · WASH · feature work</text>
 <circle cx="42" cy="151.0" r="3.5" fill="#ff7b72"/>
@@ -113,9 +113,9 @@
 <text x="52" y="845.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">10-11 15:18 EEST · WASH · activity update</text>
 <circle cx="42" cy="856.0" r="3.5" fill="#ff7b72"/>
 <text x="52" y="860.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">10-11 15:02 EEST · WASH · weather lab update</text>
-<circle cx="42" cy="871.0" r="3.5" fill="#ff7b72"/>
-<text x="52" y="875.0" fill="#c9cdd6" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">10-11 14:59 EEST · WASH · mesh connectivity update</text>
-<text x="38" y="896.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 371</text>
+<text x="38" y="881.0" fill="#6f7380" font-size="10" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="0.8">EARLIER IN 30D · 372</text>
+<circle cx="42" cy="893.0" r="3.5" fill="#ff7b72"/>
+<text x="52" y="897.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">10-11 14:59 EEST · WASH · mesh connectivity update</text>
 <circle cx="42" cy="908.0" r="3.5" fill="#ff7b72"/>
 <text x="52" y="912.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">10-11 13:48 EEST · WASH · activity update</text>
 <circle cx="42" cy="923.0" r="3.5" fill="#ff7b72"/>
@@ -859,5 +859,5 @@
 <circle cx="42" cy="6458.0" r="3.5" fill="#ef4444"/>
 <text x="52" y="6462.0" fill="#9a9aa8" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">09-15 15:19 EEST · MF2FV · activity update</text>
 </g>
-<text x="24" y="6509.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 50 in 24h · 421 in 30d · when · nick · action · no XP</text>
+<text x="24" y="6509.0" fill="#6f7380" font-size="10" font-family="ui-monospace, SFMono-Regular, monospace">v0.2.3 · public · Live Stream · last 30 days · Europe/Bucharest · 49 in 24h · 421 in 30d · when · nick · action · no XP</text>
 </svg>
