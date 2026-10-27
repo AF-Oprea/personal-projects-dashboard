@@ -44,7 +44,7 @@
 <rect x="785.0" y="110.0" width="17.0" height="8.0" rx="2" fill="#3fb950"/>
 <text x="812.5" y="128.0" text-anchor="middle" fill="#3fb950" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="154" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_stellami" class="stream_logo" data-stream="stellami" transform="translate(35.0,169.0) scale(0.9000)" opacity="1.0"><g transform="translate(-0 -0) scale(0.0390625 0.0390625)"><defs>
+<g id="stream_logo_stellami" class="stream_logo" data-stream="stellami" transform="translate(35.0,169.0) scale(0.9000)" opacity="0.42"><g transform="translate(-0 -0) scale(0.0390625 0.0390625)"><defs>
     <linearGradient id="stream_logo_stellami-gold" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#f5e6a8"/>
       <stop offset="45%" stop-color="#e8c57a"/>
@@ -258,7 +258,7 @@
 <rect x="785.0" y="544.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="rgba(232,228,214,0.28)" stroke-width="0.85"/>
 <text x="812.5" y="562.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="588" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_ccdpc" class="stream_logo" data-stream="ccdpc" transform="translate(35.0,603.0) scale(0.9000)" opacity="1.0"><g transform="translate(-0 -0) scale(0.3125 0.3125)"><rect width="64" height="64" rx="14" fill="#f0e6a8"/>
+<g id="stream_logo_ccdpc" class="stream_logo" data-stream="ccdpc" transform="translate(35.0,603.0) scale(0.9000)" opacity="0.42"><g transform="translate(-0 -0) scale(0.3125 0.3125)"><rect width="64" height="64" rx="14" fill="#f0e6a8"/>
   <rect x="10" y="14" width="44" height="30" rx="6" fill="#1a0e0a"/>
   <circle cx="24" cy="28" r="4" fill="#fff6c8"/>
   <circle cx="40" cy="28" r="4" fill="#fff6c8"/>
@@ -459,6 +459,6 @@
 <rect x="785.0" y="978.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ff7b72" stroke-width="1.4"/>
 <rect x="785.0" y="978.0" width="41.2" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="996.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
-<text x="28" y="1042" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m -4.1% · Δ 24h -4.1% · Δ 7d -3.8% · Δ 30d +6.5% (% LOC · roadmap % on ring)</text>
-<text x="28" y="1056" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-10-20T19:29:30Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
+<text x="28" y="1042" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m -3.7% · Δ 24h -3.7% · Δ 7d -3.7% · Δ 30d +7.0% (% LOC · roadmap % on ring)</text>
+<text x="28" y="1056" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-10-27T20:43:39Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
 </svg>
