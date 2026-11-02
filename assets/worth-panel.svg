@@ -49,7 +49,7 @@
 <text x="60" y="111" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">stellami</text>
 <text x="260" y="111" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">4/5</text>
 <text x="316" y="111" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">5/5</text>
-<text x="380" y="111" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">167k</text>
+<text x="380" y="111" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">175k</text>
 <text x="452" y="111" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">111</text>
 <text x="508" y="111" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Python · JS · Sh · PS</text>
 <rect x="24" y="130" width="832" height="36" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
@@ -190,9 +190,9 @@
 <text x="60" y="531" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">EASM</text>
 <text x="260" y="531" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
 <text x="316" y="531" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
-<text x="380" y="531" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">6k</text>
+<text x="380" y="531" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">5k</text>
 <text x="452" y="531" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">80</text>
-<text x="508" y="531" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Python · Sh · HTML · YAML</text>
+<text x="508" y="531" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Python · Sh · YAML · HTML</text>
 <rect x="24" y="550" width="832" height="36" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
 <g id="stream_logo_peri" class="stream_logo" data-stream="peri" transform="translate(34.0,559.0) scale(0.9000)" opacity="1.0"><!-- Candlestick chart - amber (stable distinct hue) -->
   <rect width="20" height="20" rx="4" fill="#422006"/>
@@ -232,7 +232,7 @@
 <text x="60" y="657" fill="#f4f1ea" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">WASH</text>
 <text x="260" y="657" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">1/5</text>
 <text x="316" y="657" fill="#f4f1ea" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">2/5</text>
-<text x="380" y="657" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">23.0k</text>
+<text x="380" y="657" fill="#9a9aa8" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">23.1k</text>
 <text x="452" y="657" fill="#e4c078" font-size="14" font-family="ui-monospace, SFMono-Regular, monospace">133</text>
 <text x="508" y="657" fill="#9a9aa8" font-size="11" font-family="ui-monospace, SFMono-Regular, monospace">Python · JS · Sh · HTML</text>
 <text x="28" y="688" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">order: complexity → LOC → utility · CXP/UTIL from roadmap.json · LOC = non-blank source lines in local clones · index = round(100 × utility ÷ (complexity + 0.5)) · chapters on pulse.svg only</text>
