@@ -118,7 +118,7 @@
 <rect x="785.0" y="234.0" width="55.0" height="8.0" rx="2" fill="none" stroke="rgba(232,228,214,0.55)" stroke-width="1.15" stroke-dasharray="3 1.6"/>
 <text x="812.5" y="252.0" text-anchor="middle" fill="#8a8e9a" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
 <rect x="24" y="278" width="832" height="56" rx="10" fill="#101218" stroke="rgba(232,228,214,0.08)"/>
-<g id="stream_logo_aat" class="stream_logo" data-stream="aat" transform="translate(35.0,293.0) scale(0.9000)" opacity="0.42"><!-- Real AAT launcher: OBD/ELM plug + car (copper #C47B4A) — from android vector -->
+<g id="stream_logo_aat" class="stream_logo" data-stream="aat" transform="translate(35.0,293.0) scale(0.9000)" opacity="1.0"><!-- Real AAT launcher: OBD/ELM plug + car (copper #C47B4A) — from android vector -->
   <rect width="20" height="20" rx="4" fill="#1A1D23"/>
   <g transform="translate(0.15 0.4) scale(0.182)">
     <path fill="#A8683A" d="M28,62 C30,54 38,50 48,49 L62,49 C72,50 80,54 82,62 L84,68 L26,68 Z"/>
@@ -459,6 +459,6 @@
 <rect x="785.0" y="978.0" width="55.0" height="8.0" rx="2" fill="rgba(255,255,255,0.11)" stroke="#ff7b72" stroke-width="1.4"/>
 <rect x="785.0" y="978.0" width="41.2" height="8.0" rx="2" fill="#ff7b72"/>
 <text x="812.5" y="996.0" text-anchor="middle" fill="#ff7b72" font-size="7" font-family="ui-sans-serif, system-ui, sans-serif">Launch</text>
-<text x="28" y="1042" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.0% · Δ 24h -2.8% · Δ 7d -2.2% · Δ 30d +7.3% (% LOC · roadmap % on ring)</text>
-<text x="28" y="1056" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-11-01T23:31:20Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
+<text x="28" y="1042" fill="#9a9aa8" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">Code Δ 30m +0.1% · Δ 24h -2.7% · Δ 7d -2.2% · Δ 30d +7.4% (% LOC · roadmap % on ring)</text>
+<text x="28" y="1056" fill="#6f7380" font-size="9" font-family="ui-sans-serif, system-ui, sans-serif">2026-11-02T09:41:47Z · 6 chapters · striped = out of track · empty track = pending · sorted complexity → LOC</text>
 </svg>
