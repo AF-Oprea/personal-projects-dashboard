@@ -3,7 +3,10 @@ set -eu
 
 expected_name='AF-Oprea'
 expected_email='37816944+AF-Oprea@users.noreply.github.com'
+zero='0000000000000000000000000000000000000000'
+remote_name="${1:-origin}"
 
+# stdin (pre-push protocol): <local ref> <local sha> <remote ref> <remote sha>, one line per pushed ref.
 while read -r local_ref local_sha remote_ref remote_sha; do
   [ "$local_sha" = "0000000000000000000000000000000000000000" ] && continue
   range="$local_sha"
@@ -20,4 +23,28 @@ while read -r local_ref local_sha remote_ref remote_sha; do
     printf '%s\n' "Invalid commit: $invalid_commit" >&2
     exit 1
   fi
+
+  # No Co-authored-by lines on this public repo: any line starting with "Co-authored-by:"
+  # (any case), read one commit at a time. Range: remote..local, or for a new remote ref
+  # the commits not already on this remote.
+  if [ "$remote_sha" = "$zero" ]; then
+    set -- "$local_sha" --not "--remotes=$remote_name"
+  else
+    set -- "$remote_sha..$local_sha"
+  fi
+  if ! commits="$(git rev-list "$@")"; then
+    printf '%s\n' "Push rejected: cannot list the commits pushed to $remote_ref." >&2
+    exit 1
+  fi
+  for c in $commits; do
+    if ! msg="$(git log -1 --format=%B "$c")"; then
+      printf '%s\n' "Push rejected: cannot read commit $c." >&2
+      exit 1
+    fi
+    if lines="$(printf '%s\n' "$msg" | grep -iE '^[[:space:]]*co-authored-by[[:space:]]*:')"; then
+      printf '%s\n' "Push rejected: commit $c ($local_ref) has a Co-authored-by line; not allowed on this public repo:" "$lines" >&2
+      printf '%s\n' "Nothing was pushed. Reword the local commit to drop the line; never force-push." >&2
+      exit 1
+    fi
+  done
 done

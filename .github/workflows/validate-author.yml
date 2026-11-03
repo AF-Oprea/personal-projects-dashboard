@@ -32,7 +32,8 @@ jobs:
           # pull_request checkouts are a merge commit (author=display name, committer=GitHub).
           # Only scan PR head commits: base..head.sha — never include the ephemeral merge.
           # push: before..after. New branch (zero before) or a before that is gone
-          # (force-push): commits not reachable from any other remote branch.
+          # (force-push): commits not reachable from any other remote branch; if there
+          # is no other branch either, fail (the range cannot be determined).
           if [ "${EVENT_NAME}" = "pull_request" ]; then
             rev_args=("${PR_BASE_SHA}..${PR_HEAD_SHA}")
           else
@@ -57,13 +58,17 @@ jobs:
               if [ "${#others[@]}" -gt 0 ]; then
                 rev_args=("${PUSH_AFTER}" --not "${others[@]}")
               else
-                echo "::warning::No base found for this push; checking only ${PUSH_AFTER}."
-                rev_args=(-1 "${PUSH_AFTER}")
+                # Fail closed: without a base the pushed range cannot be determined.
+                echo "::error::No base found for this push (before missing and no other branch); cannot determine the pushed commits."
+                exit 1
               fi
             fi
           fi
           echo "Checking commit range: ${rev_args[*]}"
-          log_out="$(git log --format='%H%x09%an%x09%ae%x09%cn%x09%ce%x09%s' "${rev_args[@]}")"
+          if ! log_out="$(git log --format='%H%x09%an%x09%ae%x09%cn%x09%ce%x09%s' "${rev_args[@]}")"; then
+            echo "::error::git log failed for ${rev_args[*]}."
+            exit 1
+          fi
           echo "$log_out"
           fail=0
           if ! printf '%s\n' "$log_out" | \
@@ -73,8 +78,17 @@ jobs:
             echo "::error::All commits must use $expected_name <$expected_email>."
             fail=1
           fi
-          for c in $(git rev-list "${rev_args[@]}"); do
-            if lines="$(git log -1 --format=%B "$c" | grep -inE '^[[:space:]]*co-authored-by[[:space:]]*:')"; then
+          # Fail closed when git fails: never treat an unreadable range or message as clean.
+          if ! commits="$(git rev-list "${rev_args[@]}")"; then
+            echo "::error::git rev-list failed for ${rev_args[*]}."
+            exit 1
+          fi
+          for c in $commits; do
+            if ! msg="$(git log -1 --format=%B "$c")"; then
+              echo "::error::git log failed for commit $c."
+              exit 1
+            fi
+            if lines="$(printf '%s\n' "$msg" | grep -inE '^[[:space:]]*co-authored-by[[:space:]]*:')"; then
               echo "::error::Commit $c has a Co-authored-by line (not allowed on this public repo): $lines"
               fail=1
             fi
