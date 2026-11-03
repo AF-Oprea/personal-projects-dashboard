@@ -5,38 +5,37 @@ expected_name='AF-Oprea'
 expected_email='37816944+AF-Oprea@users.noreply.github.com'
 zero='0000000000000000000000000000000000000000'
 remote_name="${1:-origin}"
+tab="$(printf '\t')"
+expected_ident="$expected_name$tab$expected_email$tab$expected_name$tab$expected_email"
 
 # stdin (pre-push protocol): <local ref> <local sha> <remote ref> <remote sha>, one line per pushed ref.
 while read -r local_ref local_sha remote_ref remote_sha; do
-  [ "$local_sha" = "0000000000000000000000000000000000000000" ] && continue
-  range="$local_sha"
-  if [ "$remote_sha" != "0000000000000000000000000000000000000000" ]; then
-    range="$remote_sha..$local_sha"
-  fi
-
-  invalid_commit="$(git log "$range" --format='%H%x09%an%x09%ae%x09%cn%x09%ce' |
-    awk -F '\t' -v name="$expected_name" -v email="$expected_email" '
-      $2 != name || $3 != email || $4 != name || $5 != email { print; exit }')"
-
-  if [ -n "$invalid_commit" ]; then
-    printf '%s\n' "Push rejected: every commit must use $expected_name <$expected_email>." >&2
-    printf '%s\n' "Invalid commit: $invalid_commit" >&2
-    exit 1
-  fi
-
-  # No Co-authored-by lines on this public repo: any line starting with "Co-authored-by:"
-  # (any case), read one commit at a time. Range: remote..local, or for a new remote ref
-  # the commits not already on this remote.
+  [ "$local_sha" = "$zero" ] && continue
+  # Range for both checks: remote..local, or for a new remote ref only the commits
+  # not already on this remote (the history already there is not re-checked).
   if [ "$remote_sha" = "$zero" ]; then
     set -- "$local_sha" --not "--remotes=$remote_name"
   else
     set -- "$remote_sha..$local_sha"
   fi
+
   if ! commits="$(git rev-list "$@")"; then
     printf '%s\n' "Push rejected: cannot list the commits pushed to $remote_ref." >&2
     exit 1
   fi
+  # One list, one commit at a time, for both checks: no pipes that could hide a git failure.
   for c in $commits; do
+    if ! ident="$(git log -1 --format='%an%x09%ae%x09%cn%x09%ce' "$c")"; then
+      printf '%s\n' "Push rejected: cannot read commit $c." >&2
+      exit 1
+    fi
+    if [ "$ident" != "$expected_ident" ]; then
+      printf '%s\n' "Push rejected: every commit must use $expected_name <$expected_email>." >&2
+      printf '%s\n' "Invalid commit: $c	$ident" >&2
+      exit 1
+    fi
+
+    # No Co-authored-by lines on this public repo: any line starting with "Co-authored-by:" (any case).
     if ! msg="$(git log -1 --format=%B "$c")"; then
       printf '%s\n' "Push rejected: cannot read commit $c." >&2
       exit 1
